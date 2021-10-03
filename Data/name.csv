@@ -1,0 +1,938 @@
+,Nombre
+0,Lermoos – Grubigstein
+1,Latemar – Obereggen/Pampeago/Predazzo
+2,Arosa Lenzerheide
+3,Ischgl/Samnaun – Silvretta Arena
+4,Ski Juwel Alpbachtal Wildschönau
+5,Val Gardena (Gröden)
+6,Steinplatte/Winklmoosalm – Waidring/Reit im Winkl
+7,Arber
+8,Hochoetz – Oetz
+9,KitzSki – Kitzbühel/Kirchberg
+10,Racines-Giovo (Ratschings-Jaufen)/Malga Calice (Kalcheralm)
+11,Wildkogel – Neukirchen/Bramberg
+12,Wildkogel – Neukirchen/Bramberg
+13,Belpiano (Schöneben)/Malga San Valentino (Haideralm)
+14,Almenwelt Lofer
+15,Saalbach Hinterglemm Leogang Fieberbrunn (Skicircus)
+16,Biberwier – Marienberg
+17,Sölden
+18,Tauplitz – Bad Mitterndorf
+19,Gitschberg Jochtal
+20,Ofterschwang/Gunzesried – Ofterschwanger Horn
+21,Axamer Lizum
+22,Schlick 2000 – Fulpmes
+23,Scuol – Motta Naluns
+24,Ponte di Legno/Tonale/Presena Glacier/Temù (Pontedilegno-Tonale)
+25,of Monte Bondone
+26,Ladurns
+27,Speikboden – Skiworld Ahrntal
+28,Sonnenkopf – Klösterle
+29,Kitzsteinhorn/Maiskogel – Kaprun
+30,Wildhaus – Gamserrugg (Toggenburg)
+31,Mönichkirchen/Mariensee
+32,Elm im Sernftal
+33,Madonna di Campiglio/Pinzolo/Folgàrida/Marilleva
+34,Paganella – Andalo
+35,Ehrwalder Wettersteinbahnen – Ehrwald
+36,Zillertal Arena – Zell am Ziller/Gerlos/Königsleiten/Hochkrimml
+37,San Martino di Castrozza
+38,Glungezer – Tulfes
+39,Folgaria/Fiorentini
+40,Klausberg – Skiworld Ahrntal
+41,Kristberg – Silbertal
+42,Flumserberg
+43,Pejo
+44,of Rosskopf
+45,Gurgl – Obergurgl-Hochgurgl
+46,of Pizol below the glacier
+47,Hohsaas – Saas-Grund
+48,Schilthorn – Mürren/Lauterbrunnen
+49,Fichtelberg – Oberwiesenthal
+50,SkiWelt Wilder Kaiser-Brixental
+51,Serfaus-Fiss-Ladis
+52,St. Anton/St. Christoph/Stuben/Lech/Zürs/Warth/Schröcken – Ski Arlberg
+53,St. Moritz – Corviglia
+54,Schladming – Planai/Hochwurzen/Hauser Kaibling/Reiteralm (4-Berge-Skischaukel)
+55,Kaltenbach – Hochzillertal/Hochfügen (SKi-optimal)
+56,Tignes/Val d'Isère
+57,Les 3 Vallées – Val Thorens/Les Menuires/Méribel/Courchevel
+58,Mayrhofen – Penken/Ahorn/Rastkogel/Eggalm
+59,Zermatt/Breuil-Cervinia/Valtournenche – Matterhorn
+60,Hochkönig – Maria Alm/Dienten/Mühlbach
+61,Silvretta Montafon
+62,Kronplatz (Plan de Corones)
+63,Laax/Flims/Falera
+64,Obertauern
+65,Snow Space Salzburg – Flachau/Wagrain/St. Johann-Alpendorf
+66,Schmittenhöhe – Zell am See
+67,Adelboden/Lenk – Chuenisbärgli/Silleren/Hahnenmoos/Metsch
+68,Grandvalira – Pas de la Casa/Grau Roig/Soldeu/El Tarter/Canillo/Encamp
+69,Bad Gastein/Bad Hofgastein – Schlossalm/Angertal/Stubnerkogel
+70,Andermatt/Oberalp/Sedrun
+71,La Plagne (Paradiski)
+72,Serre Chevalier – Briançon/Chantemerle/Villeneuve-la-Salle/Le Monêtier-les-Bains
+73,Aletsch Arena – Riederalp/Bettmeralp/Fiesch Eggishorn
+74,on the famous Alpe di Siusi (Seiser Alm) guarantees an amazing winter holiday. Europe’s largest mountain pasture
+75,4 Vallées – Verbier/La Tzoumaz/Nendaz/Veysonnaz/Thyon
+76,Les 2 Alpes
+77,Titlis – Engelberg
+78,Les Portes du Soleil – Morzine/Avoriaz/Les Gets/Châtel/Morgins/Champéry
+79,Alta Badia
+80,Turracher Höhe
+81,Livigno
+82,Katschberg
+83,Belvedere/Col Rodella/Ciampac/Buffaure – Canazei/Campitello/Alba/Pozza di Fassa
+84,Großglockner Resort Kals-Matrei
+85,Damüls Mellau
+86,Passo San Pellegrino/Falcade
+87,Kleine Scheidegg/Männlichen – Grindelwald/Wengen
+88,Via Lattea – Sestriere/Sauze d’Oulx/San Sicario/Claviere/Montgenèvre
+89,Trysil
+90,Parsenn (Davos Klosters)
+91,Baqueira/Beret
+92,Alpe d'Huez
+93,Obersaxen/Mundaun/Val Lumnezia
+94,Le Grand Massif – Flaine/Les Carroz/Morillon/Samoëns/Sixt
+95,Les Arcs/Peisey-Vallandry (Paradiski)
+96,Nassfeld – Hermagor
+97,Arabba/Marmolada
+98,Großarltal/Dorfgastein
+99,Megève/Saint-Gervais
+100,Jakobshorn (Davos Klosters)
+101,Espace Diamant – Les Saisies/Notre-Dame-de-Bellecombe/Praz sur Arly/Flumet/Crest-Voland
+102,Stubai Glacier (Stubaier Gletscher)
+103,Zauchensee/Flachauwinkl
+104,Corvatsch/Furtschellas
+105,Hemsedal
+106,Alpe Lusia – Moena/Bellamonte
+107,Åre
+108,Alagna Valsesia/Gressoney-La-Trinité/Champoluc/Frachey (Monterosa Ski)
+109,3 Zinnen Dolomites – Helm/Stiergarten/Rotwand/Kreuzbergpass
+110,Radstadt/Altenmarkt
+111,Dachstein West – Gosau/Russbach/Annaberg
+112,Galtür – Silvapark
+113,Civetta – Alleghe/Selva di Cadore/Palafavera/Zoldo
+114,St. Johann in Tirol/Oberndorf – Harschbichl
+115,Hochzeiger – Jerzens
+116,Formigal
+117,Hintertux Glacier (Hintertuxer Gletscher)
+118,Hafjell
+119,Rinderberg/Saanerslochgrat/Horneggli – Zweisimmen/Saanenmöser/Schönried/St. Stephan
+120,Cortina d'Ampezzo
+121,Saas-Fee
+122,Plose – Brixen (Bressanone)
+123,Les Sybelles – Le Corbier/La Toussuire/Les Bottières/St Colomban des Villards/St Sorlin/St Jean d’Arves
+124,First – Grindelwald
+125,Jasná Nízke Tatry – Chopok
+126,Espace San Bernardo – La Rosière/La Thuile
+127,Fellhorn/Kanzelwand – Oberstdorf/Riezlern
+128,Ruka
+129,Ylläs
+130,Hinterstoder – Höss
+131,of Hemavan
+132,Kvitfjell
+133,Kreischberg
+134,Stoos – Fronalpstock/Klingenstock
+135,Kühtai
+136,Galibier Thabor – Valmeinier/Valloire
+137,Le Grand Domaine – Valmorel/Doucy/Celliers/St François Longchamp
+138,Nauders am Reschenpass – Bergkastel
+139,Idre Fjäll
+140,Vars/Risoul – La Forêt Blanche
+141,La Molina/Masella – Alp2500
+142,Espace Lumière – Pra Loup/Val d’Allos
+143,Pitztal Glacier (Pitztaler Gletscher)
+144,Bansko
+145,Lauchernalp – Lötschental
+146,Ehrwalder Alm – Ehrwald
+147,St. Jakob im Defereggental – Brunnalm
+148,Tandådalen/Hundfjället (Sälen)
+149,Alpe Cermis – Cavalese
+150,Hoch-Ybrig – Unteriberg/Oberiberg
+151,Myrkdalen
+152,Val Cenis – Lanslevillard/Lanslebourg/Termignon
+153,Les Contamines/Hauteluce
+154,Les 7 Laux – Prapoutel/Le Pleynet/Pipay
+155,Sillian – Thurntaler (Hochpustertal)
+156,Riesneralm – Donnersbachwald
+157,Brandnertal – Brand/Bürserberg
+158,Bad Kleinkirchheim
+159,Brigels/Waltensburg/Andiast
+160,Meiringen-Hasliberg
+161,La Clusaz/Manigod
+162,Espace Villard Corrençon – Villard-de-Lans/Corrençon-en-Vercors
+163,Grimentz/Zinal
+164,Filzmoos
+165,Ifen
+166,Christlum – Achenkirch
+167,Loser – Altaussee
+168,Pyhä
+169,Golm
+170,Lindvallen/Högfjället (Sälen)
+171,Val Senales Glacier (Schnalstaler Gletscher)
+172,Spieljoch – Fügen
+173,Flachauwinkl/Kleinarl (Shuttleberg)
+174,Sierra Nevada – Pradollano
+175,Sudelfeld – Bayrischzell
+176,Sulden am Ortler (Solda all'Ortles)
+177,Diedamskopf – Schoppernau
+178,Dundret Lapland – Gällivare
+179,Gargellen
+180,Bergeralm – Steinach am Brenner
+181,Madrisa (Davos Klosters)
+182,Hovden
+183,Grosseck/Speiereck – Mauterndorf/St. Michael
+184,Oberjoch (Bad Hindelang) – Iseler
+185,Crans-Montana
+186,Rauriser Hochalmbahnen – Rauris
+187,See
+188,of Špindlerův Mlýn
+189,Grand Tourmalet/Pic du Midi – La Mongie/Barèges
+190,Kaunertal Glacier (Kaunertaler Gletscher)
+191,Disentis
+192,Berwang/Bichlbach/Rinnen
+193,Meran 2000
+194,Les Houches/Saint-Gervais – Prarion/Bellevue (Chamonix)
+195,Kappl
+196,Lachtal
+197,Hörnerbahn – Bolsterlang
+198,Isola 2000
+199,Brévent/Flégère (Chamonix)
+200,Gerlitzen
+201,Moelltal Glacier (Mölltaler Gletscher)
+202,Schwemmalm
+203,Pal/Arinsal – La Massana (Vallnord)
+204,Dévoluy – Superdévoluy/La Joue du Loup
+205,Les Orres
+206,Skeikampen – Gausdal
+207,of Hochficht
+208,Grossglockner Heiligenblut
+209,Zettersfeld – Lienz
+210,Bardonecchia
+211,Chamrousse
+212,Orcières Merlette 1850
+213,Cerler
+214,Pfelders (Moos in Passeier)
+215,Brauneck – Lenggries/Wegscheid
+216,Savognin
+217,Grüsch Danusa
+218,Rosa Khutor
+219,Auron (Saint-Etienne-de-Tinée)
+220,Gemsstock – Andermatt
+221,Rosshütte – Seefeld
+222,Vemdalsskalet
+223,Zuoz – Pizzet/Albanas
+224,Diavolezza/Lagalb
+225,Szczyrk Mountain Resort
+226,Mondolè Ski – Artesina/Frabosa Soprana/Prato Nevoso
+227,Alto Sangro – Roccaraso/Rivisondoli
+228,Saint-Lary-Soulan
+229,Vent
+230,Splügen – Tambo
+231,Malbun
+232,Feldberg – Seebuck/Grafenmatt/Fahl
+233,Grands Montets – Argentière (Chamonix)
+234,Ordino Arcalís
+235,Garmisch-Classic – Garmisch-Partenkirchen
+236,Venet – Landeck/Zams/Fliess
+237,Gaustablikk – Rjukan
+238,Bellwald
+239,of Sportgastein
+240,Ax 3 Domaines – Ax-les-Thermes
+241,Le Grand Bornand
+242,Villars/Gryon/Les Diablerets
+243,Puy-Saint-Vincent
+244,Valfréjus
+245,Spitzingsee-Tegernsee
+246,Rifflsee
+247,Tatranská Lomnica
+248,Weissee Gletscherwelt – Uttendorf
+249,Werfenweng
+250,Bormio – Cima Bianca
+251,Eggli/La Videmanette – Gstaad/Saanen/Rougemont
+252,Belalp – Blatten
+253,Les Portes du Mont-Blanc – Combloux/Megève le Jaillet/La Giettaz
+254,Rinerhorn (Davos Klosters)
+255,Walmendingerhorn/Heuberg – Mittelberg/Hirschegg
+256,Piau-Engaly
+257,Grächen
+258,Lavarone
+259,Riksgränsen
+260,Muttereralm – Mutters/Götzens
+261,Wurzeralm – Spital am Pyhrn
+262,Valberg/Beuil les Launes
+263,Anzère
+264,Kopaonik
+265,La Norma
+266,Aprica
+267,Bukovel
+268,Peyragudes
+269,of Tärnaby in the historic Swedish province of Lapland in northern Sweden
+270,Oslo – Tryvann (Skimore)
+271,Donovaly (Park Snow)
+272,Fanningberg
+273,Hahnenkamm – Höfen/Reutte
+274,Nebelhorn – Oberstdorf
+275,Balderschwang – Hochschelpen/Riedberger Horn
+276,Ankogel – Mallnitz
+277,Aussois
+278,Pila
+279,Arêches (Beaufort)
+280,Sörenberg – Rothorn/Dorf
+281,Luz Ardiden
+282,Riserva Bianca – Limone Piemonte
+283,Laterns – Gapfohl
+284,Alpenpark Neuss
+285,Bürchen/Törbel – Moosalp
+286,of Björkliden
+287,Białka Tatrzańska – Kotelnica/Kaniówka/Bania
+288,Gålå
+289,Ramsau am Dachstein – Rittisberg
+290,Grebenzen – St. Lambrecht
+291,Jahorina
+292,Font-Romeu/Bolquère Pyrénées 2000
+293,Sainte-Foy-Tarentaise
+294,Melchsee-Frutt (Kerns)
+295,Cimone – Montecreto/Sestola/Le Polle
+296,Monte Popolo – Eben im Pongau
+297,Söllereck – Oberstdorf
+298,Keilberg (Klínovec)
+299,Nesselwang – Alpspitze (Alpspitzbahn)
+300,Feuerkogel – Ebensee
+301,Buchensteinwand (Pillersee) – St. Ulrich am Pillersee/St. Jakob in Haus/Hochfilzen
+302,Mitterdorf (Almberg) – Mitterfirmiansreut
+303,Goldeck – Spittal an der Drau
+304,Betelberg – Lenk
+305,Super Sauze
+306,Les Karellis
+307,Saint Luc/Chandolin (Anniviers)
+308,Gourette (Eaux Bonnes)
+309,Voss Resort
+310,Chäserrugg – Unterwasser/Alt St. Johann (Toggenburg)
+311,Les Angles
+312,St. Jean Montclar
+313,Courmayeur – Chécrouit/Val Veny
+314,Leysin
+315,Arkhyz
+316,Arkhyz
+317,Kolašin 1450/Kolašin 1600
+318,San Domenico – Alpe Ciamporino
+319,Charmey
+320,Le Lioran
+321,Vals 3000 – Dachberg
+322,Gschwandtkopf – Seefeld
+323,SnowWorld Landgraaf
+324,Ochsenkopf
+325,Gazprom Mountain Resort
+326,Jungholz
+327,Nordkette – Innsbruck
+328,Lipno
+329,Mount Parnassos – Fterolakka/Kellaria
+330,Oppdal
+331,Valchiavenna – Madesimo/Campodolcino
+332,Krasnaya Polyana Resort
+333,Oberaudorf – Hocheck
+334,Snow Dome Bispingen
+335,Winterberg (Skiliftkarussell)
+336,Zauberberg Semmering
+337,Santa Caterina Valfurva
+338,Rangger Köpfl – Oberperfuss
+339,Abetone/Val di Luce
+340,Piani di Bobbio
+341,Mariborsko Pohorje – Maribor
+342,Praz de Lys/Sommand (Taninges/Mieussy)
+343,Le Lys – Cauterets
+344,Le Seignus
+345,Stuhleck – Spital am Semmering
+346,Watles – Malles Venosta (Mals)
+347,Hochkössen (Unterberghorn) – Kössen
+348,Beitostølen Skisenter
+349,Leukerbad
+350,Panticosa
+351,Boí Taüll
+352,Pichlberg – Reinswald (San Martino in Sarentino)
+353,Espot Esqui
+354,Nara – Leontica
+355,Mythenregion
+356,Candanchú
+357,Bosco Gurin – Grossalp
+358,Markbachjoch/Lanerköpfl – Niederau
+359,Zoncolan – Ravascletto/Sutrio
+360,Lélex/Crozet
+361,Thollon les Mémises
+362,Strandafjellet
+363,St. Pierre de Chartreuse – Le Planolet
+364,Patscherkofel – Innsbruck-Igls
+365,Vercorin
+366,Porté Puymorens
+367,La Berra – La Roche
+368,Carì
+369,Ovronnaz
+370,Astún
+371,Kolbensattel – Oberammergau
+372,Štrbské Pleso
+373,Willingen – Ettelsberg
+374,Tarvisio – Monte Lussari
+375,Valmalenco – Alpe Palù
+376,SuperBesse – Puy de Sancy
+377,Glacier 3000 – Les Diablerets
+378,Krvavec
+379,Pragelato
+380,Luchon-Superbagnères
+381,Mt. Elbrus
+382,Port del Comte
+383,Alpe du Grand-Serre – La Morte
+384,Hirmentaz/Les Habères – Bellevaux/Habère-Poche
+385,Campo Felice – Rocca di Cambio
+386,Innerkrems – Kremsbrücke (Krems in Kärnten)
+387,Wasserngrat – Gstaad
+388,Braunwald
+389,Montecampione – Alpiaz/Prato Secondino/Plan di Montecampione
+390,Bláfjöll
+391,Dachstein Glacier (Dachsteingletscher)
+392,Neunerköpfle – Tannheim
+393,Füssener Jöchle – Grän
+394,Kitzbüheler Horn
+395,Klewenalp/Stockhütte – Beckenried/Emmetten
+396,Balme/Les Autannes – Vallorcine/Le Tour
+397,Le Collet d'Allevard
+398,Antagnod
+399,Guzet
+400,Pamporovo
+401,Tschiertschen
+402,Abriès
+403,Valdezcaray
+404,Jenner – Königssee (Schönau am Königssee)
+405,Forni di Sopra
+406,Artouste
+407,Präbichl – Vordernberg
+408,Torgnon
+409,Norefjell
+410,Port Ainé
+411,Monte Magnola – Ovindoli
+412,Champorcher
+413,Koralpe
+414,Métabief
+415,Evolène
+416,Postwiesen Skidorf – Neuastenberg
+417,Les Brasses
+418,Romme Alpin
+419,Zugspitze
+420,Pröller Skidreieck (St. Englmar)
+421,Piana di Vigezzo – Craveggia/Santa Maria Maggiore
+422,Kaiseregg/Riggisalp – Schwarzsee
+423,Big Wood
+424,Padola – Ski Area Comelico
+425,Kläppen
+426,Lofsdalen
+427,Sangiacomo/Cardini – Monte Alpet
+428,Pesciüm – Airolo
+429,Geilo
+430,Straja
+431,Jaun
+432,Kasberg – Grünau im Almtal
+433,Sinaia
+434,Pralognan la Vanoise
+435,Nax – Mont-Noble
+436,Lorica
+437,Bonneval sur Arc
+438,Foppolo/Carona (Brembo Ski)
+439,Hoch-Imst – Imst
+440,La Colmiane
+441,Stari Vrh
+442,Lagazuói/5 Torri – Passo Giau/Passo Falzàrego
+443,Cerkno
+444,Rittner Horn (Corno del Renon) – Ritten (Renon)
+445,Borovets
+446,Schetteregg – Egg
+447,San Vito di Cadore
+448,Reith bei Kitzbühel
+449,Gérardmer – La Mauselaine
+450,Albiez-Montrond
+451,Macugnaga
+452,Brambrüesch/Dreibündenstein – Chur
+453,Petzen – Feistritz ob Bleiburg
+454,Vitosha – Sofia
+455,Nevis Range
+456,La Pinilla
+457,Roc d'Enfer – St. Jean d'Aulps-La Grande Terche/Bellevaux-La Chèvrerie
+458,Narvikfjellet – Narvik
+459,Giw – Visperterminen
+460,Mijoux/La Faucille
+461,Gressoney-Saint-Jean – Weissmatten
+462,Branäs
+463,Tänndalen
+464,Mechi Chal – Chepelare
+465,Altopiano di Brentonico – Polsa/San Valentino
+466,Arnoldstein – Dreiländereck
+467,Falakro
+468,Piancavallo
+469,Chabanon
+470,Sainte-Anne la Condamine – La Condamine-Châtelard
+471,Popova Sapka
+472,Catinaccio/Ciampedie – Vigo di Fassa/Pera di Fassa
+473,Gemeindealpe – Mitterbach am Erlaufsee
+474,Alto Campoo
+475,La Dôle – Jura sur Léman
+476,Bürgeralpe – Mariazell
+477,La Pierre Saint Martin
+478,Belchen
+479,Geißkopf – Bischofsmais
+480,Rofan – Maurach
+481,Passo dello Stelvio (Stelvio Pass)
+482,Gaissau-Hintersee
+483,Passo Maniva
+484,Steibis – Imberg (Oberstaufen)
+485,Nesfjellet – Nesbyen
+486,Černá hora – Janské Lázně
+487,Bjorli
+488,Darlux – Bergün
+489,Molines-en-Queyras/Saint-Véran
+490,Ramundberget
+491,Arolla
+492,Gavarnie-Gèdre (Les Espécières)
+493,Tornik – Zlatibor
+494,Karkogel – Abtenau
+495,Réallon
+496,Glenshee
+497,Roubion les Buisses
+498,Ceillac en Queyras
+499,Stöten
+500,Mt. Cheget
+501,Hochkar – Göstling
+502,Bernex
+503,Pelvoux/Vallouise
+504,Cambre d'Aze – Eyne/Saint-Pierre-dels-Forcats
+505,Baranci (Haunold) – San Candido (Innichen)
+506,Hündle/Thalkirchdorf (Oberstaufen)
+507,Vogel – Bohinj
+508,Prati di Tivo
+509,Gran Sasso – Campo Imperatore
+510,Rauland Skisenter/Holtardalen
+511,Campitello Matese
+512,Wispile – Gstaad
+513,Crissolo – Monviso
+514,Steckenberg – Unterammergau
+515,Schöneck (Skiwelt)
+516,Hochstein – Lienz
+517,Karwendel Bergbahn (Zwölferkopf) – Pertisau
+518,Elsigen-Metsch – Frutigen
+519,Alpe del Nevegal
+520,Obertilliach – Golzentipp
+521,Moléson
+522,Mavrovo – Zare Lazareski
+523,Marbach – Marbachegg
+524,Crévacol
+525,Kouty nad Desnou
+526,LeMelette – Gallio
+527,Fendels
+528,Ravna Planina
+529,Glencoe Mountain
+530,Plešivec – Abertamy
+531,Valgrande Pajares
+532,Horní Domky – Lysá Hora
+533,Stara Planina – Babin Zub
+534,Argentera
+535,Vrådal
+536,San Isidro-Zona Cebolledo
+537,Cmiljače – Bjelasica
+538,Funäsdalsberget
+539,Ancelle
+540,Formiguères
+541,Colere
+542,Corno alle Scale – Lizzano in Belvedere
+543,Vrátna
+544,Monte Verena – Mezzaselva di Roana
+545,Wiriehorn
+546,Aillons-Margériaz
+547,Kelchsau
+548,Poiana Brașov
+549,Auronzo di Cadore – Monte Agudo
+550,Kolasportland
+551,Saint-Léger-les-Mélèzes
+552,Kampenwand – Aschau im Chiemgau
+553,Zieleniec
+554,Unterbäch – Brandalp/Ginals
+555,Ruzomberok Skipark
+556,L'Essert – Abondance
+557,La Covatilla – Sierra de Béjar
+558,Veľká Rača
+559,Sarn (Heinzenberg)
+560,Col de Rousset
+561,Praděd/Myšák – Malá Morávka (Ski Karlov)
+562,Kanin – Sella Nevea/Bovec
+563,Predeal
+564,La Bresse – Hohneck
+565,Kranjska Gora
+566,Alpe di Mera – Scopello
+567,Panarotta 2002 – Valsugana
+568,Le Semnoz
+569,Sattel – Hochstuckli
+570,Sampeyre
+571,Bielmonte
+572,Jöchelspitze – Bach
+573,Cairngorm Mountain
+574,La Fouly
+575,Hochwang – Goldgruben
+576,Hochwang – Goldgruben
+577,Lizzola
+578,Oeschinensee – Kandersteg
+579,Chiomonte Frais
+580,Szklarska Poręba – Szrenica
+581,Klövsjö/Storhogna
+582,Duved/Tegefjäll
+583,Gautefall
+584,Le Mourtis
+585,TschentenAlp – Adelboden
+586,Le Grand Puy
+587,Val Louron
+588,Sjusjøen
+589,Kasprowy Wierch – Zakopane
+590,Kellerjoch – Schwaz
+591,Szymoszkowa
+592,Vasilitsa
+593,Pescasseroli
+594,Klippitztörl
+595,Pian Munè – Paesana
+596,Planneralm – Donnersbach
+597,Bivio
+598,Tjørhomfjellet/Ålsheia Skisenter – Sirdal
+599,Uvdal Alpinsenter
+600,Śnieżka – Karpacz
+601,Babin Do – Bjelašnica
+602,Bödele – Schwarzenberg
+603,Champex-Lac (Orsières)
+604,Les Mosses/La Lécherette
+605,Spiazzi di Gromo
+606,Valdesquí
+607,Campo Stella – Leonessa
+608,Bugnenets-Savagnières – Saint-Imier
+609,Adria Ski – Kupres
+610,Puerto Navacerrada
+611,Brezovica
+612,Czarna Góra – Sienna
+613,Aillon-le-Jeune
+614,Meander Skipark – Oravice
+615,Ötscher – Lackenhof (Gaming)
+616,Audibergue
+617,Bjursås Ski Center
+618,Ascou Pailhères
+619,Autrans – La Sure
+620,Björnrike
+621,Méaudre
+622,Palumbosila
+623,Azuga
+624,Schattwald/Zöblen
+625,Borno – Monte Altissimo
+626,Amden – Arvenbüel/Mattstock
+627,Etna Nord – Linguaglossa
+628,Rosswald – Brig
+629,Bodrost/Kartala
+630,Unternberg (Ruhpolding)
+631,SnowWorld Zoetermeer
+632,Todtnauberg
+633,Saint-Michel-de-Chaillol
+634,Saint-Michel-de-Chaillol
+635,Chalmazel
+636,Gresse en Vercors
+637,Dolní Morava – Králický Sněžník
+638,Javalambre
+639,Passo Rolle (Rolle Pass)
+640,Hochrindl – Sirnitz
+641,Trillevallen
+642,Serles – Mieders
+643,Røldal
+644,Ramzová-Bonera – Šerák
+645,Breitenberg/Hochalpe – Pfronten
+646,Paseky nad Jizerou
+647,Mittagbahn – Immenstadt
+648,Prali
+649,Hauereck – St. Kathrein am Hauenstein
+650,Graukogel – Bad Gastein
+651,Kongsberg (Skimore)
+652,Brusson – Estoul
+653,Cima Piazzi/San Colombano – Isolaccia/Oga
+654,Tanvaldský Špičák
+655,Wunderwiese – Puchberg am Schneeberg
+656,Vichères (Liddes)
+657,Les Monts d'Olmes
+658,Bagolino
+659,Buková hora – Čenkovice/Červená Voda
+660,Vigla Pisoderi/Verno – Florina
+661,Kraličák – Hynčice pod Sušinou/Stříbrnice
+662,Beskid Sport Arena (Szczyrk)
+663,Arvieux
+664,Tahko
+665,Sappada
+666,Transalpina – Vidra/Voineasa
+667,Galsterberg – Pruggern
+668,Camigliatello Silano
+669,Fuentes de Invierno
+670,Minschuns – Val Müstair-Tschierv
+671,Říčky v Orlických horách
+672,Rarău – Câmpulung Moldovenesc
+673,Vigiljoch (Monte San Vigilio) – Lana
+674,Silberberg – Bodenmais
+675,Altastenberg
+676,Kirchdorf
+677,Manzaneda
+678,Roháče – Spálená
+679,Lac Blanc
+680,Axalp ob Brienz
+681,Rothwald/Wasenalp (Simplon Pass)
+682,Krinnenalpe – Nesselwängle
+683,Valdelinares (Sierra de Gúdar)
+684,Jaworzyna Krynicka
+685,Chelmos – Kalavrita
+686,Crêt-Béni/La Combe – La Chapelle d'Abondance
+687,Pec pod Sněžkou
+688,Pilsko – Korbielów
+689,Zahmer Kaiser – Walchsee
+690,Kubínska hoľa
+691,Prato Selva
+692,Biały Jar – Karpacz
+693,Forsteralm – Waidhofen an der Ybbs
+694,Hlíðarfjall – Akureyri
+695,Lagorai/Passo Brocon – Castello Tesino
+696,Eckbauer – Garmisch-Partenkirchen
+697,Fageralm – Forstau
+698,Eischoll
+699,Pescegallo – Valgerola
+700,Schia – Monte Caio
+701,Muntele Mic
+702,La Sambuy – Seythenex
+703,Ještěd – Liberec
+704,Sant'Annapelago
+705,Panichishte
+706,Parâng
+707,Śnieżnica – Kasina Wielka
+708,Annaberg
+709,Gubaha
+710,Gubaha
+711,Grimmialp
+712,Domobianca
+713,Kungsberget
+714,Bydalsfjällen – Bydalen
+715,Dwie Doliny – Wierchomla Mała/Szczawnik (Piwniczna-Zdrój/Muszyna)
+716,Vysokyy Verh – Zahar Berkut
+717,Słotwiny Arena
+718,Järvsö
+719,Kranzberg – Mittenwald
+720,Febbio 2000 – Monte Cusna
+721,Krippenstein – Obertraun
+722,Burglift – Stans
+723,Sternstein – Bad Leonfelden
+724,SnowWorld Rucphen
+725,Heutal – Unken
+726,Hawrań – Jurgów
+727,Mottarone
+728,Salamandra Resort – Banska-Stiavnica
+729,Gréolières les Neiges
+730,Elatochori – Katerini
+731,Hirnkopf – Flattnitz (Glödnitz)
+732,Furkel – Trafoi (Stilfs)
+733,Mörlialp – Giswil
+734,Kalinderu – Buşteni
+735,Monte Pora
+736,Etna South – Nicolosi
+737,Vorobyovy Gory – Moscow
+738,Trostyan Mountain
+739,Grüntenlifte – Kranzegg (Rettenberg)
+740,Heidbodme – Saas-Almagell
+741,Herlíkovice-Bubákov
+742,Crévoux
+743,Weinebene – Frantschach-Sankt Gertraud
+744,Vrchlabí – Kněžický vrch
+745,Gerlosstein
+746,Campo Catino
+747,Lans en Vercors
+748,Idre Himmelfjäll
+749,Șureanu
+750,Ørsta Skisenter
+751,Cerreto Laghi
+752,Tschappina/Urmein (Heinzenberg)
+753,Hautacam
+754,Engstligenalp – Adelboden
+755,Cogne – Gran Paradiso
+756,Krasiya
+757,Monte Terminillo
+758,St. Gréé
+759,Pratospilla
+760,Doganaccia 2000 – Cutigliano
+761,Schwanden – Sigriswil
+762,Aflenz Bürgeralm
+763,Lurisia – Monte Pigna
+764,Monte Catria
+765,Naggler Alm – Techendorf (Weissensee)
+766,Černý Důl
+767,Vallefura Pescocostanzo
+768,Vallter 2000
+769,Adzhigardak
+770,Fjätervålen
+771,Kopřivná
+772,Wolzenalp – Krummenau
+773,Szyndzielnia – Bielsko-Biała
+774,Campo di Giove – Majella occidentale
+775,Sassotetto – Santa Maria Maddalena
+776,Plai
+777,Alpe Devero – Baceno
+778,Drammen (Skimore)
+779,Kope
+780,Alpe Teglio – Prato Valentino
+781,Reither Kogel – Reith im Alpbachtal
+782,Rogla
+783,Świeradów Zdrój
+784,Amnéville-Les-Thermes – Snowhall
+785,Tirolina (Haltjochlift) – Hinterthiersee
+786,Sahnehang
+787,Wurmberg – Braunlage
+788,Hempelsberg/Geiersberg – Oberwarmensteinach
+789,Trins
+790,Snow Valley – Peer
+791,Monte Amiata
+792,Målselv Fjellandsby
+793,Seli
+794,Čertova hora – Harrachov
+795,Martinské Hole
+796,Scanno – Monte Rotondo
+797,Säfsen
+798,Sunnmørsalpane Skiarena Fjellseter
+799,3-5 Pigadia – Naousa
+800,Massif de la Serra – Lamoura
+801,Kerenzerberg – Filzbach
+802,Bocksberg – Hahnenklee
+803,Katzenkopf – Leutasch
+804,Telnice
+805,Götschen – Bischofswiesen
+806,Javornik
+807,Himos
+808,Pontechianale
+809,La Féclaz
+810,Eremo di Monte Carpegna
+811,Jochgrimm (Passo Oclini)
+812,Ala di Stura
+813,Borgafjäll
+814,Tusten – Molde
+815,Chastreix – Puy de Sancy
+816,Tyin-Filefjell
+817,Skalka
+818,Zum Zeri – Passo dei due Santi
+819,Hallingskarvet
+820,Dragobrat
+821,Hovfjället – Torsby
+822,Brunni – Engelberg
+823,Harpefossen
+824,Brunnalm/Hohe Veitsch – Veitsch (St. Barbara im Mürztal)
+825,Orava Snow – Oravská Lesná
+826,Chamois
+827,Kittelfjäll
+828,Kåbdalis
+829,Feldis
+830,Kazan
+831,Monte Baldo – Malcesine/Prà Alpesina
+832,Piatra Neamt
+833,Harenda
+834,Les Planards
+835,Síaréna Eplény
+836,Unterberg – Pernitz
+837,Niederalpl – Mürzsteg (Neuberg an der Mürz)
+838,Ebenalp-Horn – Wasserauen/Schwende
+839,Rüschegg-Eywald – Lischboden
+840,Vuokatti
+841,Hassela
+842,Vallåsen
+843,Le Revard
+844,Les Rasses – Sainte-Croix
+845,Zinkenlifte – Dürrnberg (Hallein)
+846,Piatra Grăitoare
+847,Schatzalp – Strela
+848,Dobrinishte
+849,Sauda Skisenter
+850,Storlien
+851,Skipark Racibor – Oravský Podzámok
+852,Haukelifjell Skisenter
+853,Grasgehren – Bolgengrat
+854,Sunne
+855,Soriška Planina
+856,Špičák
+857,Postalm am Wolfgangsee
+858,Suomu
+859,Ukkohalla
+860,Camurac
+861,Tännäskröket
+862,Tramelan
+863,Wallberg – Rottach-Egern
+864,Monte Livata – Subiaco-Monna dell'Orso
+865,Hochhäderich – Hittisau
+866,Červenohorské sedlo
+867,Voras – Kaimaktsalan
+868,Isaberg – Hestra
+869,Valgrisenche
+870,Gambarie d'Aspromonte
+871,Ventron
+872,Skipark Erika – Kojsovska Hola
+873,Markbuchen/Predigtstuhl (St. Englmar)
+874,Stinesser Lifte – Fischen i. Allgäu
+875,Raudalen Alpinsenteret
+876,Archenstadel – Rinn
+877,Schneeberg-Hagerlifte – Mitterland (Thiersee)
+878,Niederhorn – Beatenberg
+879,Golte
+880,Leitariegos
+881,Terre Ronde/La Praille – Plateau d’Hauteville
+882,Font d'Urle – Chaud Clapier
+883,Königsberg – Hollenstein an der Ybbs
+884,Vassfjellet – Klæbu/Trondheim
+885,Palenica – Szczawnica
+886,Gesundaberget
+887,Usséglio – Pian Benot
+888,Pustevny – Trojanovice
+889,Fideriser Heuberge – Arflina
+890,Campo Staffi
+891,Sorochany – Kurovo
+892,Hochgrat (Oberstaufen)
+893,Balea Lac
+894,Monte Piselli – San Giacomo
+895,Zwölferhorn – St. Gilgen
+896,Schauinsland – Hofsgrund
+897,Hohenbogen – Neukirchen bei Hl. Blut
+898,Sonntag-Stein
+899,Entracque
+900,Wendelstein – Brannenburg/Osterhofen
+901,Gaaler Lifte – Gaal
+902,Mont Serein/Mont Ventoux Nord
+903,Piazzatorre
+904,Paljakka
+905,Les Paccots/Châtel-St-Denis – Corbetta
+906,Passolanciano
+907,Elfer – Neustift
+908,Jeizinen Feselalp – Gampel/Steg
+909,Laye
+910,Saariselkä
+911,Skálafell
+912,Donezan – Mijanès
+913,Rieseralm – Obdach
+914,Presolana
+915,Sogn Skisenter
+916,Iso-Syöte – Pudasjärvi
+917,Serra da Estrela
+918,Salzstiegl – Hirschegg
+919,Faschina (Fontanella)
+920,Sonnberglifts – Wald am Schoberpass
+921,Pont d'Espagne – Cauterets
+922,Pylypets
+923,Radusa
+924,Atzmännig – Goldingen
+925,Stryn Skisenter
+926,Kötschach-Mauthen – Vorhegg
+927,Hohentauern
+928,La Forclaz
+929,Cordon
+930,Hodlekve – Sogndal
+931,Aeschiried
+932,Pallas
+933,Eikedalen
+934,Valbella – Gallio
+935,Caldirola – Monte Gropà
+936,Kreuzberg – Bischofsheim an der Rhön

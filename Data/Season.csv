@@ -1,0 +1,938 @@
+,Current_season_start,Current_season_finish,General_season_start,General_season_finish,Opening_time,Closing_time
+0, 2021-12-04,2022-04-18__, early December,mid April__, 08:30,16:30__
+1, 2021-11-26,2022-04-18__, late November,late April__, 08:30,16:30__
+2, 2021-10-30,2022-04-18__, early November,mid April__, 08:30,16:30__
+3, 2021-11-25,2022-05-01__, late November,early May__, 08:30,16:00__
+4, 2021-12-03,2022-04-18__, mid December,mid April__, 08:30,16:00__
+5, 2021-12-04,2022-04-10__, early December,mid April__, 08:30,16:30__
+6, 2021-12-04,2022-04-18__, late November,early April__, 08:30,16:30__
+7, 2021-12-11,2022-03-27__, mid December,late March__, 08:30,16:00__
+8,,, early December,mid April__, 08:45,16:30__
+9, 2021-10-30,2022-04-24__, mid October,early May__, 08:30,16:30__
+10, 2021-12-03,2022-04-18__, early December,mid April__, 08:30,16:15__
+11, 2021-12-10,2022-04-22__, mid December,mid April__, 08:30,16:30__
+12, 2021-12-10,2022-04-22__, mid December,mid April__, 08:30,16:30__
+13, 2021-12-08,2022-04-23__, early December,mid April__, 08:30,16:15__
+14, 2021-12-04,2022-04-03__, early December,mid April__, 08:30,16:00__
+15, 2021-11-26,2022-04-18__, late November,mid April__, 08:00,16:30__
+16, 2021-12-18,2022-03-27__, mid December,late March__, 08:30,16:30__
+17, 2021-09-10,2022-05-08__, late September,early May__, 09:00,16:00__
+18, 2021-11-27,2022-04-18__, early December,mid April__, 09:00,16:00__
+19, 2021-12-04,2022-04-18__, early December,early April__, 08:30,16:30__
+20, 2021-12-11,2022-04-03__, depending on snow conditions,early April__, 08:30,16:00__
+21, 2021-12-03,2022-04-18__, late November,early April__, 08:30,16:00__
+22, 2021-11-27,2022-04-18__, depending on snow conditions,early April__, 08:30,16:30__
+23, 2021-12-11,2022-04-18__, mid December,mid April__, 08:45,16:00__
+24, 2021-11-06,2022-04-24__, late November,early May__, 08:30,16:30__
+25, 2021-12-04,2022-04-18__, mid December,mid April__, 08:45,16:45__
+26, 2021-12-18,2022-04-18__, early December,mid April__, 08:30,16:30__
+27, 2021-12-04,2022-04-18__, early December,mid April__, 08:30,16:00__
+28, 2021-12-11,2022-04-18__, depending on snow conditions,mid April__, 08:45,16:00__
+29, 2021-10-09,2022-07-23__, mid October,early July__, 08:15,16:15__
+30, 2021-12-11,2022-04-18__, mid December,early April__, 08:30,16:30__
+31, 2021-12-08,2022-03-27__, depending on snow conditions,late March__, 09:00,16:00__
+32, 2021-12-11,2022-04-18__, mid December,late March__, 08:30,17:00__
+33, 2021-11-27,2022-04-18__, mid December,mid April__, 08:30,16:30__
+34, 2021-11-27,2022-04-18__, late November,early April__, 08:30,16:00__
+35, 2021-12-18,2022-02-20__, mid December,late March__, 09:00,16:00__
+36,,, early December,late April__, 08:30,16:30__
+37, 2021-11-27,2022-04-18__, mid November,mid April__, 09:00,16:00__
+38, 2021-12-08,2022-04-10__, mid December,early April__, 08:30,16:30__
+39, 2021-11-27,2022-04-03__, early December,early April__, 08:30,16:45__
+40, 2021-12-04,2022-04-24__, early December,late April__, 08:30,16:00__
+41, 2021-12-11,2022-04-03__, mid December,early April__, 07:45,18:45__
+42, 2021-11-27,2022-04-18__, mid November,early April__, 08:00,16:30__
+43, 2021-12-04,2022-04-18__, early December,early April__, 08:30,16:30__
+44, 2021-11-27,2022-04-18__, early December,early April__, 08:30,17:00__
+45, 2021-11-18,2022-04-24__, early January,late April__, 09:00,16:00__
+46, 2021-12-11,2022-04-03__, mid December,early April__, 08:15,16:45__
+47, 2021-12-18,2022-04-18__, mid December,mid April__, 09:00,16:15__
+48, 2021-12-04,2022-04-24__, early December,late April__, 08:00,16:30__
+49, 2021-12-11,2022-03-27__, early December,late March__, 09:00,16:30__
+50, 2021-12-04,2022-03-27__, early December,mid April__, 08:30,16:30__
+51, 2021-12-04,2022-04-18__, early December,mid April__, 08:30,16:00__
+52, 2021-12-03,2022-04-24__, early December,late April__, 08:45,16:30__
+53, 2021-11-27,2022-04-03__, early December,mid April__, 07:45,17:00__
+54, 2021-11-06,2022-04-18__, mid December,mid April__, 08:15,16:30__
+55, 2021-12-04,2022-04-18__, late November,mid April__, 07:30,16:30__
+56, 2021-10-16,2022-05-08__, late November,early May__mid June - early August__, 09:30,16:30__
+57, 2021-11-20,2022-05-08__, mid November,early May__, 08:30,16:30__
+58, 2021-12-03,2022-04-24__, early December,late April__, 08:00,17:00__
+59, Year-round__,, Year-round__,, 08:00,16:30__
+60, 2021-12-03,2022-04-18__, early December,mid April__, 09:00,15:30__
+61, 2021-11-26,2022-04-18__, late November,mid April__, 08:15,16:30__
+62, 2021-11-27,2022-04-24__, late November,mid April__, 08:30,17:00__
+63, 2021-10-30,2022-04-24__, late October,mid April__, 08:30,16:30__
+64, 2021-11-20,2022-05-01__, late November,early May__, 09:00,16:00__
+65, 2021-11-27,2022-04-18__, late November,mid April__, 08:30,16:00__
+66, 2021-11-27,2022-04-18__, late November,early April__, 08:30,15:30__
+67, 2021-12-04,2022-04-03__, late November,early May__, 08:00,16:30__
+68, 2021-12-04,2022-04-18__, early December,mid April__, 09:00,17:00__
+69, 2021-12-03,2022-04-24__, early December,mid April__, 08:30,16:00__
+70, 2021-11-27,2022-04-18__, mid November,mid April__, 09:00,16:00__
+71, 2021-12-11,2022-04-30__, mid December,late April__, 08:30,16:30__
+72, 2021-12-11,2022-04-24__, early December,late April__depending on snow conditions - depending on snow conditions__, 08:30,16:30__
+73, 2021-12-08,2022-04-18__, early December,late April__, 09:00,16:30__
+74, 2021-12-04,2022-04-10__, early December,early April__, 08:00,17:00__
+75, 2021-12-03,2022-04-18__, mid November,late April__, 08:45,16:45__
+76, 2021-11-27,2022-04-24__, late November,late April__mid June - late August__late October - early November__, 09:00,17:00__
+77, 2021-10-09,2022-05-22__, early October,late May__, 08:30,16:00__
+78, 2021-12-18,2022-04-10__, mid December,mid April__, 08:00,13:00__
+79, 2021-12-04,2022-04-10__, early December,mid April__, 08:30,16:30__
+80, 2021-11-20,2022-05-01__, mid December,mid April__, 09:00,16:00__
+81, 2021-11-27,2022-05-01__, early December,late April__, 08:30,17:00__
+82, 2021-12-03,2022-04-03__, early December,early April__, 09:00,16:00__
+83, 2021-12-03,2022-04-18__, early December,early April__, 08:30,16:30__
+84, 2021-12-08,2022-04-18__, early December,mid April__, 09:00,16:30__
+85,,, early December,mid April__, 09:00,16:00__
+86, 2021-12-04,2022-04-09__, late November,early April__, 08:30,16:30__
+87, 2021-11-27,2022-04-24__, late November,mid April__, 08:00,16:30__
+88, 2021-12-04,2022-04-24__, early December,mid April__, 09:00,16:30__
+89, 2021-11-20,2022-04-18__, depending on snow conditions,late April__, 09:00,15:30__
+90, 2021-11-19,2022-04-24__, early November,mid April__, 08:15,16:00__
+91, 2021-11-27,2022-04-18__, early December,mid April__, 08:45,16:45__
+92, 2021-12-04,2022-04-24__, early December,late April__, 08:30,17:00__
+93, 2021-12-04,2022-04-03__, mid December,early April__, 09:00,16:00__
+94, 2021-11-27,2022-04-24__, mid December,late April__, 08:30,16:30__
+95, 2021-12-11,2022-04-30__, mid December,late April__, 08:30,16:30__
+96, 2021-12-03,2022-04-18__, early December,mid April__, 08:30,16:15__
+97, 2021-12-03,2022-04-24__, early December,mid April__, 08:40,16:30__
+98, 2021-12-04,2022-04-18__, late December,mid April__, 08:30,15:00__
+99, 2021-11-27,2022-04-18__, mid December,mid April__, 08:30,17:10__
+100, 2021-12-03,2022-04-18__, late November,mid April__, 08:15,16:00__
+101, 2021-12-04,2022-04-18__, mid December,mid April__, 09:00,17:00__
+102, 2021-10-08,2022-06-05__, depending on snow conditions,early June__, 08:00,16:30__
+103, 2021-11-26,2022-04-24__, mid December,mid April__, 08:30,16:00__
+104, 2021-11-27,2022-04-24__, late November,late April__, 08:20,17:00__
+105, 2021-11-20,2022-05-01__, early November,early May__, 09:00,16:30__
+106, 2021-12-03,2022-04-18__, early December,early April__, 08:30,16:30__
+107, 2021-11-20,2022-05-01__, mid November,early May__, 08:00,16:30__
+108, 2021-11-27,2022-04-24__, early December,mid April__, 08:45,17:00__
+109, 2021-11-27,2022-04-18__, late November,early April__, 08:30,16:30__
+110, 2021-12-17,2022-04-03__, mid December,early April__, 08:30,16:00__
+111, 2021-12-04,2022-04-18__, early December,late March__, 09:00,16:00__
+112, 2021-12-10,2022-04-22__, early December,mid April__, 08:45,16:00__
+113, 2021-12-04,2022-04-09__, early December,early April__, 08:30,16:30__
+114, 2021-12-04,2022-04-03__, mid December,late March__, 08:30,16:00__
+115, 2021-12-03,2022-04-23__, early December,mid April__, 08:45,16:30__
+116, 2021-11-27,2022-04-18__, late November,mid April__, 09:00,17:00__
+117, Year-round__,, Year-round__,, 09:00,16:00__
+118, 2021-11-20,2022-04-24__, early November,late April__, 09:00,16:30__
+119, 2021-12-04,2022-04-18__, depending on snow conditions,late March__, 08:30,16:30__
+120, 2021-11-27,2022-04-18__, late November,early May__, 08:30,16:30__
+121, 2021-07-17,2022-04-24__, mid July,mid April__, 08:30,16:00__
+122, 2021-12-04,2022-04-18__, early December,early April__, 08:45,16:30__
+123, 2021-12-04,2022-04-24__, mid December,late April__, 09:00,17:00__
+124, 2021-12-11,2022-04-18__, early December,late March__, 08:30,16:15__
+125, 2021-11-27,2022-04-24__, early December,mid May__, 08:30,16:00__
+126, 2021-12-04,2022-04-18__, mid December,late April__, 09:00,17:00__
+127, 2021-12-03,2022-04-18__, early December,mid April__, 08:30,17:00__
+128, 2021-10-08,2022-05-08__, early October,early May__, 09:30,19:00__
+129, 2021-11-20,2022-05-01__, late November,early May__, 09:30,17:00__
+130, 2021-12-03,2022-04-10__, early December,early April__, 08:30,16:30__
+131, 2021-11-20,2022-05-01__, early November,early May__, 09:00,17:00__
+132, 2021-11-06,2022-04-24__, late October,early May__, 09:30,16:00__
+133, 2021-12-04,2022-04-03__, early December,early April__, 08:30,16:00__
+134, 2021-12-04,2022-04-18__, early December,early April__, 08:30,16:30__
+135,,, late November,late April__, 09:00,16:00__
+136, 2021-12-17,2022-04-18__, mid December,mid April__, 09:00,16:30__
+137, 2021-12-04,2022-04-18__, mid December,mid April__, 09:00,16:30__
+138, 2021-12-08,2022-04-18__, mid December,mid April__, 08:30,16:00__
+139, 2021-10-22,2022-04-24__, late October,early May__, 09:00,16:30__
+140, 2021-12-03,2022-04-18__, mid December,mid April__, 09:00,16:00__
+141, 2021-11-27,2022-04-18__, late November,late April__, 09:00,16:00__
+142, 2021-12-04,2022-04-18__, mid December,mid April__, 09:00,17:00__
+143, 2021-09-18,2022-05-08__, mid September,mid May__, 08:30,16:00__
+144, 2021-12-03,2022-04-18__, early December,mid April__, 08:30,17:00__
+145, 2021-12-18,2022-04-18__, mid December,mid April__, 08:30,16:30__
+146, 2021-12-17,2022-04-18__, mid December,mid April__, 08:00,16:30__
+147, 2021-12-08,2022-04-18__, early December,mid April__, 09:00,16:00__
+148, 2021-11-27,2022-04-18__, mid November,early May__, 09:00,18:00__
+149, 2021-12-03,2022-04-18__, late November,mid April__, 08:15,16:30__
+150, 2021-12-11,2022-04-18__, early December,mid April__, 08:30,16:15__
+151, 2021-11-20,2022-05-01__, mid November,early May__, 09:30,16:00__
+152, 2021-12-03,2022-04-18__, mid December,late April__, 09:00,16:00__
+153, 2021-12-17,2022-04-18__, mid December,late April__, 09:00,16:00__
+154, 2021-11-27,2022-04-18__, mid December,mid April__, 09:00,16:30__
+155, 2021-12-08,2022-04-03__, early December,early April__, 08:30,16:30__
+156,,, early December,early April__, 09:00,16:00__
+157, 2021-12-04,2022-04-18__, depending on snow conditions,late March__, 08:30,16:30__
+158, 2021-12-03,2022-04-03__, early December,early April__, 09:00,16:00__
+159, 2021-12-11,2022-04-03__, mid December,late March__, 08:30,16:00__
+160, 2021-12-11,2022-04-18__, mid December,early April__, 08:30,16:15__
+161, 2021-11-27,2022-04-24__, mid December,early May__, 09:00,16:15__
+162, 2021-12-11,2022-04-18__, mid December,early April__, 09:00,17:00__
+163, 2021-11-20,2022-04-24__, mid November,mid April__, 09:00,16:30__
+164, 2021-12-04,2022-04-10__, early December,early April__, 09:00,16:00__
+165, 2021-12-17,2022-04-24__, mid December,early April__, 08:30,16:00__
+166, 2021-12-03,2022-04-03__, mid December,early April__, 08:45,16:00__
+167, 2021-12-04,2022-04-18__, early December,mid April__, 09:00,16:00__
+168, 2021-11-19,2022-05-01__, mid November,early May__, 09:30,18:00__Limited opening times during the week__
+169,,, early December,mid April__, 08:15,16:00__
+170,,, mid November,early May__, 09:00,16:00__
+171, 2021-09-17,2022-04-18__, mid September,mid April__, 09:00,16:30__
+172, 2021-12-17,2022-04-03__, early December,early April__, 08:30,16:30__
+173, 2021-12-04,2022-04-18__, early December,mid April__, 08:45,16:15__
+174, 2021-12-04,2022-04-18__, late November,early May__, 09:00,16:45__
+175,,, depending on snow conditions,depending on snow conditions__, 08:30,16:30__
+176, 2021-10-22,2022-05-01__, depending on snow conditions,early May__, 08:30,16:00__
+177,,, mid December,mid April__, 08:45,16:15__
+178, 2021-11-20,2022-05-01__, early November,early May__, 10:00,16:00__
+179, 2021-12-03,2022-04-18__, early December,mid April__, 08:30,16:00__
+180, 2021-12-04,2022-04-18__, mid December,early April__, 08:30,16:30__
+181, 2021-12-17,2022-04-18__, mid December,early April__, 08:15,16:00__
+182, 2021-11-20,2022-05-01__, mid November,early May__, 09:30,15:30__
+183, 2021-12-03,2022-04-18__, early December,mid April__, 09:00,16:30__
+184, 2021-12-04,2022-04-03__, mid December,early April__, 08:30,16:15__
+185, 2021-11-13,2022-04-24__, mid November,mid April__, 08:45,16:15__
+186,,, mid December,mid April__, 09:00,16:00__
+187, 2021-12-18,2022-04-18__, mid December,mid April__, 08:30,16:00__
+188, 2021-12-04,2022-04-18__, early December,mid April__, 08:30,16:00__
+189, 2021-12-11,2022-04-18__, early November,early April__, 09:00,16:00__
+190, 2021-09-25,2022-06-05__, late September,mid May__, 08:30,16:00__
+191, 2021-12-11,2022-04-18__, mid December,mid April__, 08:15,16:00__
+192,,, mid December,late March__, 09:00,16:30__
+193, 2021-12-04,2022-03-20__, early December,late March__, 09:00,17:00__
+194, 2021-12-04,2022-04-18__, early December,early April__, 08:30,16:30__
+195, 2021-12-24,2022-04-18__, mid December,mid April__, 08:30,16:00__
+196, 2021-12-04,2022-04-18__, early December,early April__, 09:00,16:00__
+197, 2021-11-27,2022-04-18__, late November,early April__, 08:30,16:00__
+198, 2021-12-04,2022-04-18__, early December,mid April__, 09:00,17:00__
+199, 2021-11-27,2022-04-24__, early December,mid April__, 08:50,16:30__
+200, 2021-12-03,2022-04-03__, early December,early April__, 08:15,17:00__
+201, 2021-05-22,2022-05-08__, mid June,mid May__, 08:00,16:30__
+202, 2021-12-04,2022-04-18__, mid December,early April__, 08:30,17:00__
+203, 2021-12-04,2022-04-18__, early December,mid April__, 09:00,17:00__
+204, 2021-12-11,2022-04-10__, mid December,mid April__, 09:30,17:00__
+205, 2021-12-04,2022-04-18__, mid December,mid April__, 09:00,16:30__
+206, 2021-11-27,2022-04-18__, mid November,late April__, 09:30,16:00__
+207, 2021-12-03,2022-03-27__, mid December,early April__, 08:30,16:00__
+208, 2021-12-10,2022-04-03__, early December,early April__, 09:00,16:00__
+209, 2021-12-08,2022-03-27__, early December,early April__, 09:00,16:00__
+210, 2021-11-27,2022-04-18__, early December,late April__, 09:00,17:00__
+211, 2021-12-03,2022-04-18__, early December,mid April__, 09:00,17:00__
+212, 2021-12-04,2022-04-24__, mid December,mid April__, 09:00,16:30__
+213, 2021-12-04,2022-04-18__, early December,early April__, 09:00,16:30__
+214, 2021-12-04,2022-04-24__, early December,late April__, 09:00,16:30__
+215,,, early December,mid April__, 08:15,16:30__
+216, 2021-12-18,2022-04-03__, early December,early April__, 08:30,16:00__
+217, 2021-12-04,2022-04-03__, late November,late March__early July - late August__, 08:30,16:45__
+218, 2021-12-11,2022-04-18__, early December,early April__, 08:45,15:45__
+219, 2021-12-11,2022-03-20__, early December,mid April__, 09:00,17:00__
+220, 2021-10-30,2022-05-01__, late October,late May__, 08:30,16:00__
+221,,, early December,late March__, 08:30,16:30__
+222,,, early November,early May__, 09:00,16:30__
+223, 2021-12-18,2022-03-20__, mid December,late March__, 09:15,16:00__
+224, 2021-10-23,2021-11-26__, mid October,mid November__mid December - early May__, 08:00,17:00__
+225, 2021-12-04,2022-04-03__, early December,early April__, 08:30,16:00__
+226, 2021-12-04,2022-04-18__, depending on snow conditions,depending on snow conditions__, 08:30,17:00__
+227,,, early December,early April__, 08:30,16:30__
+228, 2021-12-03,2022-04-03__, early December,early April__, 09:00,17:30__
+229, 2021-12-18,2022-04-18__, late February,mid April__, 09:30,16:00__
+230, 2021-12-04,2022-03-27__, early December,early March__, 08:30,16:00__
+231, 2021-12-11,2022-04-18__, mid December,early April__, 08:30,16:00__
+232, 2021-12-04,2022-04-18__, depending on snow conditions,mid April__, 09:00,16:30__
+233, 2021-11-20,2022-05-01__, depending on snow conditions,early May__, 08:30,16:40__
+234, 2021-12-04,2022-04-18__, depending on snow conditions,mid April__, 09:00,16:45__
+235, 2021-12-11,2022-04-03__, early December,late March__, 08:30,16:15__
+236, 2021-12-18,2022-03-27__, mid December,late April__, 09:00,16:20__
+237, 2021-11-20,2022-04-18__, late October,late April__, 09:00,16:00__
+238, 2021-12-11,2022-04-18__, mid December,early April__, 09:00,16:15__
+239, 2021-12-08,2022-04-18__, early December,mid April__, 09:00,16:00__
+240, 2021-12-04,2022-04-24__, mid December,late April__, 09:00,17:00__
+241, 2021-12-04,2022-04-24__, early December,late April__, 09:00,17:00__
+242, 2021-12-04,2022-04-18__, early December,mid April__, 08:30,16:30__
+243, 2021-12-18,2022-04-18__, mid December,late April__, 09:00,16:00__
+244, 2021-12-04,2022-04-18__, mid December,mid April__, 09:00,16:00__
+245,,, early December,mid April__, 08:30,16:20__
+246, 2021-12-11,2022-04-18__, early December,mid April__, 09:00,16:00__
+247, 2021-11-27,2022-04-24__, early December,late April__, 08:30,15:30__
+248, 2021-12-11,2022-04-18__, mid December,late April__, 09:00,16:15__
+249, 2021-12-04,2022-04-18__, depending on snow conditions,early April__, 08:30,16:00__
+250, 2021-11-27,2022-04-24__, early December,mid April__, 08:30,17:00__
+251, 2021-12-18,2022-03-27__, mid December,late March__, 09:00,16:30__
+252, 2021-12-11,2022-04-18__, mid December,mid April__, 09:00,16:00__
+253,,, mid December,early April__, 08:45,16:45__
+254, 2021-12-18,2022-03-27__, mid December,late March__, 08:30,16:30__
+255, 2021-12-17,2022-04-18__, early December,early April__, 08:30,16:00__
+256, 2021-12-11,2022-04-17__, early December,mid April__, 09:00,17:00__
+257, 2021-12-18,2022-04-18__, mid December,early April__, 08:30,16:00__
+258, 2021-12-04,2022-03-27__, early December,mid March__, 09:00,16:30__
+259, 2022-02-25,2022-05-22__, late February,late May__, 09:00,16:00__
+260, 2021-12-11,2022-03-27__, mid December,mid March__, 09:00,16:00__
+261, 2021-12-04,2022-04-03__, early December,early April__, 08:30,16:30__
+262,,, early December,mid April__, 09:00,17:00__
+263, 2021-12-11,2022-04-18__, mid December,mid April__, 08:45,16:00__
+264, 2021-12-03,2022-04-18__, early December,mid April__, 08:30,15:30__
+265, 2021-12-11,2022-04-18__, mid December,mid April__, 09:00,16:30__
+266, 2021-11-27,2022-04-18__, early December,mid April__, 08:10,16:30__
+267, 2021-11-27,2022-05-01__, late November,early May__, 08:30,19:30__
+268, 2021-12-11,2022-04-17__, early December,early April__, 09:00,16:45__
+269, 2021-11-13,2022-05-01__, late October,late April__, 09:00,16:00__
+270, 2021-11-27,2022-04-18__, late November,early April__, 10:00,17:00__
+271, 2021-12-04,2022-04-03__, early December,depending on snow conditions__, 08:30,15:30__
+272, 2021-12-04,2022-04-18__, early December,mid April__, 09:00,16:00__
+273, 2021-12-04,2022-04-18__, mid December,early April__, 08:30,16:00__
+274, 2021-12-10,2022-05-01__, mid December,early May__, 08:30,16:30__
+275, 2021-12-04,2022-04-18__, mid December,early April__, 09:00,16:00__
+276, 2021-12-18,2022-04-18__, mid December,early April__, 08:30,16:30__
+277, 2021-12-11,2022-04-18__, mid December,mid April__, 09:00,17:00__
+278, 2021-12-04,2022-04-18__, late November,mid April__, 08:30,16:45__
+279, 2021-12-18,2022-04-18__, mid December,early April__, 09:00,16:30__
+280, 2021-12-11,2022-03-27__, mid December,early April__, 08:30,16:30__
+281, 2021-12-18,2022-04-03__, early December,early April__, 09:00,17:00__
+282, 2021-11-27,2022-04-18__, mid December,early April__, 09:00,16:00__
+283, 2021-12-04,2022-03-27__, late November,late March__, 08:45,16:15__
+284, Year-round__,, Year-round__,, 08:30,21:00__
+285, 2021-12-18,2022-03-20__, mid December,late March__, 09:00,16:00__
+286,,, early February,early May__, 09:00,16:00__
+287, 2021-11-27,2022-04-18__, early December,early April__, 09:00,21:00__
+288, 2021-11-27,2022-04-18__, mid November,late April__, 09:00,16:00__
+289, 2021-12-08,2022-03-27__, mid December,early April__, 09:00,16:00__
+290, 2021-12-11,2022-04-03__, early December,mid March__, 09:00,16:00__
+291, 2021-11-27,2022-04-24__, early December,depending on snow conditions__, 09:00,16:00__
+292, 2021-12-11,2022-04-18__, early December,early April__, 09:00,17:00__
+293, 2021-12-11,2022-04-18__, mid December,early April__, 09:00,17:00__
+294, 2021-12-18,2022-04-10__, mid December,early April__, 08:25,17:30__
+295, 2021-12-04,2022-04-03__, late November,mid April__, 08:30,17:00__
+296, 2021-12-11,2022-03-27__, mid December,late March__, 08:30,16:00__
+297, 2021-12-17,2022-04-03__, mid December,early April__, 09:00,16:00__
+298, 2021-12-11,2022-04-03__, early December,early April__, 08:30,16:00__
+299, 2021-12-04,2022-03-27__, mid December,late March__, 09:00,16:00__
+300, 2021-12-18,2022-04-03__, mid December,early April__, 08:30,16:00__
+301, 2021-12-17,2022-04-03__, late December,depending on snow conditions__, 09:00,16:00__
+302, 2021-12-18,2022-03-27__, mid December,mid March__, 09:00,16:00__
+303, 2021-12-17,2022-04-03__, mid December,late March__, 09:00,16:00__
+304,,, mid December,early April__, 08:30,16:30__
+305, 2021-12-04,2022-04-18__, mid December,early April__, 09:00,17:00__
+306, 2021-12-11,2022-04-18__, mid December,late April__, 09:00,16:30__
+307, 2021-12-18,2022-04-24__, mid December,late April__, 09:00,16:15__
+308, 2021-12-11,2022-04-03__, early December,early April__, 08:45,17:00__
+309, 2021-12-04,2022-04-24__, early December,late April__, 09:30,16:00__
+310, 2021-12-04,2022-04-18__, late November,mid April__, 08:00,16:30__
+311, 2021-11-27,2022-04-10__, late November,early April__, 09:00,16:00__
+312,,,,,,
+313, 2021-11-27,2022-04-18__, depending on snow conditions,depending on snow conditions__, 08:25,17:00__
+314, 2021-12-11,2022-04-18__, late November,mid April__, 09:00,16:30__
+315,,, early December,late April__, 09:00,16:00__
+316,,, early December,late April__, 09:00,16:00__
+317,,,,, 09:30,16:00__
+318,,,,, 08:30,16:30__
+319,,, mid December,early April__, 09:00,16:30__
+320, 2021-12-18,2022-04-03__, depending on snow conditions,late March__, 09:00,17:00__
+321, 2021-12-18,2022-04-18__, mid December,late March__, 09:00,16:30__
+322,,, early December,late March__, 09:00,16:00__
+323, Year-round__,, Year-round__,, 09:00,23:00__
+324, 2021-12-18,2022-03-20__, mid December,mid March__, 09:00,16:00__
+325, 2021-12-11,2022-04-18__, early December,mid April__, 09:00,16:30__
+326, 2021-11-13,2022-04-03__, depending on snow conditions,depending on snow conditions__, 09:00,16:00__
+327, 2021-12-11,2022-04-18__, late November,early April__, 08:30,17:30__
+328, 2021-12-11,2022-03-27__, early December,late March__, 08:30,16:00__
+329,,,,, 09:00,16:00__
+330, 2021-11-27,2022-04-18__, mid November,late April__, 10:00,16:00__
+331, 2021-11-27,2022-04-19__, late November,mid April__, 09:00,16:30__
+332, 2021-12-18,2022-05-01__, early December,mid May__, 09:00,16:00__
+333, 2021-12-18,2022-03-13__, early December,mid March__, 09:00,16:30__
+334, Year-round__,, Year-round__,, 09:00,21:00__Limited opening times during the week__
+335, 2021-12-11,2022-04-18__, mid December,mid March__, 09:00,16:30__
+336, 2021-12-04,2022-03-27__, depending on snow conditions,depending on snow conditions__, 08:30,16:00__
+337, 2021-11-27,2022-04-18__, early December,mid April__, 08:30,16:30__
+338, 2021-12-18,2022-04-03__, depending on snow conditions,mid March__, 08:30,16:30__
+339, 2021-12-11,2022-04-03__, early December,late April__, 09:00,17:00__
+340, 2021-12-04,2022-04-18__, late November,mid April__, 08:30,16:30__
+341, 2021-12-11,2022-04-03__, mid December,late March__, 09:00,16:00__
+342, 2021-12-17,2022-04-10__, mid December,mid April__, 09:00,16:00__
+343, 2021-12-04,2022-04-18__, early December,late April__, 09:00,16:00__
+344,,,,,,
+345, 2021-12-04,2022-04-18__, depending on snow conditions,early April__, 08:30,16:00__
+346, 2021-12-18,2022-04-18__, mid December,late March__, 09:00,16:00__
+347,,, early December,mid March__, 09:00,16:00__
+348, 2021-11-20,2022-04-24__, early November,late April__, 09:30,15:30__
+349, 2021-12-04,2022-04-18__, early December,late April__, 08:45,16:20__
+350,,, early December,early April__, 09:00,17:00__
+351,,,,,,
+352, 2021-12-04,2022-04-18__, early December,early April__, 08:30,16:30__
+353,,, early December,early April__, 09:00,16:00__
+354,,,,,,
+355, 2021-12-04,2022-03-27__, early December,late March__, 08:30,16:15__
+356, 2021-12-04,2022-04-18__, early December,early April__, 09:00,17:00__
+357,,,,,,
+358,,, mid December,late March__, 09:00,16:30__
+359, 2021-12-11,2022-04-03__, early December,early April__, 08:30,16:00__
+360, 2021-12-18,2022-03-27__, mid December,late March__, 08:30,17:00__
+361, 2021-12-18,2022-03-27__, mid December,late March__, 09:00,17:00__
+362,,,,, 10:00,16:00__
+363,,, mid December,early April__, 09:00,16:30__
+364, 2021-12-03,2022-04-18__, mid December,early April__, 08:30,16:00__
+365, 2021-12-18,2022-04-23__, mid December,mid April__, 09:00,16:15__
+366, 2021-12-11,2022-04-17__, early December,late April__, 09:00,17:00__
+367,,,,,,
+368,,,,,,
+369,,, mid December,early April__, 09:00,16:30__
+370,,,,,,
+371, 2021-12-18,2022-03-13__, mid December,mid March__, 09:00,16:30__
+372, 2021-12-04,2022-04-24__, early December,early April__, 08:30,16:00__
+373, 2021-12-11,2022-03-20__, early December,late March__, 08:30,16:30__
+374, 2021-12-18,2022-03-27__, early December,late March__, 09:00,16:00__
+375, 2021-11-27,2022-04-18__, late November,early April__, 08:30,16:30__
+376, 2021-12-04,2022-04-17__, early December,mid April__, 09:00,17:00__
+377, 2021-11-06,2022-05-01__, early November,early May__, 09:00,16:30__
+378, 2021-12-04,2022-04-24__, late November,early April__, 08:30,17:00__
+379,,, early December,mid April__, 09:00,16:00__
+380, 2021-12-18,2022-03-27__, depending on snow conditions,depending on snow conditions__, 09:00,17:00__
+381,,, early December,early June__, 09:00,16:00__
+382,,,,,,
+383, 2021-12-11,2022-04-18__, mid December,late March__, 09:00,16:45__
+384,,, early December,late March__, 09:00,16:30__
+385, 2021-12-04,2022-04-03__, early December,early April__, 08:30,16:30__
+386, 2021-12-18,2022-04-18__, early December,early April__, 09:00,16:00__
+387,,, mid December,late March__, 09:30,16:30__
+388, 2021-12-18,2022-04-03__, mid December,mid March__, 08:30,16:00__
+389, 2021-12-04,2022-04-18__, early December,mid April__, 08:30,16:30__
+390,,, depending on snow conditions,depending on snow conditions__, 10:00,17:00__Limited opening times during the week__
+391, 2021-05-13,2021-11-01__, early October,early December__late December - early May__, 07:50,17:10__
+392, 2021-12-11,2022-03-27__, mid December,early April__, 08:40,16:00__
+393, 2021-12-11,2022-03-20__, early December,early April__, 09:00,16:30__
+394,,, mid December,early April__, 08:30,16:30__
+395, 2021-12-11,2022-04-03__, early December,early April__, 08:30,16:15__
+396, 2021-12-04,2022-04-18__, mid December,mid April__, 09:00,16:15__
+397,,, early December,early April__, 09:00,16:30__
+398,,,,,,
+399,,, mid December,late March__, 09:00,16:30__
+400, 2021-12-04,2022-04-18__, early December,mid April__, 08:45,16:30__
+401,,,,,,
+402,,, mid December,early April__, 09:00,16:00__
+403,,,,, 09:00,17:00__
+404, 2021-12-18,2022-04-03__, mid December,early April__, 09:30,16:30__
+405, 2021-12-04,2022-03-27__, early December,late March__, 09:00,16:00__
+406, 2021-12-17,2022-03-27__, depending on snow conditions,late March__, 09:00,17:00__
+407, 2021-12-04,2022-04-03__, early December,late March__, 09:00,16:00__
+408,,,,,,
+409,,,,, 09:30,16:30__
+410,,,,,,
+411,,,,,,
+412,,,,,,
+413,,, early December,late March__, 09:00,16:00__
+414,,,,, 09:00,17:00__
+415, 2021-12-18,2022-04-18__, mid December,late March__, 08:30,16:00__
+416, 2021-12-18,2022-03-13__, early December,late March__, 09:00,16:30__
+417, 2021-12-11,2022-03-27__, late December,late March__, 09:00,17:00__
+418,,,,, 09:00,16:00__
+419, 2021-11-19,2022-05-01__, mid November,early May__, 08:30,16:45__
+420, 2021-12-18,2022-03-20__, depending on snow conditions,depending on snow conditions__, 09:00,16:30__
+421,,,,, 08:00,16:30__
+422, 2021-12-11,2022-03-27__, mid December,late March__, 08:30,16:30__
+423,,, mid November,mid May__, 10:00,20:00__
+424,,, mid December,early April__, 09:00,17:00__
+425,,, early December,mid April__, 09:00,16:00__
+426,,, early December,late April__, 09:00,16:00__
+427,,,,,,
+428, 2021-12-11,2022-04-18__, mid December,early April__, 08:45,16:00__
+429, 2021-11-20,2022-04-18__, mid November,late April__, 09:30,16:30__
+430,,,,, 09:00,17:00__
+431,,, mid December,late March__, 09:00,16:00__
+432, 2021-12-04,2022-04-03__, early December,early April__, 09:00,16:30__
+433,,,,, 09:00,17:00__
+434, 2021-12-04,2022-04-24__, mid December,mid April__, 09:00,16:30__
+435,,, mid December,late March__, 08:30,16:00__
+436,,,,,,
+437, 2021-12-17,2022-04-24__, mid December,late April__, 09:00,16:00__
+438, 2021-12-04,2022-04-18__, early December,early April__, 09:00,16:30__
+439, 2021-12-04,2022-03-20__, mid December,late March__, 09:00,16:00__
+440, 2021-12-04,2022-03-20__, early December,late March__, 09:00,17:00__
+441, 2021-12-18,2022-03-20__, early December,late March__, 09:00,15:10__
+442,,, mid December,early April__, 08:30,16:30__
+443, 2021-12-18,2022-03-20__, mid December,early April__, 09:00,16:00__
+444, 2021-12-18,2022-03-20__, mid December,mid March__, 08:30,16:30__
+445, 2021-12-04,2022-04-18__, depending on snow conditions,depending on snow conditions__, 08:30,16:30__
+446, 2021-12-04,2022-03-20__, early December,late March__, 09:00,16:00__
+447,,, mid December,mid March__, 09:00,16:30__
+448,,, early December,early April__, 09:00,16:00__
+449, 2021-12-18,2022-03-21__, mid December,mid March__, 09:00,17:00__
+450,,,,,,
+451, 2021-11-27,2022-04-24__, mid December,late April__, 09:00,16:00__
+452,,, mid December,late March__, 09:00,16:00__
+453, 2021-12-11,2022-04-03__, early December,early April__, 09:00,16:00__
+454, 2021-12-11,2022-04-18__, early December,mid April__, 09:00,16:00__
+455, 2021-12-18,2022-04-18__, mid December,mid April__, 09:30,16:30__
+456,,, early December,early April__, 09:00,16:30__
+457,,, mid December,late March__, 08:30,16:30__
+458, 2021-12-11,2022-05-15__, late November,early May__, 13:00,20:00__
+459,,,,,,
+460, 2021-12-18,2022-03-27__, mid December,late March__, 09:00,17:00__
+461, 2021-12-18,2022-04-18__, early December,late March__, 09:00,16:30__
+462,,,,, 09:00,19:00__
+463,,,,, 09:00,16:00__
+464,,,,, 08:45,16:30__
+465,,,,,,
+466, 2021-12-11,2022-03-27__, late December,mid March__, 08:30,15:00__
+467,,,,, 09:00,16:00__Limited opening times during the week__
+468, 2021-12-04,2022-04-03__, early December,late March__, 08:30,16:00__
+469,,,,, 09:00,17:00__
+470,,,,, 09:00,17:00__
+471,,, mid December,early April__, 09:00,15:00__
+472, 2021-12-04,2022-04-03__, early December,mid April__, 08:30,16:30__
+473, 2021-12-04,2022-03-27__, mid December,mid March__, 09:00,16:00__
+474,,,,,,
+475, 2021-12-04,2022-04-03__, depending on snow conditions,depending on snow conditions__, 09:00,16:30__
+476, 2021-12-08,2022-03-20__, early December,mid March__, 09:00,16:30__
+477, 2021-12-18,2022-04-18__, mid December,early April__, 08:30,16:30__
+478, 2021-12-18,2022-03-27__, depending on snow conditions,depending on snow conditions__, 09:15,17:00__
+479, 2021-12-18,2022-03-20__, mid December,late March__, 08:30,16:30__
+480, 2021-12-18,2022-04-18__, mid December,late March__, 08:30,16:45__
+481, 2021-06-19,2021-10-31__, late May,early November__, 08:00,15:45__
+482, 2021-12-11,2022-04-03__, mid December,mid March__, 09:00,16:00__
+483,,,,, 08:30,16:30__
+484, 2021-12-04,2022-04-03__, depending on snow conditions,early April__, 09:00,16:30__
+485,,,,, 10:00,16:00__
+486, 2021-12-04,2022-04-03__, early December,early April__, 08:30,16:00__
+487, 2021-11-20,2022-04-24__, early November,late April__, 10:00,16:00__
+488,,,,,,
+489,,, early December,early April__, 09:00,16:30__
+490,,, late October,late April__, 09:00,16:00__
+491, 2021-12-18,2022-04-18__, late December,late April__, 08:30,16:00__
+492, 2021-12-18,2022-03-13__, mid December,mid March__, 09:00,17:00__
+493, 2021-12-04,2022-04-18__, mid December,late March__, 09:00,16:00__
+494, 2021-12-18,2022-03-20__, mid December,late March__, 08:30,16:00__
+495,,,,,,
+496, 2021-12-18,2022-04-18__, depending on snow conditions,depending on snow conditions__, 08:30,17:00__
+497,,,,,,
+498,,, early December,early April__, 09:00,17:00__
+499,,,,, 09:00,16:30__
+500,,, early December,early May__, 09:00,16:00__
+501,,, early December,mid April__, 09:00,16:00__
+502, 2021-12-18,2022-03-27__, mid December,late March__, 08:45,16:45__
+503, 2021-12-11,2022-04-18__, late December,late March__, 09:00,16:50__
+504,,,,,,
+505,,, early December,early April__, 08:30,16:30__
+506, 2021-12-11,2022-03-27__, depending on snow conditions,mid March__, 09:00,16:30__
+507, 2021-12-04,2022-04-24__, early December,early April__, 09:00,16:00__
+508,,,,,,
+509,,,,,,
+510,,,,, 10:00,16:00__
+511,,,,,,
+512,,, mid December,late March__, 09:00,16:30__
+513,,,,, 09:00,16:30__
+514, 2021-12-11,2022-03-20__, mid December,depending on snow conditions__, 08:30,16:30__
+515, 2021-12-11,2022-03-27__, early January,mid March__, 09:00,21:00__
+516, 2021-12-18,2022-03-13__, mid December,mid March__, 09:00,16:00__
+517, 2021-12-11,2022-03-27__, mid December,late March__, 09:00,16:00__
+518, 2021-11-27,2022-04-18__, mid November,early April__, 08:30,16:30__
+519,,,,,,
+520, 2021-12-11,2022-04-18__, mid December,mid April__, 09:00,16:00__
+521, 2021-12-11,2022-03-20__, mid December,mid March__, 09:00,16:30__
+522, 2021-12-15,2022-04-15__, mid December,mid April__, 08:00,16:00__
+523, 2021-12-18,2022-03-20__, mid December,mid March__, 08:30,16:45__
+524,,,,, 08:45,16:30__
+525,,, early December,late March__, 09:00,16:30__
+526,,,,,,
+527, 2021-12-11,2022-04-18__, mid December,early April__, 09:00,15:00__
+528,,,,,,
+529, 2021-12-18,2022-04-18__, mid December,early April__, 09:00,16:00__
+530, 2021-12-11,2022-03-27__, mid December,early April__, 09:00,16:00__
+531,,,,,,
+532, 2021-12-11,2022-03-27__, early December,early April__, 08:00,16:00__
+533, 2021-12-11,2022-04-18__, early December,early April__, 09:00,16:30__
+534,,,,,,
+535, 2021-12-18,2022-04-18__, late November,early April__, 10:00,16:00__
+536,,,,,,
+537,,,,,,
+538,,, late November,late April__, 09:00,16:00__
+539, 2021-12-11,2022-03-20__, mid December,late March__, 09:00,17:00__
+540,,,,,,
+541,,,,,,
+542, 2021-12-04,2022-04-18__, early December,early April__, 08:30,16:30__
+543, 2021-12-11,2022-04-03__, early December,early April__, 09:00,16:00__
+544,,,,,,
+545,,, mid December,mid March__, 09:00,16:00__
+546,,,,, 09:00,17:00__
+547, 2021-12-24,2022-03-13__, mid December,mid March__, 08:30,16:30__
+548, 2021-12-11,2022-04-18__, early December,early April__, 09:00,16:00__
+549,,,,,,
+550,,, mid November,mid June__, 10:00,18:00__
+551,,, mid December,early March__, 09:00,16:45__
+552, 2021-12-25,2022-03-20__, depending on snow conditions,depending on snow conditions__, 09:00,16:30__
+553, 2021-12-03,2022-04-03__, early December,early April__, 09:00,22:00__
+554, 2021-12-18,2022-04-03__, mid December,late March__, 09:15,16:30__
+555, 2021-12-11,2022-03-27__, early December,early April__, 08:30,16:00__
+556,,, mid December,late March__, 08:30,16:30__
+557,,,,,,
+558, 2021-12-11,2022-04-03__, early December,early April__, 09:00,16:00__
+559,,, mid December,late March__, 09:00,16:00__
+560,,,,,,
+561,,,,, 09:00,16:00__
+562, 2021-12-04,2022-05-01__, early December,late April__, 09:00,16:00__
+563,,,,, 08:30,16:30__
+564, 2021-12-04,2022-04-03__, mid December,early April__, 09:00,17:00__
+565, 2021-12-11,2022-03-27__, early December,early April__, 08:00,13:00__
+566,,, mid December,early April__, 09:00,17:30__
+567, 2021-12-04,2022-04-03__, early December,early April__, 08:30,16:00__
+568,,, early December,early April__, 09:00,17:00__
+569, 2021-12-04,2022-03-20__, mid December,mid March__, 09:00,16:15__
+570,,,,,,
+571,,,,,,
+572, 2021-12-18,2022-03-20__, mid December,early April__, 09:00,16:00__
+573, 2021-12-18,2022-05-01__, late November,early May__, 09:00,16:00__
+574,,,,,,
+575,,,,,,
+576,,,,,,
+577,,,,, 09:00,16:30__
+578, 2021-12-18,2022-03-20__, mid December,mid March__, 09:00,17:00__
+579,,,,,,
+580, 2021-12-04,2022-04-03__, early December,early April__, 08:30,16:00__
+581, 2021-11-27,2022-04-18__, early November,early May__, 09:00,16:00__
+582,,, late November,late April__, 09:30,16:00__
+583,,,,, 10:00,16:00__
+584,,,,, 09:00,17:00__
+585,,,,,,
+586,,,,, 09:00,16:00__
+587,,,,,,
+588,,,,, 10:00,16:00__
+589, 2021-12-18,2022-05-01__, early December,early May__, 09:00,16:00__
+590, 2021-12-18,2022-03-27__, depending on snow conditions,early April__, 09:00,16:00__
+591, 2021-12-11,2022-04-03__, early December,early April__, 09:00,20:00__
+592,,,,, 09:00,16:00__
+593, 2021-12-11,2022-04-03__, mid December,early April__, 09:00,17:00__
+594, 2021-12-11,2022-04-18__, early December,early April__, 09:00,16:00__
+595,,,,, 08:30,16:30__
+596, 2021-12-04,2022-04-18__, early December,mid April__, 09:00,16:00__
+597, 2021-12-18,2022-04-18__, mid December,mid April__, 09:00,16:00__
+598,,,,, 09:30,16:00__
+599,,,,, 10:00,16:00__
+600, 2021-12-04,2022-04-18__, early December,early April__, 08:30,17:00__
+601,,, mid December,late March__, 08:00,16:00__
+602, 2021-12-04,2022-04-03__, early December,late April__, 08:30,16:00__
+603,,,,,,
+604,,, mid December,early April__, 09:00,16:30__
+605,,,,,,
+606,,,,, 09:00,16:30__
+607,,,,,,
+608,,,,,,
+609,,,,, 09:00,16:00__
+610,,,,,,
+611,,,,,,
+612,,,,, 09:00,22:00__
+613,,, mid December,mid March__, 09:00,17:00__
+614,,,,, 09:00,16:00__
+615,,, early December,mid March__, 08:00,16:00__
+616,,,,,,
+617,,,,, 10:00,16:00__
+618,,,,,,
+619,,, late November,early April__, 09:00,17:00__
+620,,, mid November,mid April__, 09:00,16:00__
+621,,, mid December,late March__, 09:00,17:00__
+622,,,,,,
+623,,,,,,
+624, 2021-12-11,2022-03-20__, early December,early April__, 08:30,16:00__
+625,,, early December,late March__, 09:00,16:30__
+626, 2021-12-11,2022-03-20__, depending on snow conditions,mid March__, 09:00,16:15__
+627,,,,, 09:00,16:00__
+628,,,,,,
+629,,,,,,
+630, 2021-12-18,2022-03-20__, mid December,late March__, 09:00,16:00__
+631, Year-round__,, Year-round__,, 09:00,23:00__
+632, 2021-12-18,2022-03-27__, mid December,late March__, 09:00,16:30__
+633,,, early December,late March__, 09:00,16:45__
+634,,, early December,late March__, 09:00,16:45__
+635,,,,, 09:00,17:00__
+636, 2021-12-17,2022-03-27__, mid December,early March__, 09:00,16:30__
+637,,, early December,early April__, 08:30,16:00__
+638,,,,, 09:00,17:00__
+639,,, early December,late April__, 08:30,16:30__
+640, 2021-12-18,2022-03-20__, early December,mid March__, 09:00,16:00__
+641,,,,, 09:00,16:00__
+642, 2021-12-18,2022-03-20__, mid December,mid March__, 09:00,16:30__
+643,,, early December,late April__, 10:00,16:00__
+644,,, mid December,late March__, 08:30,16:30__
+645, 2021-12-18,2022-03-27__, mid December,mid April__, 09:00,16:30__
+646, 2021-12-18,2022-03-20__, early December,early April__, 08:00,16:30__
+647,,, mid December,late March__, 08:00,16:00__
+648,,,,,,
+649, 2021-12-18,2022-03-20__, early December,late March__, 09:00,16:00__
+650, 2021-12-25,2022-03-27__, late December,early April__, 09:00,16:00__
+651,,,,, 10:00,16:00__
+652,,,,,,
+653, 2021-11-27,2022-04-18__, early December,mid April__, 09:00,16:00__
+654,,,,, 08:30,16:00__
+655, 2021-12-18,2022-03-13__, early December,mid March__, 09:00,16:00__Limited opening times during the week__
+656,,,,,,
+657,,,,,,
+658,,,,, 08:30,16:30__
+659,,, early December,late March__, 09:00,16:00__
+660,,,,, 09:00,16:00__
+661,,,,, 09:00,16:00__
+662,,,,, 07:00,14:00__
+663,,, mid December,early April__, 09:00,16:30__
+664,,,,,,
+665, 2021-12-04,2022-04-18__, mid December,early April__, 09:00,16:00__
+666,,,,,,
+667, 2021-12-08,2022-03-27__, depending on snow conditions,early March__, 08:30,16:15__
+668,,,,,,
+669, 2021-12-04,2022-04-03__, early December,early April__, 09:00,16:45__
+670, 2021-12-18,2022-03-20__, mid December,late March__, 09:15,16:10__
+671,,,,, 08:00,16:00__
+672,,,,,,
+673, 2021-12-25,2022-03-06__, depending on snow conditions,depending on snow conditions__, 09:00,17:00__Limited opening times during the week__
+674, 2021-12-18,2022-03-20__, late December,late March__, 09:00,16:00__
+675, 2021-12-18,2022-03-13__, mid December,mid March__, 09:00,16:30__
+676, 2021-12-11,2022-03-20__, mid December,late March__, 10:00,16:00__
+677,,,,,,
+678,,, mid December,mid April__, 09:00,16:00__
+679, 2021-12-11,2022-03-27__, early December,mid March__, 09:00,16:45__
+680,,,,,,
+681,,,,, 09:00,16:00__
+682, 2021-12-18,2022-03-20__, mid December,mid April__, 09:10,16:20__
+683,,, early December,early April__, 08:30,17:00__
+684, 2021-12-11,2022-03-27__, early December,mid April__, 09:00,18:00__
+685,,,,,,
+686,,, mid December,late March__, 08:30,16:30__
+687, 2021-12-11,2022-04-03__, early December,early April__, 08:30,16:00__
+688, 2021-12-11,2022-03-27__, early December,early April__, 09:00,16:00__
+689, 2021-12-18,2022-03-13__, mid December,mid March__, 09:00,16:00__
+690, 2021-12-11,2022-04-03__, mid December,early April__, 08:30,15:30__
+691,,,,, 09:00,16:15__
+692,,, early December,late March__, 09:00,16:00__
+693, 2021-12-18,2022-03-13__, depending on snow conditions,mid March__, 09:00,16:00__
+694,,,,, 10:00,16:00__Limited opening times during the week__
+695,,,,, 09:00,16:30__
+696,,, depending on snow conditions,depending on snow conditions__, 09:00,16:30__
+697, 2021-12-24,2022-04-18__, late December,late March__, 08:15,16:00__
+698,,, mid December,early April__, 09:00,16:00__
+699,,,,, 08:00,17:00__Limited opening times during the week__
+700,,,,,,
+701,,,,,,
+702,,, mid December,early April__, 09:00,16:30__
+703, 2021-12-04,2022-04-03__, mid December,mid March__, 08:30,16:00__
+704,,,,,,
+705,,,,, 09:00,16:30__
+706,,,,,,
+707,,,,, 09:00,16:00__
+708, 2021-12-08,2022-03-27__, mid December,late March__, 09:00,16:00__
+709,,,,,,
+710,,,,,,
+711, 2021-12-18,2022-03-20__, mid December,mid March__, 09:00,16:15__
+712,,,,, 08:30,16:30__
+713,,,,,,
+714,,,,, 09:30,17:00__
+715, 2021-12-04,2022-03-27__, early December,late March__, 09:00,18:00__
+716,,,,, 09:00,16:30__
+717,,,,,,
+718,,,,, 09:00,16:00__
+719, 2021-12-18,2022-03-20__, mid December,depending on snow conditions__, 09:00,16:30__
+720,,,,, 08:30,16:30__
+721, 2021-12-24,2022-04-03__, late December,early April__, 08:30,16:00__
+722, 2021-12-25,2022-03-13__, depending on snow conditions,depending on snow conditions__, 09:30,16:00__
+723, 2021-12-18,2022-03-20__, early December,late March__, 08:30,16:15__
+724, Year-round__,, Year-round__,, 10:00,23:00__
+725, 2021-12-18,2022-03-06__, mid December,early April__, 09:00,16:00__
+726, 2021-12-04,2022-04-03__, early December,late March__, 09:00,22:00__
+727,,,,, 08:30,17:00__
+728, 2021-12-11,2022-03-27__, mid December,early April__, 08:30,15:30__
+729,,,,,,
+730,,,,, 09:00,16:00__
+731, 2021-12-18,2022-03-20__, early December,early March__, 09:00,16:00__
+732, 2021-12-18,2022-04-18__, late December,late March__, 09:00,16:00__
+733, 2021-12-18,2022-03-20__, early December,late March__, 09:00,16:00__
+734,,,,, 09:00,17:00__Limited opening times during the week__
+735,,,,,,
+736,,,,, 09:00,15:30__
+737,,,,,,
+738,,,,,,
+739,,, mid December,late March__, 08:30,16:00__
+740, 2021-12-18,2022-04-18__, mid December,mid April__, 09:00,16:00__
+741,,, mid December,late March__, 08:30,16:00__
+742,,,,, 09:00,16:30__
+743, 2021-12-11,2022-03-27__, late December,early April__, 09:00,16:00__
+744,,,,, 09:00,16:00__
+745,,, mid December,early April__, 08:30,16:30__
+746,,,,,,
+747,,,,,,
+748,,,,,,
+749,,,,,,
+750,,,,, 10:00,16:00__Limited opening times during the week__
+751,,,,,,
+752,,, early December,late March__, 09:00,16:00__
+753,,,,,,
+754, 2021-11-27,2022-05-01__, mid December,early May__, 09:00,16:30__
+755,,,,,,
+756,,,,, 09:00,17:00__
+757, 2021-12-11,2022-04-03__, mid December,early April__, 09:00,16:30__
+758,,,,, 09:00,16:45__
+759,,, mid December,late March__, 09:00,16:30__
+760,,, mid December,late March__, 09:00,17:00__
+761,,,,, 09:30,16:30__
+762, 2021-12-18,2022-03-20__, depending on snow conditions,depending on snow conditions__, 09:00,16:00__
+763,,,,, 08:30,16:30__
+764,,,,,,
+765, 2021-12-18,2022-03-06__, mid December,early March__, 09:00,16:15__
+766,,, early December,early April__, 08:30,16:00__
+767,,,,,,
+768,,, early December,early April__, 09:00,16:45__
+769,,,,, 09:00,17:00__
+770,,,,, 09:00,16:00__
+771,,,,, 08:30,16:00__
+772, 2021-12-18,2022-03-20__, depending on snow conditions,mid March__, 08:30,16:15__
+773,,,,, 09:00,17:30__
+774,,,,, 09:00,16:30__
+775,,,,,,
+776,,,,, 09:00,17:00__
+777,,,,,,
+778,,,,, 10:00,16:00__
+779, 2021-12-11,2022-04-03__, early December,early April__, 09:00,16:00__
+780,,,,,,
+781,,, mid December,late March__, 08:30,16:00__
+782, 2021-12-11,2022-04-03__, early December,early April__, 09:00,16:00__
+783, 2021-12-11,2022-03-27__, early December,early April__, 09:00,16:00__
+784,,, Year-round__,, 10:00,22:00__Limited opening times during the week__
+785, 2021-12-18,2022-03-20__, mid December,mid March__, 09:00,16:00__
+786,,, early December,late March__, 09:00,16:30__
+787, 2021-12-11,2022-03-27__, mid December,mid March__, 08:45,16:30__
+788, 2021-12-25,2022-03-13__, early December,late March__, 09:00,22:00__
+789,,, mid December,mid March__, 10:00,16:00__
+790,,, Year-round__,, 10:00,22:00__
+791,,,,,,
+792,,,,,,
+793,,,,, 09:00,16:00__
+794, 2021-11-27,2022-04-03__, early December,early April__, 09:00,16:00__
+795, 2021-12-11,2022-04-03__, early December,late March__, 09:00,16:00__
+796,,,,,,
+797,,,,, 09:00,16:00__
+798,,,,, 10:00,16:00__Limited opening times during the week__
+799,,, mid December,late March__, 09:00,16:00__
+800,,,,,,
+801, 2021-12-18,2022-03-20__, mid December,mid March__, 09:00,16:00__
+802, 2021-12-25,2022-03-13__, depending on snow conditions,depending on snow conditions__, 09:00,16:30__
+803,,, mid December,mid March__, 09:00,16:00__
+804,,,,, 09:00,16:00__
+805, 2021-12-04,2022-04-03__, mid December,late March__, 09:00,16:00__
+806,,, mid December,mid March__, 09:00,16:00__
+807,,,,, 10:00,18:00__
+808,,,,, 09:00,16:30__
+809,,,,, 09:00,17:00__
+810,,,,,,
+811, 2021-12-03,2022-04-18__, early December,mid April__, 08:30,16:30__
+812,,,,,,
+813,,,,, 09:30,16:00__
+814,,,,, 10:00,16:00__Limited opening times during the week__
+815, 2021-12-11,2022-03-27__, early December,early April__, 09:00,17:00__
+816,,,,, 10:00,16:30__
+817,,,,, 09:00,16:00__
+818,,,,, 09:00,16:30__
+819,,,,, 09:30,16:00__
+820,,,,,,
+821,,,,,,
+822,,,,,,
+823,,,,, 10:30,16:30__Limited opening times during the week__
+824,,, early December,late March__, 09:00,16:00__
+825,,,,, 09:00,16:00__
+826,,,,,,
+827,,,,,,
+828, 2021-10-16,2022-05-01__, early November,early May__, 09:00,16:00__
+829,,, mid December,late March__, 09:30,16:00__
+830,,,,, 11:00,21:00__
+831,,,,, 09:00,16:30__
+832,,,,,,
+833, 2021-12-04,2022-04-03__, early December,late March__, 09:00,21:00__
+834,,, mid December,late March__, 09:00,16:30__
+835,,, early December,late March__, 09:30,20:30__
+836, 2021-12-11,2022-03-20__, depending on snow conditions,depending on snow conditions__, 09:00,15:45__
+837, 2021-12-11,2022-03-27__, early December,early April__, 09:00,16:00__
+838, 2021-12-04,2022-04-03__, depending on snow conditions,early April__, 09:00,16:15__
+839,,,,, 09:30,16:00__
+840,,,,, 09:30,19:00__
+841,,,,, 09:00,16:00__
+842,,, early December,early April__, 09:00,16:00__
+843,,,,, 09:00,17:00__
+844, 2021-12-11,2022-03-20__, mid December,mid March__, 09:00,16:30__
+845, 2021-12-18,2022-03-20__, depending on snow conditions,depending on snow conditions__, 09:00,16:00__
+846,,,,,,
+847,,, mid December,early April__, 09:00,16:30__
+848,,, mid December,early April__, 08:30,16:00__
+849,,,,, 10:00,16:00__
+850,,,,, 09:30,16:30__
+851,,,,, 09:00,16:00__
+852,,,,, 10:00,16:00__
+853, 2021-12-04,2022-04-18__, early December,mid April__, 08:30,16:00__
+854,,,,, 09:30,16:00__
+855,,, mid December,late March__, 09:00,16:00__
+856, 2021-12-11,2022-03-20__, depending on snow conditions,depending on snow conditions__, 08:30,16:00__
+857, 2021-12-17,2022-03-20__, mid December,late March__, 09:00,16:00__
+858,,, late November,late April__, 09:30,17:00__
+859,,,,, 10:00,19:00__
+860,,,,, 09:00,17:00__
+861,,,,,,
+862,,,,,,
+863,,, mid December,late April__, 08:45,16:30__
+864,,,,, 09:00,16:30__
+865, 2021-12-08,2022-04-03__, early December,mid April__, 09:00,16:00__
+866,,, mid December,mid March__, 08:30,16:00__
+867,,, early December,early April__, 09:00,16:00__
+868,,,,, 09:00,17:00__
+869,,, mid December,late March__, 09:00,16:30__
+870,,, mid December,late March__, 09:00,16:30__
+871, 2021-12-11,2022-04-03__, mid December,late March__, 09:00,17:00__
+872,,, mid December,late March__, 09:00,15:30__
+873,,, mid December,late March__, 09:00,16:30__
+874, 2021-12-18,2022-03-20__, mid December,late March__, 08:30,16:00__
+875,,, late November,mid April__, 09:30,16:30__
+876,,, mid December,late March__, 09:00,16:00__
+877, 2021-12-18,2022-03-20__, late December,late March__, 09:00,16:00__
+878,,, mid December,mid March__, 09:00,16:00__
+879, 2021-12-11,2022-04-03__, early December,early April__, 09:00,16:00__
+880,,,,,,
+881,,,,, 09:00,17:00__
+882,,,,, 09:00,16:30__
+883, 2021-12-08,2022-03-20__, mid December,mid March__, 09:00,16:00__
+884,,,,, 10:00,16:30__Limited opening times during the week__
+885, 2021-12-11,2022-04-03__, mid December,early April__, 09:00,16:00__
+886,,,,,,
+887,,,,, 09:00,17:00__
+888,,,,, 09:00,16:00__
+889,,,,,,
+890,,,,,,
+891,,,,,,
+892,,, depending on snow conditions,mid March__, 09:00,16:30__
+893,,,,,,
+894,,,,,,
+895,,, early December,early March__, 09:00,16:00__
+896,,,,,,
+897, 2021-12-18,2022-03-13__, mid December,mid March__, 09:00,16:15__
+898, 2021-12-18,2022-03-20__, depending on snow conditions,late March__, 09:00,16:00__
+899,,,,,,
+900, 2021-12-25,2022-04-03__, late December,late March__, 09:00,16:00__
+901, 2021-12-18,2022-03-13__, early November,mid March__, 09:00,16:00__
+902,,,,, 09:00,17:00__
+903,,, mid December,early April__, 09:00,16:00__
+904,,,,, 10:00,16:00__
+905,,, mid December,mid March__, 09:00,16:40__
+906,,,,,,
+907, 2021-12-18,2022-03-27__, mid December,late March__, 09:00,16:30__
+908,,,,,,
+909,,, mid December,late March__, 09:00,16:45__
+910,,,,, 09:30,17:00__
+911,,, late January,late April__, 10:00,17:00__Limited opening times during the week__
+912,,,,,,
+913,,, early December,mid March__, 09:00,16:00__
+914,,,,,,
+915,,,,, 10:00,16:00__
+916,,,,, 09:00,17:00__
+917,,,,, 09:00,16:30__
+918, 2021-12-11,2022-03-20__, early December,mid March__, 09:00,16:00__
+919,,, early December,mid April__, 09:00,15:00__
+920, 2021-12-11,2022-03-07__, mid December,late March__, 09:00,16:00__
+921,,,,,,
+922,,,,,,
+923,,,,, 10:00,16:00__
+924, 2021-12-11,2022-03-20__, early December,mid March__, 09:00,16:30__
+925,,,,, 10:00,16:00__
+926, 2021-12-18,2022-03-13__, mid December,early March__, 09:00,16:00__
+927, 2021-12-11,2022-03-20__, mid December,late March__, 09:15,16:00__
+928,,, mid December,late March__, 09:00,16:00__
+929, 2021-12-17,2022-03-19__, mid December,mid March__, 09:00,16:45__
+930,,,,, 10:00,16:00__
+931,,,,, 09:30,16:30__
+932,,,,, 09:00,16:00__
+933,,,,, 09:00,16:00__
+934,,,,,,
+935,,,,, 08:30,17:00__
+936, 2021-12-25,2022-03-13__, mid December,mid March__, 09:00,17:00__
