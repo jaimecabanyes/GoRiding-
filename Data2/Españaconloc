@@ -1,0 +1,27 @@
+,Name,Min_Altitude,Max_Altitude,Total_ski_routes,Easy,Intermediate,Difficult,Aditional_Routes,Lifts,Adult Price (€/$),Current_season_start,Current_season_finish,General_season_start,General_season_finish,Opening_time,Closing_time,Lat,Lon,Municipio/Provincia
+0,Baqueira/Beret,1500,2610,160.0,80.0,60.0,20.0,5.0,29.0,54.5, 2021-11-27,2022-04-18, early December,mid April, 08:45,16:45,42.6988865,0.9347175, Catalunya
+1,Formigal,1501,2251,137.0,47.0,70.0,20.0,,15.0,49.5, 2021-11-27,2022-04-18, late November,mid April, 09:00,17:00,42.7741349,-0.3608611, Aragón
+3,Sierra Nevada – Pradollano,2100,3282,107.0,50.0,49.0,7.8,,17.0,52.0, 2021-12-04,2022-04-18, late November,early May, 09:00,16:45,37.0948755,-3.3991152, Andalucía
+4,Cerler,1505,2630,81.0,37.0,29.0,15.0,,13.0,, 2021-12-04,2022-04-18, early December,early April, 09:00,16:30,42.5927404,0.5384221, Aragón
+5,Panticosa,1146,2204,35.0,11.0,21.0,3.0,,10.0,43.5,,, early December,early April, 09:00,17:00,42.7236963,-0.2843924, Aragón
+6,Boí Taüll,2020,2751,41.3,10.0,22.7,8.6,2.7,7.0,39.0,,,,early April,,,42.5186031,0.8486825, Catalunya
+7,Espot Esqui,1510,2291,25.0,13.0,8.0,4.0,,3.0,34.0,,, early December,early April, 09:00,16:00,42.5508594,1.080222026397298, Catalunya
+8,Candanchú,1514,2236,50.0,15.8,18.3,15.9,11.2,21.0,45.0, 2021-12-04,2022-04-18, early December,early April, 09:00,17:00,42.78888865,-0.52873445, Aragón
+10,Port del Comte,1745,2310,40.0,20.0,15.0,5.0,,14.0,36.0,,,,early April,,,42.1694417,1.5696298, Catalunya
+11,Valdezcaray,1548,2135,22.0,10.0,10.0,2.0,2.0,10.0,29.0,,,,early April, 09:00,17:00,42.2525462,-2.9693047357993736,La Rioja
+12,Port Ainé,1650,2421,26.7,10.7,11.7,4.3,,6.0,34.0,,,,,,,42.42338915,1.2150967547289127, Catalunya
+13,La Pinilla,1484,2036,21.0,14.0,6.0,1.0,,11.0,35.0,,, early December,, 09:00,16:30,40.9669631,-3.4392922,Castilla y León
+14,Alto Campoo,1650,2120,27.7,13.6,10.9,3.2,,13.0,34.0,,,,,,,43.03683235,-4.38684888729685, Cantabria
+15,Valgrande Pajares,1455,1840,25.0,12.0,10.0,3.0,,8.0,28.0,,,,,,,42.97931415,-5.774313024299615, Asturias / Asturies
+17,La Covatilla – Sierra de Béjar,1990,2368,26.8,8.6,18.2,0.0,,3.0,29.0,,,,,,,40.3471169,-5.6876449672543865,Castilla y León
+18,Valdesquí,1860,2278,22.3,18.8,3.5,0.0,,13.0,38.0,,,,, 09:00,16:30,40.8042458,-3.9703754,Castilla y León
+19,Puerto Navacerrada,1703,2174,10.0,3.0,6.0,1.0,,5.0,27.0,,,,,,,40.7844282,-4.004724,Madrid
+20,Javalambre,1650,2000,15.0,14.0,1.0,0.0,,7.0,36.0,,,,, 09:00,17:00,40.0969975,-1.0247566, Aragón
+21,Fuentes de Invierno,1487,1950,8.8,4.2,3.3,1.3,,4.0,27.0, 2021-12-04,2022-04-03, early December,, 09:00,16:45,43.0626331,-5.3925745, Asturias / Asturies
+22,Manzaneda,1505,1760,10.0,8.0,2.0,0.0,,6.0,25.0,,,,,,,42.3098629,-7.2350007,Galicia
+23,Valdelinares (Sierra de Gúdar),1737,1979,17.0,10.0,7.0,0.0,,9.0,37.5,,, early December,, 08:30,17:00,40.3824954,-0.6336588, Aragón
+24,Vallter 2000,1959,2535,10.4,5.4,4.0,1.0,6.3,8.0,27.0,,, early December,, 09:00,16:45,42.4264767,2.2650882, Catalunya
+25,Leitariegos,1513,1800,7.0,4.0,3.0,0.0,,6.0,22.0,,,,,,,42.9988273,-6.4185429, Asturias / Asturies
+27,Vall de Núria,1964,2260,7.6,4.1,2.5,1.0,,5.0,31.0,,,,,,,41.5646528,1.901048, Catalunya
+29,Rasos de Peguera,1825,2035,5.0,3.0,2.0,0.0,,,,,,,,,,41.527062,2.0043079, Catalunya
+31,Punto de Nieve Santa Inés,1753,1832,1.8,1.0,0.8,0.0,,,,,,,,,,42.0380643,-2.7855778, Soria

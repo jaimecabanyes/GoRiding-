@@ -1,0 +1,1145 @@
+,Name,Continent,Country,Min_Altitude,Max_Altitude,Total_ski_routes,Easy,Intermediate,Difficult,Aditional_Routes,Lifts,Adults,Current_season_start,Current_season_finish,General_season_start,General_season_finish,Opening_time,Closing_time
+0,Lermoos   Grubigstein,Europe, Austria,1004,2100,27.3,12.8,12.6,1.9,1.7,8.0,49.5, 2021-12-04,2022-04-18, early December,mid April, 08:30,16:30
+1,Latemar   Obereggen/Pampeago/Predazzo,Europe,error,1540,2388,49.0,9.3,32.8,6.9,,18.0,52.0, 2021-11-26,2022-04-18, late November,late April, 08:30,16:30
+2,Arosa Lenzerheide,Europe, Switzerland,1229,2865,225.0,110.0,87.0,28.0,,43.0,78.0, 2021-10-30,2022-04-18, early November,mid April, 08:30,16:30
+3,Ischgl/Samnaun   Silvretta Arena,Europe,error,1360,2872,239.0,47.0,143.0,49.0,15.0,41.0,55.0, 2021-11-25,2022-05-01, late November,early May, 08:30,16:00
+4,Ski Juwel Alpbachtal Wildschönau,Europe, Austria,830,2025,90.9,25.1,53.1,12.7,16.3,46.0,51.0, 2021-12-03,2022-04-18, mid December,mid April, 08:30,16:00
+5,Val Gardena (Gröden),Europe, Italia,1236,2518,178.0,52.0,105.0,21.0,,79.0,64.0, 2021-12-04,2022-04-10, early December,mid April, 08:30,16:30
+6,Steinplatte/Winklmoosalm   Waidring/Reit im Winkl,Europe,error,740,1860,42.0,18.0,22.0,2.0,2.0,14.0,50.0, 2021-12-04,2022-04-18, late November,early April, 08:30,16:30
+7,Arber,Europe, Deutschland,1050,1456,11.5,4.5,4.0,3.0,5.0,6.0,36.0, 2021-12-11,2022-03-27, mid December,late March, 08:30,16:00
+8,Hochoetz   Oetz,Europe, Austria,1410,2272,37.5,12.0,21.5,4.0,3.5,13.0,44.0,,, early December,mid April, 08:45,16:30
+9,KitzSki   Kitzbühel/Kirchberg,Europe,error,800,2000,181.0,94.0,67.0,20.0,52.0,57.0,59.5, 2021-10-30,2022-04-24, mid October,early May, 08:30,16:30
+10,Racines Giovo (Ratschings Jaufen)/Malga Calice (Kalcheralm),Europe,error,1300,2100,25.0,4.0,21.0,0.0,,8.0,52.0, 2021-12-03,2022-04-18, early December,mid April, 08:30,16:15
+11,Wildkogel   Neukirchen/Bramberg,Europe, Austria,820,2150,75.0,35.0,30.0,10.0,2.0,20.0,52.5, 2021-12-10,2022-04-22, mid December,mid April, 08:30,16:30
+13,Belpiano (Schöneben)/Malga San Valentino (Haideralm),Europe,error,1460,2390,65.0,29.0,30.0,6.0,,10.0,49.0, 2021-12-08,2022-04-23, early December,mid April, 08:30,16:15
+14,Almenwelt Lofer,Europe, Austria,640,1670,46.0,32.0,12.0,2.0,,10.0,47.0, 2021-12-04,2022-04-03, early December,mid April, 08:30,16:00
+15,Saalbach Hinterglemm Leogang Fieberbrunn (Skicircus),Europe,error,830,2096,270.0,140.0,112.0,18.0,,70.0,60.5, 2021-11-26,2022-04-18, late November,mid April, 08:00,16:30
+16,Biberwier   Marienberg,Europe, Austria,1000,1820,11.0,7.3,3.7,0.0,1.3,5.0,49.5, 2021-12-18,2022-03-27, mid December,late March, 08:30,16:30
+17,Sölden,Europe, Austria,1350,3340,143.0,69.5,46.6,27.3,,31.0,64.0, 2021-09-10,2022-05-08, late September,early May, 09:00,16:00
+18,Tauplitz   Bad Mitterndorf,Europe, Austria,896,1965,43.5,18.5,19.0,6.0,2.0,17.0,45.0, 2021-11-27,2022-04-18, early December,mid April, 09:00,16:00
+19,Gitschberg Jochtal,Europe, Italia,1307,2510,55.0,18.5,27.2,9.3,,15.0,54.0, 2021-12-04,2022-04-18, early December,early April, 08:30,16:30
+20,Ofterschwang/Gunzesried   Ofterschwanger Horn,Europe,error,880,1405,16.5,4.6,9.2,2.7,1.5,7.0,43.0, 2021-12-11,2022-04-03, depending on snow conditions,early April, 08:30,16:00
+21,Axamer Lizum,Europe, Austria,1580,2340,30.0,7.0,21.0,2.0,10.0,10.0,43.0, 2021-12-03,2022-04-18, late November,early April, 08:30,16:00
+22,Schlick 2000   Fulpmes,Europe, Austria,1009,2240,22.0,12.0,6.8,3.2,1.5,9.0,43.0, 2021-11-27,2022-04-18, depending on snow conditions,early April, 08:30,16:30
+23,Scuol   Motta Naluns,Europe, Switzerland,1250,2785,70.0,27.0,32.0,11.0,,10.0,54.0, 2021-12-11,2022-04-18, mid December,mid April, 08:45,16:00
+24,Ponte di Legno/Tonale/Presena Glacier/Temù (Pontedilegno Tonale),Europe,error,1121,3000,100.0,24.0,61.0,15.0,,28.0,46.0, 2021-11-06,2022-04-24, late November,early May, 08:30,16:30
+25,of Monte Bondone,Europe, Italia,1189,2090,18.8,4.8,14.0,0.0,2.2,4.0,40.0, 2021-12-04,2022-04-18, mid December,mid April, 08:45,16:45
+26,Ladurns,Europe, Italia,1140,2030,18.0,8.4,8.4,1.2,,4.0,42.0, 2021-12-18,2022-04-18, early December,mid April, 08:30,16:30
+27,Speikboden   Skiworld Ahrntal,Europe,error,950,2400,40.0,21.6,12.7,5.7,5.0,8.0,51.0, 2021-12-04,2022-04-18, early December,mid April, 08:30,16:00
+28,Sonnenkopf   Klösterle,Europe, Austria,1000,2300,29.5,12.8,15.9,0.8,4.0,9.0,46.0, 2021-12-11,2022-04-18, depending on snow conditions,mid April, 08:45,16:00
+29,Kitzsteinhorn/Maiskogel   Kaprun,Europe,error,768,3029,61.0,29.0,23.0,9.0,10.5,21.0,60.5, 2021-10-09,2022-07-23, mid October,early July, 08:15,16:15
+30,Wildhaus   Gamserrugg (Toggenburg),Europe,error,1020,2076,23.0,3.0,17.0,3.0,12.0,6.0,51.0, 2021-12-11,2022-04-18, mid December,early April, 08:30,16:30
+31,Mönichkirchen/Mariensee,Europe, Austria,865,1432,13.5,5.5,6.0,2.0,,5.0,38.5, 2021-12-08,2022-03-27, depending on snow conditions,late March, 09:00,16:00
+32,Elm im Sernftal,Europe, Switzerland,1020,2105,40.0,15.0,20.0,5.0,2.0,5.0,45.0, 2021-12-11,2022-04-18, mid December,late March, 08:30,17:00
+33,Madonna di Campiglio/Pinzolo/Folgàrida/Marilleva,Europe,error,852,2504,150.0,50.0,67.0,33.0,,57.0,60.0, 2021-11-27,2022-04-18, mid December,mid April, 08:30,16:30
+34,Paganella   Andalo,Europe, Italia,1040,2125,40.0,11.0,27.8,1.2,2.0,14.0,47.0, 2021-11-27,2022-04-18, late November,early April, 08:30,16:00
+35,Ehrwalder Wettersteinbahnen   Ehrwald,Europe,error,1000,1530,23.0,15.0,5.0,3.0,1.5,4.0,49.5, 2021-12-18,2022-02-20, mid December,late March, 09:00,16:00
+36,Zillertal Arena   Zell am Ziller/Gerlos/Königsleiten/Hochkrimml,Europe,error,580,2500,147.0,49.0,87.0,10.7,3.0,52.0,59.5,,, early December,late April, 08:30,16:30
+37,San Martino di Castrozza,Europe, Italia,1404,2357,60.0,16.0,32.0,12.0,,21.0,50.0, 2021-11-27,2022-04-18, mid November,mid April, 09:00,16:00
+38,Glungezer   Tulfes,Europe, Austria,950,2304,23.0,6.5,15.5,1.0,,6.0,38.0, 2021-12-08,2022-04-10, mid December,early April, 08:30,16:30
+39,Folgaria/Fiorentini,Europe,error,1200,1850,74.0,36.4,32.0,5.6,,22.0,49.0, 2021-11-27,2022-04-03, early December,early April, 08:30,16:45
+40,Klausberg   Skiworld Ahrntal,Europe,error,1050,2510,33.0,14.0,14.0,5.0,,8.0,51.0, 2021-12-04,2022-04-24, early December,late April, 08:30,16:00
+41,Kristberg   Silbertal,Europe, Austria,889,1589,5.0,2.5,2.5,0.0,6.0,3.0,39.0, 2021-12-11,2022-04-03, mid December,early April, 07:45,18:45
+42,Flumserberg,Europe, Switzerland,665,2222,65.0,10.0,38.0,17.0,6.0,17.0,62.0, 2021-11-27,2022-04-18, mid November,early April, 08:00,16:30
+43,Pejo,Europe, Italia,1400,3000,20.0,5.0,12.8,2.2,,7.0,38.0, 2021-12-04,2022-04-18, early December,early April, 08:30,16:30
+44,of Rosskopf,Europe, Austria,948,2120,20.0,6.0,13.0,1.0,,3.0,45.0, 2021-11-27,2022-04-18, early December,early April, 08:30,17:00
+45,Gurgl   Obergurgl Hochgurgl,Europe,error,1793,3082,112.0,60.2,33.2,18.8,4.5,25.0,60.0, 2021-11-18,2022-04-24, early January,late April, 09:00,16:00
+46,of Pizol below the glacier,Europe,error,509,2227,43.0,15.5,14.4,13.1,,12.0,55.0, 2021-12-11,2022-04-03, mid December,early April, 08:15,16:45
+47,Hohsaas   Saas Grund,Europe, Switzerland,1559,3142,34.5,12.0,21.3,1.2,5.0,6.0,52.0, 2021-12-18,2022-04-18, mid December,mid April, 09:00,16:15
+48,Schilthorn   Mürren/Lauterbrunnen,Europe, Switzerland,796,2970,54.0,19.0,23.0,12.0,3.0,16.0,64.0, 2021-12-04,2022-04-24, early December,late April, 08:00,16:30
+49,Fichtelberg   Oberwiesenthal,Europe, Deutschland,911,1215,15.5,6.8,6.1,2.6,,6.0,32.0, 2021-12-11,2022-03-27, early December,late March, 09:00,16:30
+50,SkiWelt Wilder Kaiser Brixental,Europe, Austria,620,1957,288.0,126.0,127.0,35.0,,90.0,57.0, 2021-12-04,2022-03-27, early December,mid April, 08:30,16:30
+51,Serfaus Fiss Ladis,Europe, Austria,1200,2828,198.0,47.0,123.0,28.0,16.0,39.0,56.0, 2021-12-04,2022-04-18, early December,mid April, 08:30,16:00
+52,St. Anton/St. Christoph/Stuben/Lech/Zürs/Warth/Schröcken   Ski Arlberg,Europe,error,1300,2811,302.0,130.0,121.0,51.0,200.0,88.0,61.0, 2021-12-03,2022-04-24, early December,late April, 08:45,16:30
+53,St. Moritz   Corviglia,Europe, Switzerland,1720,3022,155.0,42.0,79.0,34.0,8.0,,, 2021-11-27,2022-04-03, early December,mid April, 07:45,17:00
+54,Schladming   Planai/Hochwurzen/Hauser Kaibling/Reiteralm (4 Berge Skischaukel),Europe,error,728,2015,123.0,46.4,68.3,8.3,4.0,46.0,60.5, 2021-11-06,2022-04-18, mid December,mid April, 08:15,16:30
+55,Kaltenbach   Hochzillertal/Hochfügen (SKi optimal),Europe,error,600,2378,85.6,29.7,41.3,14.6,3.4,36.0,61.0, 2021-12-04,2022-04-18, late November,mid April, 07:30,16:30
+56,Tignes/Val d'Isère,Europe, France,1550,3456,300.0,170.0,78.0,52.0,20.0,82.0,62.0, 2021-10-16,2022-05-08, late November,early Maymid June - early August, 09:30,16:30
+57,Les 3 Vallées   Val Thorens/Les Menuires/Méribel/Courchevel,Europe,error,1100,3230,600.0,312.0,216.0,72.0,50.0,136.0,66.0, 2021-11-20,2022-05-08, mid November,early May, 08:30,16:30
+58,Mayrhofen   Penken/Ahorn/Rastkogel/Eggalm,Europe,error,630,2500,142.0,44.0,70.0,28.0,8.7,44.0,57.5, 2021-12-03,2022-04-24, early December,late April, 08:00,17:00
+59,Zermatt/Breuil Cervinia/Valtournenche   Matterhorn,Europe,error,1562,3899,322.0,75.0,220.0,27.0,38.0,52.0,85.0, Year-round__,, Year-round__,mid April, 08:00,16:30
+60,Hochkönig   Maria Alm/Dienten/Mühlbach,Europe, Austria,800,1900,120.0,52.0,41.0,27.0,8.0,34.0,60.5, 2021-12-03,2022-04-18, early December,mid April, 09:00,15:30
+61,Silvretta Montafon,Europe, Austria,700,2430,118.0,60.0,50.0,8.0,22.0,34.0,59.0, 2021-11-26,2022-04-18, late November,mid April, 08:15,16:30
+62,Kronplatz (Plan de Corones),Europe, Italia,973,2275,119.0,52.0,42.0,25.0,,32.0,62.0, 2021-11-27,2022-04-24, late November,mid April, 08:30,17:00
+63,Laax/Flims/Falera,Europe, Switzerland,1100,3018,188.0,88.0,81.0,19.0,28.0,28.0,82.0, 2021-10-30,2022-04-24, late October,early May, 08:30,16:30
+64,Obertauern,Europe, Austria,1630,2313,100.0,61.0,35.0,4.0,,26.0,50.0, 2021-11-20,2022-05-01, late November,mid April, 09:00,16:00
+65,Snow Space Salzburg   Flachau/Wagrain/St. Johann Alpendorf,Europe,error,740,1980,120.0,34.0,82.1,4.0,5.0,,, 2021-11-27,2022-04-18, late November,early April, 08:30,16:00
+66,Schmittenhöhe   Zell am See,Europe, Austria,760,2000,77.0,30.0,28.0,19.0,8.0,28.0,60.5, 2021-11-27,2022-04-18, late November,early May, 08:30,15:30
+67,Adelboden/Lenk   Chuenisbärgli/Silleren/Hahnenmoos/Metsch,Europe,error,1260,2200,86.0,46.0,34.0,6.0,,23.0,63.0, 2021-12-04,2022-04-03, late November,mid April, 08:00,16:30
+68,Grandvalira   Pas de la Casa/Grau Roig/Soldeu/El Tarter/Canillo/Encamp,Europe,error,1710,2640,210.0,100.0,77.0,33.0,,65.0,52.0, 2021-12-04,2022-04-18, early December,mid April, 09:00,17:00
+69,Bad Gastein/Bad Hofgastein   Schlossalm/Angertal/Stubnerkogel,Europe,error,860,2300,82.7,30.8,49.3,2.6,1.3,,, 2021-12-03,2022-04-24, early December,mid April, 08:30,16:00
+70,Andermatt/Oberalp/Sedrun,Europe, Switzerland,1444,2600,70.0,18.0,40.0,12.0,,13.0,82.0, 2021-11-27,2022-04-18, mid November,late April, 09:00,16:00
+71,La Plagne (Paradiski),Europe, France,1207,3167,225.0,139.0,59.0,27.0,,71.0,55.0, 2021-12-11,2022-04-30, mid December,late Aprildepending on snow conditions - depending on snow conditions, 08:30,16:30
+72,Serre Chevalier   Briançon/Chantemerle/Villeneuve la Salle/Le Monêtier les Bains,Europe,error,1200,2800,250.0,138.0,80.0,32.5,,55.0,54.0, 2021-12-11,2022-04-24, early December,late April, 08:30,16:30
+73,Aletsch Arena   Riederalp/Bettmeralp/Fiesch Eggishorn,Europe,error,1845,2869,104.0,42.0,50.0,12.0,15.0,35.0,61.0, 2021-12-08,2022-04-18, early December,early April, 09:00,16:30
+74,on the famous Alpe di Siusi (Seiser Alm) guarantees an amazing winter holiday. Europe’s largest mountain pasture,Europe,error,1669,2220,63.0,15.0,45.0,3.0,,21.0,62.0, 2021-12-04,2022-04-10, early December,late April, 08:00,17:00
+75,4 Vallées   Verbier/La Tzoumaz/Nendaz/Veysonnaz/Thyon,Europe, Switzerland,821,3330,412.0,107.0,202.0,103.0,,67.0,72.0, 2021-12-03,2022-04-18, mid November,late Aprilmid June - late Augustlate October - early November, 08:45,16:45
+76,Les 2 Alpes,Europe, France,1280,3523,200.0,110.0,56.0,34.0,,47.0,54.0, 2021-11-27,2022-04-24, late November,late May, 09:00,17:00
+77,Titlis   Engelberg,Europe, Switzerland,1003,3020,70.0,18.0,42.5,9.5,,18.0,63.0, 2021-10-09,2022-05-22, early October,mid April, 08:30,16:00
+78,Les Portes du Soleil   Morzine/Avoriaz/Les Gets/Châtel/Morgins/Champéry,Europe,error,985,2254,580.0,310.0,210.0,60.0,,165.0,59.0, 2021-12-18,2022-04-10, mid December,mid April, 08:00,13:00
+79,Alta Badia,Europe, Italia,1324,2550,130.0,70.0,52.0,8.0,,53.0,62.0, 2021-12-04,2022-04-10, early December,mid April, 08:30,16:30
+80,Turracher Höhe,Europe, Austria,1400,2205,42.0,14.0,24.5,3.5,1.0,14.0,48.5, 2021-11-20,2022-05-01, mid December,late April, 09:00,16:00
+81,Livigno,Europe, Italia,1816,2798,115.0,30.0,65.0,20.0,,32.0,50.0, 2021-11-27,2022-05-01, early December,early April, 08:30,17:00
+82,Katschberg,Europe, Austria,1066,2220,70.0,10.0,50.0,10.0,2.0,16.0,51.0, 2021-12-03,2022-04-03, early December,early April, 09:00,16:00
+83,Belvedere/Col Rodella/Ciampac/Buffaure   Canazei/Campitello/Alba/Pozza di Fassa,Europe,error,1320,2485,55.2,7.3,40.7,7.2,,36.0,56.0, 2021-12-03,2022-04-18, early December,mid April, 08:30,16:30
+84,Großglockner Resort Kals Matrei,Europe,error,1020,2422,44.6,9.5,24.5,10.6,,14.0,52.0, 2021-12-08,2022-04-18, early December,mid April, 09:00,16:30
+85,Damüls Mellau,Europe, Austria,710,2050,80.6,29.9,48.8,1.9,17.7,20.0,55.5,,, early December,early April, 09:00,16:00
+86,Passo San Pellegrino/Falcade,Europe, Italia,1190,2513,67.5,20.5,38.5,8.5,1.5,15.0,52.0, 2021-12-04,2022-04-09, late November,mid April, 08:30,16:30
+87,Kleine Scheidegg/Männlichen   Grindelwald/Wengen,Europe,error,944,2320,102.0,33.0,56.0,13.0,,24.0,64.0, 2021-11-27,2022-04-24, late November,mid April, 08:00,16:30
+88,Via Lattea   Sestriere/Sauze d’Oulx/San Sicario/Claviere/Montgenèvre,Europe,error,1372,2789,400.0,96.0,220.0,84.0,,69.0,50.5, 2021-12-04,2022-04-24, early December,late April, 09:00,16:30
+89,Trysil,Europe, Norway,415,1100,71.0,33.0,18.0,20.0,,31.0,54.0, 2021-11-20,2022-04-18, depending on snow conditions,mid April, 09:00,15:30
+90,Parsenn (Davos Klosters),Europe, Switzerland,810,2844,95.5,17.3,60.5,17.7,6.3,18.0,67.0, 2021-11-19,2022-04-24, early November,mid April, 08:15,16:00
+91,Baqueira/Beret,Europe, España,1500,2610,160.0,80.0,60.0,20.0,5.0,29.0,54.5, 2021-11-27,2022-04-18, early December,late April, 08:45,16:45
+92,Alpe d'Huez,Europe, Danmark,1125,3330,250.0,70.0,130.0,50.0,,62.0,55.0, 2021-12-04,2022-04-24, early December,early April, 08:30,17:00
+93,Obersaxen/Mundaun/Val Lumnezia,Europe,error,1201,2310,120.0,60.0,40.0,20.0,,16.0,56.0, 2021-12-04,2022-04-03, mid December,late April, 09:00,16:00
+94,Le Grand Massif   Flaine/Les Carroz/Morillon/Samoëns/Sixt,Europe,error,697,2480,265.0,135.0,95.0,35.0,,55.0,50.9, 2021-11-27,2022-04-24, mid December,late April, 08:30,16:30
+95,Les Arcs/Peisey Vallandry (Paradiski),Europe,error,1200,3226,200.0,104.0,70.0,26.0,,47.0,55.0, 2021-12-11,2022-04-30, mid December,mid April, 08:30,16:30
+96,Nassfeld   Hermagor,Europe, Austria,600,2002,110.0,30.0,69.0,11.0,,30.0,51.0, 2021-12-03,2022-04-18, early December,mid April, 08:30,16:15
+97,Arabba/Marmolada,Europe,error,1446,3269,63.0,23.6,30.5,8.9,,26.0,57.0, 2021-12-03,2022-04-24, early December,mid April, 08:40,16:30
+98,Großarltal/Dorfgastein,Europe, Austria,849,2033,63.2,27.8,34.0,1.4,9.7,17.0,57.5, 2021-12-04,2022-04-18, late December,mid April, 08:30,15:00
+99,Megève/Saint Gervais,Europe, France,850,2353,263.0,98.0,134.0,31.0,,81.0,50.5, 2021-11-27,2022-04-18, mid December,mid April, 08:30,17:10
+100,Jakobshorn (Davos Klosters),Europe,error,1540,2590,41.2,25.5,13.2,2.5,13.0,11.0,64.0, 2021-12-03,2022-04-18, late November,mid April, 08:15,16:00
+101,Espace Diamant   Les Saisies/Notre Dame de Bellecombe/Praz sur Arly/Flumet/Crest Voland,Europe,error,1000,2069,192.0,132.0,49.0,11.0,,81.0,42.6, 2021-12-04,2022-04-18, mid December,early June, 09:00,17:00
+102,Stubai Glacier (Stubaier Gletscher),Europe,error,1697,3212,65.0,25.0,15.0,25.0,,22.0,53.5, 2021-10-08,2022-06-05, depending on snow conditions,mid April, 08:00,16:30
+103,Zauchensee/Flachauwinkl,Europe, Austria,1000,2176,45.0,23.5,17.2,4.3,3.5,,, 2021-11-26,2022-04-24, mid December,late April, 08:30,16:00
+104,Corvatsch/Furtschellas,Europe, Switzerland,1797,3303,120.0,13.0,89.3,17.7,2.0,,, 2021-11-27,2022-04-24, late November,early May, 08:20,17:00
+105,Hemsedal,Europe, Norway,620,1450,44.1,29.2,10.8,4.1,1.7,19.0,54.0, 2021-11-20,2022-05-01, early November,early April, 09:00,16:30
+106,Alpe Lusia   Moena/Bellamonte,Europe, Italia,1367,2340,27.5,12.9,10.6,4.0,,8.0,52.0, 2021-12-03,2022-04-18, early December,early May, 08:30,16:30
+107,Åre,Europe, Sweeden,380,1274,91.0,45.0,38.0,8.0,,31.0,58.0, 2021-11-20,2022-05-01, mid November,mid April, 08:00,16:30
+108,Alagna Valsesia/Gressoney La Trinité/Champoluc/Frachey (Monterosa Ski),Europe,error,1212,3275,132.0,29.0,89.0,14.0,5.0,20.0,47.0, 2021-11-27,2022-04-24, early December,early April, 08:45,17:00
+109,3 Zinnen Dolomites   Helm/Stiergarten/Rotwand/Kreuzbergpass,Europe,error,1130,2200,86.4,40.4,37.6,8.4,,20.0,59.0, 2021-11-27,2022-04-18, late November,early April, 08:30,16:30
+110,Radstadt/Altenmarkt,Europe, Austria,850,1571,17.3,9.2,7.5,0.6,,,, 2021-12-17,2022-04-03, mid December,late March, 08:30,16:00
+111,Dachstein West   Gosau/Russbach/Annaberg,Europe,error,745,1617,51.0,15.0,33.0,3.0,4.0,17.0,48.6, 2021-12-04,2022-04-18, early December,mid April, 09:00,16:00
+112,Galtür   Silvapark,Europe, Austria,1600,2300,43.0,6.0,25.0,12.0,6.0,10.0,44.5, 2021-12-10,2022-04-22, early December,early April, 08:45,16:00
+113,Civetta   Alleghe/Selva di Cadore/Palafavera/Zoldo,Europe,error,1000,2100,72.0,28.0,36.0,8.0,,23.0,52.0, 2021-12-04,2022-04-09, early December,late March, 08:30,16:30
+114,St. Johann in Tirol/Oberndorf   Harschbichl,Europe,error,659,1604,42.0,15.5,23.0,3.5,1.0,16.0,49.5, 2021-12-04,2022-04-03, mid December,mid April, 08:30,16:00
+115,Hochzeiger   Jerzens,Europe, Austria,1450,2450,40.0,10.0,22.0,8.0,8.0,9.0,47.0, 2021-12-03,2022-04-23, early December,mid April, 08:45,16:30
+116,Formigal,Europe, España,1501,2251,137.0,47.0,70.0,20.0,,15.0,49.5, 2021-11-27,2022-04-18, late November,late April, 09:00,17:00
+117,Hintertux Glacier (Hintertuxer Gletscher),Europe,error,1500,3250,60.0,14.0,35.0,11.0,,21.0,57.5, Year-round__,, Year-round__,late March, 09:00,16:00
+118,Hafjell,Europe, Norway,195,1059,44.0,33.0,7.0,4.0,,15.0,52.0, 2021-11-20,2022-04-24, early November,early May, 09:00,16:30
+119,Rinderberg/Saanerslochgrat/Horneggli   Zweisimmen/Saanenmöser/Schönried/St. Stephan,Europe,error,948,2011,88.9,64.3,20.6,4.0,,15.0,71.0, 2021-12-04,2022-04-18, depending on snow conditions,mid April, 08:30,16:30
+120,Cortina d'Ampezzo,Europe, Italia,1217,2828,120.0,45.0,59.0,16.0,,27.0,48.0, 2021-11-27,2022-04-18, late November,early April, 08:30,16:30
+121,Saas Fee,Europe, Switzerland,1800,3573,100.0,20.0,60.0,20.0,5.0,23.0,69.0, 2021-07-17,2022-04-24, mid July,late April, 08:30,16:00
+122,Plose   Brixen (Bressanone),Europe, Italia,1067,2505,42.5,19.5,9.5,13.5,,7.0,52.0, 2021-12-04,2022-04-18, early December,late March, 08:45,16:30
+123,Les Sybelles   Le Corbier/La Toussuire/Les Bottières/St Colomban des Villards/St Sorlin/St Jean d’Arves,Europe,error,1100,2620,310.0,53.0,239.0,18.5,,60.0,46.6, 2021-12-04,2022-04-24, mid December,mid May, 09:00,17:00
+124,First   Grindelwald,Europe, Switzerland,1050,2500,49.0,30.0,11.0,8.0,4.0,10.0,64.0, 2021-12-11,2022-04-18, early December,late April, 08:30,16:15
+125,Jasná Nízke Tatry   Chopok,Europe,error,943,2004,44.5,19.2,17.9,7.4,4.5,,, 2021-11-27,2022-04-24, early December,mid April, 08:30,16:00
+126,Espace San Bernardo   La Rosière/La Thuile,Europe,error,1190,2800,152.0,68.0,70.0,14.0,5.2,34.0,47.5, 2021-12-04,2022-04-18, mid December,early May, 09:00,17:00
+127,Fellhorn/Kanzelwand   Oberstdorf/Riezlern,Europe,error,920,1967,34.0,13.0,19.0,2.0,2.0,14.0,52.5, 2021-12-03,2022-04-18, early December,early May, 08:30,17:00
+128,Ruka,Europe, Finland,291,492,18.9,9.1,7.0,2.8,,16.0,46.5, 2021-10-08,2022-05-08, early October,early April, 09:30,19:00
+129,Ylläs,Europe, Finland,200,718,55.0,21.0,28.0,6.0,,26.0,47.0, 2021-11-20,2022-05-01, late November,early May, 09:30,17:00
+130,Hinterstoder   Höss,Europe, Austria,600,2000,39.9,12.0,18.0,9.9,,14.0,51.0, 2021-12-03,2022-04-10, early December,early May, 08:30,16:30
+131,of Hemavan,Europe, Sweeden,470,1135,30.0,19.0,9.0,2.0,,10.0,42.0, 2021-11-20,2022-05-01, early November,early April, 09:00,17:00
+132,Kvitfjell,Europe, Norway,178,1032,39.0,21.5,12.5,5.0,,11.0,48.0, 2021-11-06,2022-04-24, late October,early April, 09:30,16:00
+133,Kreischberg,Europe, Deutschland,868,2118,42.5,17.5,16.0,9.0,,13.0,52.0, 2021-12-04,2022-04-03, early December,late April, 08:30,16:00
+134,Stoos   Fronalpstock/Klingenstock,Europe,error,1300,1935,35.0,1.2,23.8,10.0,2.0,8.0,46.0, 2021-12-04,2022-04-18, early December,mid April, 08:30,16:30
+135,Kühtai,Europe, Austria,1938,2520,46.9,9.3,26.8,10.8,,12.0,44.0,,, late November,mid April, 09:00,16:00
+136,Galibier Thabor   Valmeinier/Valloire,Europe,error,1430,2750,160.0,60.0,85.0,15.0,,29.0,43.0, 2021-12-17,2022-04-18, mid December,mid April, 09:00,16:30
+137,Le Grand Domaine   Valmorel/Doucy/Celliers/St François Longchamp,Europe,error,1250,2403,165.0,115.0,35.0,15.0,7.0,48.0,47.3, 2021-12-04,2022-04-18, mid December,early May, 09:00,16:30
+138,Nauders am Reschenpass   Bergkastel,Europe,error,1400,2740,67.0,23.0,33.0,11.0,6.0,11.0,49.0, 2021-12-08,2022-04-18, mid December,mid April, 08:30,16:00
+139,Idre Fjäll,Europe, Sweeden,588,890,41.0,17.0,22.0,2.0,,22.0,43.0, 2021-10-22,2022-04-24, late October,late April, 09:00,16:30
+140,Vars/Risoul   La Forêt Blanche,Europe,error,1650,2750,185.0,75.0,90.0,20.0,,40.0,41.5, 2021-12-03,2022-04-18, mid December,mid April, 09:00,16:00
+141,La Molina/Masella   Alp2500,Europe,error,1616,2531,141.0,76.0,47.0,18.0,,28.0,48.0, 2021-11-27,2022-04-18, late November,mid May, 09:00,16:00
+142,Espace Lumière   Pra Loup/Val d’Allos,Europe, France,1608,2576,180.0,56.0,93.5,30.5,,31.0,41.0, 2021-12-04,2022-04-18, mid December,mid April, 09:00,17:00
+143,Pitztal Glacier (Pitztaler Gletscher),Europe, Austria,2685,3440,21.0,4.0,16.0,1.0,,6.0,53.0, 2021-09-18,2022-05-08, mid September,mid April, 08:30,16:00
+144,Bansko,Europe, Bulgaria,990,2560,48.2,20.0,24.5,3.7,8.1,14.0,36.0, 2021-12-03,2022-04-18, early December,mid April, 08:30,17:00
+145,Lauchernalp   Lötschental,Europe,error,1419,3111,55.0,20.0,17.0,18.0,,6.0,53.0, 2021-12-18,2022-04-18, mid December,mid April, 08:30,16:30
+146,Ehrwalder Alm   Ehrwald,Europe, Austria,1112,1923,27.5,18.1,7.4,2.0,,7.0,52.0, 2021-12-17,2022-04-18, mid December,early May, 08:00,16:30
+147,St. Jakob im Defereggental   Brunnalm,Europe,error,1400,2525,17.0,4.7,11.1,1.2,6.7,7.0,52.0, 2021-12-08,2022-04-18, early December,mid April, 09:00,16:00
+148,Tandådalen/Hundfjället (Sälen),Europe,error,572,872,45.0,18.0,15.0,12.0,,40.0,56.0, 2021-11-27,2022-04-18, mid November,mid April, 09:00,18:00
+149,Alpe Cermis   Cavalese,Europe, Italia,860,2250,24.0,10.0,9.0,5.0,,7.0,52.0, 2021-12-03,2022-04-18, late November,early May, 08:15,16:30
+150,Hoch Ybrig   Unteriberg/Oberiberg,Europe, Switzerland,1040,1831,50.0,15.0,30.0,5.0,5.0,12.0,51.0, 2021-12-11,2022-04-18, early December,late April, 08:30,16:15
+151,Myrkdalen,Europe, Norway,450,1060,29.0,12.5,12.0,4.5,,8.0,47.0, 2021-11-20,2022-05-01, mid November,late April, 09:30,16:00
+152,Val Cenis   Lanslevillard/Lanslebourg/Termignon,Europe,error,1300,2800,125.0,73.0,42.0,10.0,,29.0,41.0, 2021-12-03,2022-04-18, mid December,mid April, 09:00,16:00
+153,Les Contamines/Hauteluce,Europe,error,1164,2437,120.0,40.0,60.0,20.0,,24.0,44.4, 2021-12-17,2022-04-18, mid December,early April, 09:00,16:00
+154,Les 7 Laux   Prapoutel/Le Pleynet/Pipay,Europe,error,1350,2400,120.0,46.0,36.0,38.0,,22.0,36.5, 2021-11-27,2022-04-18, mid December,early April, 09:00,16:30
+155,Sillian   Thurntaler (Hochpustertal),Europe,error,1100,2407,21.7,5.6,15.0,1.1,0.7,7.0,52.0, 2021-12-08,2022-04-03, early December,late March, 08:30,16:30
+156,Riesneralm   Donnersbachwald,Europe, Austria,973,1820,32.5,20.5,9.0,3.0,,7.0,44.0,,, early December,early April, 09:00,16:00
+157,Brandnertal   Brand/Bürserberg,Europe, Austria,904,2000,52.0,23.0,28.0,1.0,13.0,14.0,53.0, 2021-12-04,2022-04-18, depending on snow conditions,late March, 08:30,16:30
+158,Bad Kleinkirchheim,Europe, Austria,1087,2055,103.0,18.0,77.0,8.0,5.0,22.0,52.5, 2021-12-03,2022-04-03, early December,early April, 09:00,16:00
+159,Brigels/Waltensburg/Andiast,Europe, Switzerland,1102,2418,40.0,11.0,26.0,3.0,,10.0,55.0, 2021-12-11,2022-04-03, mid December,early May, 08:30,16:00
+160,Meiringen Hasliberg,Europe, Switzerland,1055,2433,60.0,20.0,34.0,6.0,,13.0,54.0, 2021-12-11,2022-04-18, mid December,early April, 08:30,16:15
+161,La Clusaz/Manigod,Europe, France,1050,2485,125.0,67.0,42.0,16.0,,49.0,43.0, 2021-11-27,2022-04-24, mid December,mid April, 09:00,16:15
+162,Espace Villard Corrençon   Villard de Lans/Corrençon en Vercors,Europe,error,1050,2050,125.0,50.0,50.0,25.0,,21.0,38.0, 2021-12-11,2022-04-18, mid December,early April, 09:00,17:00
+163,Grimentz/Zinal,Europe, Switzerland,1570,2900,115.0,26.5,58.6,29.9,,20.0,62.0, 2021-11-20,2022-04-24, mid November,early April, 09:00,16:30
+164,Filzmoos,Europe, Austria,970,1591,20.0,9.0,10.0,1.0,,8.0,52.0, 2021-12-04,2022-04-10, early December,early April, 09:00,16:00
+165,Ifen,Europe, Austria,1270,2030,22.6,12.0,6.9,3.7,1.2,4.0,52.5, 2021-12-17,2022-04-24, mid December,mid April, 08:30,16:00
+166,Christlum   Achenkirch,Europe, Austria,950,1800,27.0,6.0,16.0,5.0,,11.0,49.0, 2021-12-03,2022-04-03, mid December,early May, 08:45,16:00
+167,Loser   Altaussee,Europe, Austria,850,1800,34.0,21.0,12.0,1.0,,8.0,45.0, 2021-12-04,2022-04-18, early December,mid April, 09:00,16:00
+168,Pyhä,Europe, Finland,220,500,11.4,5.0,4.4,2.0,,8.0,46.5, 2021-11-19,2022-05-01, mid November,early May, 09:30,18:00Limited opening times during the week
+169,Golm,Europe, Deutschland,650,2100,26.7,13.3,11.9,1.5,17.9,9.0,51.5,,, early December,mid April, 08:15,16:00
+170,Lindvallen/Högfjället (Sälen),Europe,error,579,887,42.0,22.0,17.0,3.0,,49.0,,,, mid November,early April, 09:00,16:00
+171,Val Senales Glacier (Schnalstaler Gletscher),Europe, Italia,2011,3212,42.0,10.0,18.0,14.0,,11.0,48.0, 2021-09-17,2022-04-18, mid September,mid April, 09:00,16:30
+172,Spieljoch   Fügen,Europe, Austria,650,2054,17.1,3.6,10.8,2.7,4.0,7.0,61.0, 2021-12-17,2022-04-03, early December,early May, 08:30,16:30
+173,Flachauwinkl/Kleinarl (Shuttleberg),Europe, Austria,1000,1980,28.0,19.0,7.0,2.0,12.0,,, 2021-12-04,2022-04-18, early December,depending on snow conditions, 08:45,16:15
+174,Sierra Nevada   Pradollano,Europe, España,2100,3282,107.0,50.0,49.0,7.8,,17.0,52.0, 2021-12-04,2022-04-18, late November,early May, 09:00,16:45
+175,Sudelfeld   Bayrischzell,Europe, Deutschland,850,1563,31.1,9.8,16.6,4.7,1.9,12.0,42.0,,, depending on snow conditions,mid April, 08:30,16:30
+176,Sulden am Ortler (Solda all'Ortles),Europe,error,1900,3250,44.0,17.0,13.0,14.0,,10.0,46.0, 2021-10-22,2022-05-01, depending on snow conditions,early May, 08:30,16:00
+177,Diedamskopf   Schoppernau,Europe, Austria,820,2060,40.0,13.0,18.0,9.0,,9.0,48.0,,, mid December,mid April, 08:45,16:15
+178,Dundret Lapland   Gällivare,Europe,error,420,750,12.0,6.0,3.0,3.0,,5.0,35.0, 2021-11-20,2022-05-01, early November,early April, 10:00,16:00
+179,Gargellen,Europe, Austria,1423,2300,28.1,20.8,5.3,2.0,5.5,8.0,51.0, 2021-12-03,2022-04-18, early December,early April, 08:30,16:00
+180,Bergeralm   Steinach am Brenner,Europe, Austria,1048,2180,29.0,10.0,10.0,9.0,1.0,5.0,42.4, 2021-12-04,2022-04-18, mid December,early May, 08:30,16:30
+181,Madrisa (Davos Klosters),Europe, Switzerland,1142,2602,26.0,6.9,9.9,9.2,6.0,7.0,57.0, 2021-12-17,2022-04-18, mid December,mid April, 08:15,16:00
+182,Hovden,Europe, Sweeden,822,1183,34.4,19.1,13.2,2.1,,8.0,54.0, 2021-11-20,2022-05-01, mid November,early April, 09:30,15:30
+183,Grosseck/Speiereck   Mauterndorf/St. Michael,Europe, Austria,1095,2400,50.0,26.0,17.0,7.0,,10.0,45.0, 2021-12-03,2022-04-18, early December,mid April, 09:00,16:30
+184,Oberjoch (Bad Hindelang)   Iseler,Europe, Deutschland,1130,1559,32.0,6.0,24.0,2.0,6.0,5.0,42.0, 2021-12-04,2022-04-03, mid December,mid April, 08:30,16:15
+185,Crans Montana,Europe, Switzerland,1510,2927,140.0,55.0,70.0,15.0,,19.0,82.0, 2021-11-13,2022-04-24, mid November,mid April, 08:45,16:15
+186,Rauriser Hochalmbahnen   Rauris,Europe,error,950,2175,32.5,15.0,12.5,5.0,5.0,10.0,46.5,,, mid December,mid April, 09:00,16:00
+187,See,Europe, Austria,1040,2456,41.0,8.0,25.0,8.0,,7.0,44.0, 2021-12-18,2022-04-18, mid December,early April, 08:30,16:00
+188,of Špindlerův Mlýn,Europe, Czech_Republic,702,1235,27.8,10.0,15.9,1.9,,,, 2021-12-04,2022-04-18, early December,mid May, 08:30,16:00
+189,Grand Tourmalet/Pic du Midi   La Mongie/Barèges,Europe,error,1250,2500,100.0,58.0,35.0,7.0,,29.0,46.0, 2021-12-11,2022-04-18, early November,mid April, 09:00,16:00
+190,Kaunertal Glacier (Kaunertaler Gletscher),Europe,error,2150,3113,23.3,14.8,5.5,3.0,36.0,7.0,55.0, 2021-09-25,2022-06-05, late September,late March, 08:30,16:00
+191,Disentis,Europe, Switzerland,1227,2833,60.0,20.0,30.0,10.0,,12.0,57.0, 2021-12-11,2022-04-18, mid December,late March, 08:15,16:00
+192,Berwang/Bichlbach/Rinnen,Europe,error,1067,1743,36.0,19.2,15.2,1.6,,13.0,51.0,,, mid December,early April, 09:00,16:30
+193,Meran 2000,Europe, Italia,1609,2350,40.0,12.0,25.0,3.0,,7.0,46.0, 2021-12-04,2022-03-20, early December,mid April, 09:00,17:00
+194,Les Houches/Saint Gervais   Prarion/Bellevue (Chamonix),Europe,error,1000,1900,55.0,25.0,25.0,5.0,,15.0,46.0, 2021-12-04,2022-04-18, early December,early April, 08:30,16:30
+195,Kappl,Europe, Austria,1180,2690,40.0,10.0,25.0,5.0,2.0,6.0,44.0, 2021-12-24,2022-04-18, mid December,early April, 08:30,16:00
+196,Lachtal,Europe, Austria,1600,2222,26.2,7.2,16.0,3.0,10.0,10.0,47.0, 2021-12-04,2022-04-18, early December,mid April, 09:00,16:00
+197,Hörnerbahn   Bolsterlang,Europe, Deutschland,894,1665,17.0,8.0,7.0,2.0,3.0,5.0,43.0, 2021-11-27,2022-04-18, late November,mid April, 08:30,16:00
+198,Isola 2000,Europe, France,1800,2603,120.0,75.0,35.0,10.0,,20.0,35.0, 2021-12-04,2022-04-18, early December,early April, 09:00,17:00
+199,Brévent/Flégère (Chamonix),Europe, France,1030,2525,56.0,11.0,25.0,20.0,,17.0,57.0, 2021-11-27,2022-04-24, early December,mid May, 08:50,16:30
+200,Gerlitzen,Europe, Austria,1000,1911,45.1,9.1,30.0,6.0,15.0,20.0,52.0, 2021-12-03,2022-04-03, early December,early April, 08:15,17:00
+201,Moelltal Glacier (Mölltaler Gletscher),Europe,error,2108,3122,17.4,5.2,7.2,5.0,6.7,9.0,49.0, 2021-05-22,2022-05-08, mid June,mid April, 08:00,16:30
+202,Schwemmalm,Europe, Austria,1505,2625,20.5,6.3,11.7,2.5,5.0,6.0,43.5, 2021-12-04,2022-04-18, mid December,mid April, 08:30,17:00
+203,Pal/Arinsal   La Massana (Vallnord),Europe, Andorra,1550,2560,63.0,31.0,24.0,8.0,,23.0,42.0, 2021-12-04,2022-04-18, early December,mid April, 09:00,17:00
+204,Dévoluy   Superdévoluy/La Joue du Loup,Europe,error,1500,2500,100.0,55.0,35.0,10.0,,21.0,37.5, 2021-12-11,2022-04-10, mid December,late April, 09:30,17:00
+205,Les Orres,Europe, France,1550,2720,100.0,30.0,60.0,10.0,,17.0,38.0, 2021-12-04,2022-04-18, mid December,early April, 09:00,16:30
+206,Skeikampen   Gausdal,Europe, Norway,774,1123,21.0,8.0,11.0,2.0,,9.0,40.0, 2021-11-27,2022-04-18, mid November,early April, 09:30,16:00
+207,of Hochficht,Europe, Austria,866,1338,20.1,9.1,10.0,1.0,3.0,9.0,42.0, 2021-12-03,2022-03-27, mid December,early April, 08:30,16:00
+208,Grossglockner Heiligenblut,Europe, Austria,1301,2989,55.0,20.0,34.0,1.0,11.5,12.0,48.0, 2021-12-10,2022-04-03, early December,late April, 09:00,16:00
+209,Zettersfeld   Lienz,Europe, Austria,1660,2278,21.0,7.9,11.5,1.6,2.7,6.0,52.0, 2021-12-08,2022-03-27, early December,mid April, 09:00,16:00
+210,Bardonecchia,Europe, Italia,1312,2800,100.0,54.0,38.0,8.0,,17.0,38.0, 2021-11-27,2022-04-18, early December,mid April, 09:00,17:00
+211,Chamrousse,Europe, France,1400,2250,90.0,45.0,35.0,10.0,,15.0,36.5, 2021-12-03,2022-04-18, early December,early April, 09:00,17:00
+212,Orcières Merlette 1850,Europe, France,1850,2725,100.0,55.0,38.0,7.0,,28.0,37.0, 2021-12-04,2022-04-24, mid December,late April, 09:00,16:30
+213,Cerler,Europe, España,1505,2630,81.0,37.0,29.0,15.0,,13.0,46.5, 2021-12-04,2022-04-18, early December,mid April, 09:00,16:30
+214,Pfelders (Moos in Passeier),Europe, Italia,1601,2502,18.0,5.0,9.0,4.0,3.0,4.0,40.0, 2021-12-04,2022-04-24, early December,early April, 09:00,16:30
+215,Brauneck   Lenggries/Wegscheid,Europe,error,700,1712,31.6,3.5,20.7,7.4,,15.0,41.0,,, early December,late Marchearly July - late August, 08:15,16:30
+216,Savognin,Europe, Switzerland,1200,2713,73.5,32.5,38.0,3.0,,12.0,56.0, 2021-12-18,2022-04-03, early December,early April, 08:30,16:00
+217,Grüsch Danusa,Europe, Switzerland,600,1800,32.0,6.0,20.0,6.0,,6.0,51.0, 2021-12-04,2022-04-03, late November,mid April, 08:30,16:45
+218,Rosa Khutor,Europe, Russia,940,2509,102.0,62.0,24.0,16.0,,27.0,38.0, 2021-12-11,2022-04-18, early December,late May, 08:45,15:45
+219,Auron (Saint Etienne de Tinée),Europe, France,1600,2450,135.0,58.0,45.0,32.0,,16.0,35.0, 2021-12-11,2022-03-20, early December,late March, 09:00,17:00
+220,Gemsstock   Andermatt,Europe, Switzerland,1444,2961,31.0,0.0,14.0,17.0,6.0,4.0,82.0, 2021-10-30,2022-05-01, late October,early May, 08:30,16:00
+221,Rosshütte   Seefeld,Europe, Austria,1230,2064,12.3,6.3,4.1,1.9,,14.0,48.0,,, early December,late March, 08:30,16:30
+222,Vemdalsskalet,Europe, Sweeden,592,946,18.0,5.0,8.0,5.0,,10.0,,,, early November,mid Novembermid December - early May, 09:00,16:30
+223,Zuoz   Pizzet/Albanas,Europe,error,1720,2465,15.0,9.0,3.0,3.0,1.0,5.0,35.0, 2021-12-18,2022-03-20, mid December,early April, 09:15,16:00
+224,Diavolezza/Lagalb,Europe, Switzerland,2091,3006,35.0,0.0,27.0,8.0,10.0,,, 2021-10-23,2021-11-26, mid October,depending on snow conditions, 08:00,17:00
+225,Szczyrk Mountain Resort,Europe, Poland,524,1257,36.6,22.4,9.8,4.4,,,, 2021-12-04,2022-04-03, early December,early April, 08:30,16:00
+226,Mondolè Ski   Artesina/Frabosa Soprana/Prato Nevoso,Europe,error,807,2085,105.0,42.7,51.0,11.6,,19.0,35.0, 2021-12-04,2022-04-18, depending on snow conditions,early April, 08:30,17:00
+227,Alto Sangro   Roccaraso/Rivisondoli,Europe,error,1309,2141,90.5,37.0,32.6,20.9,,24.0,,,, early December,mid April, 08:30,16:30
+228,Saint Lary Soulan,Europe, France,1597,2515,100.0,60.0,30.0,10.0,,26.0,45.0, 2021-12-03,2022-04-03, early December,early March, 09:00,17:30
+229,Vent,Europe, Austria,1900,2646,15.0,5.0,10.0,0.0,,4.0,39.5, 2021-12-18,2022-04-18, late February,early April, 09:30,16:00
+230,Splügen   Tambo,Europe, Switzerland,1484,2215,30.0,12.0,12.0,6.0,,7.0,48.0, 2021-12-04,2022-03-27, early December,mid April, 08:30,16:00
+231,Malbun,Europe, Liechtenstein,1600,2000,23.0,11.0,9.0,3.0,,7.0,45.0, 2021-12-11,2022-04-18, mid December,early May, 08:30,16:00
+232,Feldberg   Seebuck/Grafenmatt/Fahl,Europe,error,888,1448,30.0,11.0,14.0,5.0,,14.0,43.0, 2021-12-04,2022-04-18, depending on snow conditions,mid April, 09:00,16:30
+233,Grands Montets   Argentière (Chamonix),Europe, France,1252,2765,29.0,6.0,9.0,14.0,,8.0,57.0, 2021-11-20,2022-05-01, depending on snow conditions,late March, 08:30,16:40
+234,Ordino Arcalís,Europe, Andorra,1940,2625,30.0,13.0,14.0,3.0,,15.0,39.5, 2021-12-04,2022-04-18, depending on snow conditions,late April, 09:00,16:45
+235,Garmisch Classic   Garmisch Partenkirchen,Europe, Deutschland,740,2050,40.0,12.0,18.0,10.0,3.0,18.0,47.5, 2021-12-11,2022-04-03, early December,late April, 08:30,16:15
+236,Venet   Landeck/Zams/Fliess,Europe, Austria,780,2212,22.0,6.0,15.0,1.0,2.0,7.0,40.5, 2021-12-18,2022-03-27, mid December,early April, 09:00,16:20
+237,Gaustablikk   Rjukan,Europe,error,550,1250,34.0,22.0,8.0,4.0,2.0,12.0,50.0, 2021-11-20,2022-04-18, late October,mid April, 09:00,16:00
+238,Bellwald,Europe, Switzerland,1600,2558,36.0,9.0,21.0,6.0,3.0,5.0,51.0, 2021-12-11,2022-04-18, mid December,late April, 09:00,16:15
+239,of Sportgastein,Europe, Austria,1585,2650,18.2,3.5,13.2,1.5,7.7,,, 2021-12-08,2022-04-18, early December,late April, 09:00,16:00
+240,Ax 3 Domaines   Ax les Thermes,Europe, France,1380,2346,80.0,40.0,25.0,15.0,,19.0,38.5, 2021-12-04,2022-04-24, mid December,mid April, 09:00,17:00
+241,Le Grand Bornand,Europe, France,1000,2100,86.0,49.0,29.0,8.0,,24.0,39.3, 2021-12-04,2022-04-24, early December,late April, 09:00,17:00
+242,Villars/Gryon/Les Diablerets,Europe, Switzerland,1224,2120,84.0,43.0,38.0,3.0,,25.0,65.0, 2021-12-04,2022-04-18, early December,mid April, 08:30,16:30
+243,Puy Saint Vincent,Europe, France,1407,2677,75.0,28.0,34.0,13.0,,12.0,35.5, 2021-12-18,2022-04-18, mid December,mid April, 09:00,16:00
+244,Valfréjus,Europe, France,1550,2737,70.0,40.0,20.0,10.0,,8.0,33.0, 2021-12-04,2022-04-18, mid December,mid April, 09:00,16:00
+245,Spitzingsee Tegernsee,Europe, Deutschland,980,1580,14.7,2.2,8.2,4.3,,10.0,37.0,,, early December,late April, 08:30,16:20
+246,Rifflsee,Europe, Austria,1640,2800,19.0,4.0,10.0,5.0,,6.0,40.0, 2021-12-11,2022-04-18, early December,late April, 09:00,16:00
+247,Tatranská Lomnica,Europe, Slovakia,888,2190,11.8,5.4,5.2,1.2,0.4,8.0,49.0, 2021-11-27,2022-04-24, early December,early April, 08:30,15:30
+248,Weissee Gletscherwelt   Uttendorf,Europe,error,1482,2600,23.0,6.0,15.0,2.0,2.0,8.0,40.0, 2021-12-11,2022-04-18, mid December,mid April, 09:00,16:15
+249,Werfenweng,Europe, Austria,902,1834,29.0,13.0,15.0,1.0,,9.0,44.0, 2021-12-04,2022-04-18, depending on snow conditions,late March, 08:30,16:00
+250,Bormio   Cima Bianca,Europe, Italia,1225,3012,50.0,14.0,34.0,2.0,,11.0,44.0, 2021-11-27,2022-04-24, early December,mid April, 08:30,17:00
+251,Eggli/La Videmanette   Gstaad/Saanen/Rougemont,Europe,error,992,2151,58.0,35.2,17.4,5.4,,9.0,71.0, 2021-12-18,2022-03-27, mid December,early April, 09:00,16:30
+252,Belalp   Blatten,Europe, Switzerland,1322,3118,60.0,20.0,20.0,20.0,9.0,11.0,54.0, 2021-12-11,2022-04-18, mid December,late March, 09:00,16:00
+253,Les Portes du Mont Blanc   Combloux/Megève le Jaillet/La Giettaz,Europe,error,1113,1835,85.0,28.0,50.0,7.0,,23.0,,,, mid December,early April, 08:45,16:45
+254,Rinerhorn (Davos Klosters),Europe,error,1454,2490,51.5,15.6,23.1,12.8,6.0,7.0,54.0, 2021-12-18,2022-03-27, mid December,mid April, 08:30,16:30
+255,Walmendingerhorn/Heuberg   Mittelberg/Hirschegg,Europe, Austria,1070,1946,33.7,19.5,11.9,2.3,4.6,14.0,52.5, 2021-12-17,2022-04-18, early December,early April, 08:30,16:00
+256,Piau Engaly,Europe, France,1408,2528,65.0,35.0,22.0,8.0,,11.0,38.5, 2021-12-11,2022-04-17, early December,mid March, 09:00,17:00
+257,Grächen,Europe, Switzerland,1619,2864,44.0,9.0,33.0,2.0,,11.0,52.0, 2021-12-18,2022-04-18, mid December,late May, 08:30,16:00
+258,Lavarone,Europe, Italia,1174,1600,30.4,22.4,6.0,2.0,,8.0,37.0, 2021-12-04,2022-03-27, early December,mid March, 09:00,16:30
+259,Riksgränsen,Europe, Sweeden,520,909,21.0,10.0,10.0,1.0,,6.0,40.0, 2022-02-25,2022-05-22, late February,early April, 09:00,16:00
+260,Muttereralm   Mutters/Götzens,Europe, Austria,920,1800,16.0,7.0,8.0,1.0,,4.0,38.5, 2021-12-11,2022-03-27, mid December,mid April, 09:00,16:00
+261,Wurzeralm   Spital am Pyhrn,Europe, Austria,810,1870,22.5,10.5,10.0,2.0,,8.0,48.0, 2021-12-04,2022-04-03, early December,mid April, 08:30,16:30
+262,Valberg/Beuil les Launes,Europe,error,1412,2020,90.0,45.0,35.0,10.0,,23.0,33.2,,, early December,mid April, 09:00,17:00
+263,Anzère,Europe, Switzerland,1500,2420,58.0,12.0,37.0,9.0,6.0,10.0,54.0, 2021-12-11,2022-04-18, mid December,mid April, 08:45,16:00
+264,Kopaonik,Europe, Serbia,1057,2017,55.0,30.0,19.0,6.0,,23.0,33.0, 2021-12-03,2022-04-18, early December,mid April, 08:30,15:30
+265,La Norma,Europe, Italia,1350,2750,65.0,17.0,43.0,5.0,,12.0,33.0, 2021-12-11,2022-04-18, mid December,early May, 09:00,16:30
+266,Aprica,Europe, Italia,1162,2270,50.0,28.3,14.0,7.7,,11.0,42.0, 2021-11-27,2022-04-18, early December,early April, 08:10,16:30
+267,Bukovel,Europe, Ukraine,859,1372,68.0,29.0,28.0,11.0,,16.0,35.0, 2021-11-27,2022-05-01, late November,late April, 08:30,19:30
+268,Peyragudes,Europe, France,1600,2400,60.0,30.0,26.0,4.0,,16.0,42.0, 2021-12-11,2022-04-17, early December,early April, 09:00,16:45
+269,of Tärnaby in the historic Swedish province of Lapland in northern Sweden,Europe,error,439,789,20.0,10.0,9.0,1.0,,5.0,42.0, 2021-11-13,2022-05-01, late October,depending on snow conditions, 09:00,16:00
+270,Oslo   Tryvann (Skimore),Europe,error,150,531,9.6,5.0,2.6,2.0,,9.0,45.0, 2021-11-27,2022-04-18, late November,mid April, 10:00,17:00
+271,Donovaly (Park Snow),Europe, Slovakia,914,1361,11.0,5.0,5.9,0.1,,16.0,32.0, 2021-12-04,2022-04-03, early December,early April, 08:30,15:30
+272,Fanningberg,Europe, Austria,1497,2115,24.0,11.1,5.8,7.1,0.8,5.0,45.0, 2021-12-04,2022-04-18, early December,early May, 09:00,16:00
+273,Hahnenkamm   Höfen/Reutte,Europe, Austria,854,1900,16.0,5.0,9.0,2.0,,4.0,38.5, 2021-12-04,2022-04-18, mid December,early April, 08:30,16:00
+274,Nebelhorn   Oberstdorf,Europe, Deutschland,828,2224,11.9,2.8,5.1,4.0,,6.0,52.5, 2021-12-10,2022-05-01, mid December,early April, 08:30,16:30
+275,Balderschwang   Hochschelpen/Riedberger Horn,Europe, Deutschland,1000,1500,34.0,15.2,13.8,5.0,2.2,13.0,34.0, 2021-12-04,2022-04-18, mid December,mid April, 09:00,16:00
+276,Ankogel   Mallnitz,Europe, Austria,1266,2636,12.8,2.8,5.0,5.0,,5.0,50.0, 2021-12-18,2022-04-18, mid December,mid April, 08:30,16:30
+277,Aussois,Europe, France,1500,2750,55.0,30.0,22.0,3.0,,7.0,32.0, 2021-12-11,2022-04-18, mid December,early April, 09:00,17:00
+278,Pila,Europe, Poland,1540,2740,50.3,8.3,35.5,6.5,,12.0,46.0, 2021-12-04,2022-04-18, late November,early April, 08:30,16:45
+279,Arêches (Beaufort),Europe, France,1080,2300,50.0,15.0,20.0,15.0,,12.0,32.0, 2021-12-18,2022-04-18, mid December,early April, 09:00,16:30
+280,Sörenberg   Rothorn/Dorf,Europe, Switzerland,1100,2350,60.0,30.0,15.0,15.0,,16.0,50.0, 2021-12-11,2022-03-27, mid December,early April, 08:30,16:30
+281,Luz Ardiden,Europe, France,1680,2500,60.0,25.0,30.0,5.0,,7.0,36.0, 2021-12-18,2022-04-03, early December,late March, 09:00,17:00
+282,Riserva Bianca   Limone Piemonte,Europe, Italia,1046,2060,52.0,7.0,28.0,17.0,,14.0,35.0, 2021-11-27,2022-04-18, mid December,late March, 09:00,16:00
+283,Laterns   Gapfohl,Europe, Austria,1040,1785,27.0,8.0,15.0,4.0,11.0,5.0,39.0, 2021-12-04,2022-03-27, late November,early May, 08:45,16:15
+284,Alpenpark Neuss,Europe, Deutschland,60,110,0.4,0.3,0.1,0.0,,3.0,45.0, Year-round__,, Year-round__,early April, 08:30,21:00
+285,Bürchen/Törbel   Moosalp,Europe, Switzerland,1480,2550,25.0,5.0,15.0,5.0,,9.0,45.0, 2021-12-18,2022-03-20, mid December,late April, 09:00,16:00
+286,of Björkliden,Europe, Sweeden,420,920,15.0,6.0,7.0,2.0,,5.0,,,, early February,early April, 09:00,16:00
+287,Białka Tatrzańska   Kotelnica/Kaniówka/Bania,Europe,error,680,910,18.3,14.4,3.9,0.0,,19.0,25.0, 2021-11-27,2022-04-18, early December,mid March, 09:00,21:00
+288,Gålå,Europe, Norway,800,1148,19.0,13.0,5.0,1.0,,7.0,40.0, 2021-11-27,2022-04-18, mid November,depending on snow conditions, 09:00,16:00
+289,Ramsau am Dachstein   Rittisberg,Europe, Austria,1035,1636,25.0,14.0,10.0,1.0,,9.0,39.5, 2021-12-08,2022-03-27, mid December,early April, 09:00,16:00
+290,Grebenzen   St. Lambrecht,Europe, Austria,1010,1870,12.2,2.9,9.0,0.3,13.0,8.0,38.0, 2021-12-11,2022-04-03, early December,early April, 09:00,16:00
+291,Jahorina,Europe, Bosnia,1300,1916,47.0,20.0,15.0,12.0,,12.0,28.0, 2021-11-27,2022-04-24, early December,early April, 09:00,16:00
+292,Font Romeu/Bolquère Pyrénées 2000,Europe,error,1650,2213,58.0,30.0,19.0,9.0,,21.0,41.5, 2021-12-11,2022-04-18, early December,mid April, 09:00,17:00
+293,Sainte Foy Tarentaise,Europe, France,1550,2620,43.0,10.0,27.0,6.0,,4.0,33.4, 2021-12-11,2022-04-18, mid December,late March, 09:00,17:00
+294,Melchsee Frutt (Kerns),Europe, Switzerland,1080,2225,36.0,20.0,6.0,10.0,,11.0,51.0, 2021-12-18,2022-04-10, mid December,early April, 08:25,17:30
+295,Cimone   Montecreto/Sestola/Le Polle,Europe,error,900,1976,50.0,15.0,25.0,10.0,,19.0,38.0, 2021-12-04,2022-04-03, late November,early April, 08:30,17:00
+296,Monte Popolo   Eben im Pongau,Europe, Austria,862,1612,6.0,4.0,2.0,0.0,,4.0,41.0, 2021-12-11,2022-03-27, mid December,late March, 08:30,16:00
+297,Söllereck   Oberstdorf,Europe, Deutschland,820,1450,13.4,7.2,6.2,0.0,,5.0,42.5, 2021-12-17,2022-04-03, mid December,early April, 09:00,16:00
+298,Keilberg (Klínovec),Europe, Czech_Republic,763,1244,31.5,17.3,10.5,3.7,,16.0,34.0, 2021-12-11,2022-04-03, early December,depending on snow conditions, 08:30,16:00
+299,Nesselwang   Alpspitze (Alpspitzbahn),Europe,error,900,1463,8.0,6.0,2.0,0.0,0.7,8.0,34.5, 2021-12-04,2022-03-27, mid December,mid March, 09:00,16:00
+300,Feuerkogel   Ebensee,Europe, Austria,443,1625,10.6,6.5,3.1,1.0,6.0,8.0,42.3, 2021-12-18,2022-04-03, mid December,late March, 08:30,16:00
+301,Buchensteinwand (Pillersee)   St. Ulrich am Pillersee/St. Jakob in Haus/Hochfilzen,Europe, Austria,855,1456,21.2,8.0,10.2,3.0,2.5,9.0,40.0, 2021-12-17,2022-04-03, late December,early April, 09:00,16:00
+302,Mitterdorf (Almberg)   Mitterfirmiansreut,Europe,error,841,1139,5.0,2.5,1.9,0.6,,6.0,29.0, 2021-12-18,2022-03-27, mid December,early April, 09:00,16:00
+303,Goldeck   Spittal an der Drau,Europe, Austria,547,2142,25.0,8.0,8.5,8.5,,5.0,44.0, 2021-12-17,2022-04-03, mid December,late April, 09:00,16:00
+304,Betelberg   Lenk,Europe, Switzerland,1075,2001,42.0,21.7,19.4,0.9,,10.0,,,, mid December,late April, 08:30,16:30
+305,Super Sauze,Europe, France,1400,2450,65.0,35.0,20.0,10.0,,21.0,31.0, 2021-12-04,2022-04-18, mid December,early April, 09:00,17:00
+306,Les Karellis,Europe, France,1600,2520,60.0,26.0,25.0,9.0,,16.0,29.5, 2021-12-11,2022-04-18, mid December,late April, 09:00,16:30
+307,Saint Luc/Chandolin (Anniviers),Europe, Switzerland,1655,2980,60.0,20.0,30.0,10.0,,12.0,54.0, 2021-12-18,2022-04-24, mid December,mid April, 09:00,16:15
+308,Gourette (Eaux Bonnes),Europe, France,1350,2450,35.0,18.0,13.0,4.0,,9.0,38.0, 2021-12-11,2022-04-03, early December,early April, 08:45,17:00
+309,Voss Resort,Europe, Scotland,284,964,45.0,25.0,8.0,12.0,3.0,11.0,47.0, 2021-12-04,2022-04-24, early December,depending on snow conditions, 09:30,16:00
+310,Chäserrugg   Unterwasser/Alt St. Johann (Toggenburg),Europe,error,900,2262,50.0,8.0,40.0,2.0,2.0,12.0,57.0, 2021-12-04,2022-04-18, late November,mid April, 08:00,16:30
+311,Les Angles,Europe, France,1600,2376,55.0,22.0,23.0,10.0,,17.0,41.5, 2021-11-27,2022-04-10, late November,late April, 09:00,16:00
+312,St. Jean Montclar,Europe, France,1350,2500,50.0,25.0,20.0,5.0,,14.0,,,,,late April,,
+313,Courmayeur   Chécrouit/Val Veny,Europe,error,1205,2755,41.5,16.0,21.5,4.0,,17.0,50.0, 2021-11-27,2022-04-18, depending on snow conditions,early April, 08:25,17:00
+314,Leysin,Europe, Switzerland,1250,2205,60.0,43.0,15.0,2.0,,13.0,51.0, 2021-12-11,2022-04-18, late November,late March, 09:00,16:30
+315,Arkhyz,Europe, Russia,1650,2504,26.6,16.4,6.4,3.8,,,,,, early December,late March, 09:00,16:00
+317,Kolašin 1450/Kolašin 1600,Europe, Montenegro,1420,2035,45.0,20.0,20.0,5.0,,7.0,,,,,mid March, 09:30,16:00
+318,San Domenico   Alpe Ciamporino,Europe, Italia,1420,2500,32.6,5.7,12.8,14.1,,5.0,,,,,mid April, 08:30,16:30
+319,Charmey,Europe, Switzerland,876,1630,30.0,19.5,7.5,3.0,,5.0,,,, mid December,depending on snow conditions, 09:00,16:30
+320,Le Lioran,Europe, France,1160,1850,60.0,30.0,20.0,10.0,,17.0,33.5, 2021-12-18,2022-04-03, depending on snow conditions,early April, 09:00,17:00
+321,Vals 3000   Dachberg,Europe, Switzerland,1286,2941,25.0,5.0,15.0,5.0,,5.0,30.0, 2021-12-18,2022-04-18, mid December,late March, 09:00,16:30
+322,Gschwandtkopf   Seefeld,Europe, Austria,1200,1500,6.1,6.1,0.0,0.0,,11.0,48.0,,, early December,late April, 09:00,16:00
+323,SnowWorld Landgraaf,Europe, Netherlands,150,210,1.5,0.7,0.5,0.3,,4.0,48.5, Year-round__,, Year-round__,mid April, 09:00,23:00
+324,Ochsenkopf,Europe, Austria,659,1024,4.7,2.4,2.3,0.0,,4.0,22.0, 2021-12-18,2022-03-20, mid December,mid May, 09:00,16:00
+325,Gazprom Mountain Resort,Europe, Russia,949,2256,52.8,17.3,26.3,9.2,,23.0,38.0, 2021-12-11,2022-04-18, early December,mid March, 09:00,16:30
+326,Jungholz,Europe, France,1058,1500,10.0,7.0,3.0,0.0,,7.0,34.5, 2021-11-13,2022-04-03, depending on snow conditions,mid March, 09:00,16:00
+327,Nordkette   Innsbruck,Europe, Austria,860,2256,13.9,0.5,13.0,0.4,5.0,5.0,40.0, 2021-12-11,2022-04-18, late November,depending on snow conditions, 08:30,17:30
+328,Lipno,Europe, Czech_Republic,710,900,13.5,10.9,2.1,0.5,,4.0,31.0, 2021-12-11,2022-03-27, early December,mid April, 08:30,16:00
+329,Mount Parnassos   Fterolakka/Kellaria,Europe,error,1640,2260,36.0,18.0,15.0,3.0,,17.0,,,,,mid March, 09:00,16:00
+330,Oppdal,Europe, Norway,585,1300,56.0,40.0,7.0,9.0,,17.0,47.0, 2021-11-27,2022-04-18, mid November,late April, 10:00,16:00
+331,Valchiavenna   Madesimo/Campodolcino,Europe, Italia,1550,2948,37.0,15.0,19.0,3.0,,12.0,43.0, 2021-11-27,2022-04-19, late November,mid April, 09:00,16:30
+332,Krasnaya Polyana Resort,Europe, Russia,960,2172,30.0,7.5,20.0,2.5,,13.0,45.0, 2021-12-18,2022-05-01, early December,late March, 09:00,16:00
+333,Oberaudorf   Hocheck,Europe, Deutschland,476,900,8.0,3.0,4.0,1.0,2.0,5.0,25.0, 2021-12-18,2022-03-13, early December,mid April, 09:00,16:30
+334,Snow Dome Bispingen,Europe, Deutschland,82,122,0.3,0.3,0.0,0.0,,2.0,37.0, Year-round__,, Year-round__,late April, 09:00,21:00Limited opening times during the week
+335,Winterberg (Skiliftkarussell),Europe, Deutschland,630,820,27.5,14.0,12.0,1.5,,20.0,39.0, 2021-12-11,2022-04-18, mid December,early April, 09:00,16:30
+336,Zauberberg Semmering,Europe, Austria,985,1350,14.0,6.5,6.5,1.0,,2.0,36.0, 2021-12-04,2022-03-27, depending on snow conditions,late March, 08:30,16:00
+337,Santa Caterina Valfurva,Europe, Italia,1722,2880,20.5,1.4,15.5,3.6,,6.0,44.0, 2021-11-27,2022-04-18, early December,mid March, 08:30,16:30
+338,Rangger Köpfl   Oberperfuss,Europe, Austria,820,2000,13.0,7.0,4.0,2.0,,5.0,33.0, 2021-12-18,2022-04-03, depending on snow conditions,late April, 08:30,16:30
+339,Abetone/Val di Luce,Europe, Italia,1240,1892,44.1,14.2,28.6,1.3,,15.0,40.0, 2021-12-11,2022-04-03, early December,late April, 09:00,17:00
+340,Piani di Bobbio,Europe, Italia,1340,1950,35.0,15.0,10.0,10.0,,8.0,35.0, 2021-12-04,2022-04-18, late November,early April, 08:30,16:30
+341,Mariborsko Pohorje   Maribor,Europe, Slovenia,325,1327,41.5,23.5,13.0,5.0,,22.0,33.0, 2021-12-11,2022-04-03, mid December,early April, 09:00,16:00
+342,Praz de Lys/Sommand (Taninges/Mieussy),Europe, France,1240,1966,55.0,29.0,20.0,6.0,,23.0,30.0, 2021-12-17,2022-04-10, mid December,early April, 09:00,16:00
+343,Le Lys   Cauterets,Europe, France,1730,2415,36.0,21.0,12.0,3.0,,8.0,38.5, 2021-12-04,2022-04-18, early December,late March, 09:00,16:00
+344,Le Seignus,Europe, France,1500,2426,50.0,25.0,20.0,5.0,,9.0,,,,,early April,,
+345,Stuhleck   Spital am Semmering,Europe, Austria,777,1774,26.0,20.0,6.0,0.0,,11.0,47.5, 2021-12-04,2022-04-18, depending on snow conditions,late March, 08:30,16:00
+346,Watles   Malles Venosta (Mals),Europe, Italia,1750,2500,18.0,4.0,13.0,1.0,4.5,3.0,46.0, 2021-12-18,2022-04-18, mid December,early April, 09:00,16:00
+347,Hochkössen (Unterberghorn)   Kössen,Europe, Austria,619,1690,22.7,10.5,9.2,3.0,1.0,12.0,41.0,,, early December,late March, 09:00,16:00
+348,Beitostølen Skisenter,Europe, Norway,900,1107,12.0,9.0,3.0,0.0,,7.0,44.0, 2021-11-20,2022-04-24, early November,late March, 09:30,15:30
+349,Leukerbad,Europe, Switzerland,1411,2610,47.5,3.5,27.0,17.0,6.0,13.0,54.0, 2021-12-04,2022-04-18, early December,early April, 08:45,16:20
+350,Panticosa,Europe, España,1146,2204,35.0,11.0,21.0,3.0,,10.0,,,, early December,early April, 09:00,17:00
+351,Boí Taüll,Europe, España,2020,2751,41.3,10.0,22.7,8.6,2.7,7.0,,,,,mid April,,
+352,Pichlberg   Reinswald (San Martino in Sarentino),Europe,error,1570,2460,22.0,3.0,17.0,2.0,,4.0,38.5, 2021-12-04,2022-04-18, early December,late April, 08:30,16:30
+353,Espot Esqui,Europe, España,1510,2291,25.0,13.0,8.0,4.0,,3.0,,,, early December,early April, 09:00,16:00
+354,Nara   Leontica,Europe, Switzerland,931,2123,30.0,10.0,15.0,5.0,30.0,5.0,,,,,mid March,,
+355,Mythenregion,Europe, Switzerland,1070,1593,50.0,18.0,31.0,1.0,,15.0,43.0, 2021-12-04,2022-03-27, early December,early April, 08:30,16:15
+356,Candanchú,Europe, España,1514,2236,50.0,15.8,18.3,15.9,11.2,21.0,45.0, 2021-12-04,2022-04-18, early December,late March, 09:00,17:00
+357,Bosco Gurin   Grossalp,Europe, Switzerland,1480,2400,30.0,1.0,25.0,4.0,,5.0,,,,,late March,,
+358,Markbachjoch/Lanerköpfl   Niederau,Europe,error,828,1621,24.0,6.0,12.0,6.0,4.0,13.0,,,, mid December,early April, 09:00,16:30
+359,Zoncolan   Ravascletto/Sutrio,Europe, Italia,900,1970,22.0,9.0,8.0,5.0,,7.0,39.5, 2021-12-11,2022-04-03, early December,mid April, 08:30,16:00
+360,Lélex/Crozet,Europe, France,900,1680,20.7,5.4,13.2,2.1,,10.0,32.0, 2021-12-18,2022-03-27, mid December,early May, 08:30,17:00
+361,Thollon les Mémises,Europe, France,1000,2000,48.0,20.0,28.0,0.0,,14.0,25.5, 2021-12-18,2022-03-27, mid December,early April, 09:00,17:00
+362,Strandafjellet,Europe, Norway,430,1230,25.0,14.0,7.0,4.0,,7.0,,,,,mid April, 10:00,16:00
+363,St. Pierre de Chartreuse   Le Planolet,Europe,error,900,1800,35.0,18.0,12.0,5.0,,15.0,,,, mid December,depending on snow conditions, 09:00,16:30
+364,Patscherkofel   Innsbruck Igls,Europe, Austria,1009,1965,19.0,5.0,10.0,4.0,,5.0,40.0, 2021-12-03,2022-04-18, mid December,early June, 08:30,16:00
+365,Vercorin,Europe, Switzerland,1341,2374,35.0,13.0,19.0,3.0,,9.0,51.0, 2021-12-18,2022-04-23, mid December,late March, 09:00,16:15
+366,Porté Puymorens,Europe, France,1600,2471,50.0,21.0,20.0,9.0,,9.0,33.0, 2021-12-11,2022-04-17, early December,late March, 09:00,17:00
+367,La Berra   La Roche,Europe, Switzerland,1040,1636,25.0,5.0,20.0,0.0,,5.0,,,,,early April,,
+368,Carì,Europe, Brasil,1650,2272,20.0,8.0,8.0,4.0,,3.0,,,,,early April,,
+369,Ovronnaz,Europe, Switzerland,1400,2427,30.0,5.0,20.0,5.0,,7.0,,,, mid December,late March, 09:00,16:30
+370,Astún,Europe, Ísland,1655,2272,39.9,16.8,18.8,4.3,10.1,12.0,,,,,mid March,,
+371,Kolbensattel   Oberammergau,Europe,error,860,1276,8.0,7.4,0.6,0.0,,9.0,32.0, 2021-12-18,2022-03-13, mid December,mid April, 09:00,16:30
+372,Štrbské Pleso,Europe, Slovakia,1376,1840,8.3,2.7,5.6,0.0,0.7,7.0,49.0, 2021-12-04,2022-04-24, early December,depending on snow conditions, 08:30,16:00
+373,Willingen   Ettelsberg,Europe, Deutschland,578,838,16.0,7.0,9.0,0.0,,9.0,31.0, 2021-12-11,2022-03-20, early December,early Decemberlate December - early May, 08:30,16:30
+374,Tarvisio   Monte Lussari,Europe, Italia,754,1752,24.0,9.0,11.0,4.0,,10.0,39.5, 2021-12-18,2022-03-27, early December,early April, 09:00,16:00
+375,Valmalenco   Alpe Palù,Europe, Italia,1527,2353,23.3,10.4,8.1,4.8,,8.0,43.0, 2021-11-27,2022-04-18, late November,early April, 08:30,16:30
+376,SuperBesse   Puy de Sancy,Europe,error,1300,1850,43.0,30.0,9.0,4.0,,19.0,34.5, 2021-12-04,2022-04-17, early December,early April, 09:00,17:00
+377,Glacier 3000   Les Diablerets,Europe,error,1343,3016,30.0,14.5,5.5,10.0,,10.0,60.0, 2021-11-06,2022-05-01, early November,early April, 09:00,16:30
+378,Krvavec,Europe, Slovenia,1450,1971,30.0,7.0,15.0,8.0,,11.0,35.0, 2021-12-04,2022-04-24, late November,mid April, 08:30,17:00
+379,Pragelato,Europe, Italia,1335,2700,50.0,14.0,32.0,4.0,,,,,, early December,early April, 09:00,16:00
+380,Luchon Superbagnères,Europe, France,1465,2125,32.0,16.0,10.0,6.0,,15.0,35.5, 2021-12-18,2022-03-27, depending on snow conditions,late March, 09:00,17:00
+381,Mt. Elbrus,Europe, Russia,2350,3840,23.0,6.0,12.0,5.0,,,,,, early December,mid April, 09:00,16:00
+382,Port del Comte,Europe, España,1745,2310,40.0,20.0,15.0,5.0,,14.0,,,,,early April,,
+383,Alpe du Grand Serre   La Morte,Europe, France,1367,2184,55.0,36.0,17.0,2.0,,15.0,28.5, 2021-12-11,2022-04-18, mid December,early April, 09:00,16:45
+384,Hirmentaz/Les Habères   Bellevaux/Habère Poche,Europe, France,923,1610,50.0,30.0,17.0,3.0,,23.0,,,, early December,late March, 09:00,16:30
+385,Campo Felice   Rocca di Cambio,Europe, Italia,1411,1916,30.9,8.7,13.7,8.5,5.6,12.0,35.0, 2021-12-04,2022-04-03, early December,late March, 08:30,16:30
+386,Innerkrems   Kremsbrücke (Krems in Kärnten),Europe, Austria,1550,2200,36.0,7.0,27.0,2.0,25.0,9.0,44.0, 2021-12-18,2022-04-18, early December,late March, 09:00,16:00
+387,Wasserngrat   Gstaad,Europe, Switzerland,1275,1900,9.3,3.5,3.6,2.2,,1.0,,,, mid December,late March, 09:30,16:30
+388,Braunwald,Europe, Switzerland,1250,1900,30.0,17.5,8.0,4.5,,9.0,45.0, 2021-12-18,2022-04-03, mid December,late March, 08:30,16:00
+389,Montecampione   Alpiaz/Prato Secondino/Plan di Montecampione,Europe,error,1200,2000,30.0,3.7,21.0,5.3,,11.0,35.0, 2021-12-04,2022-04-18, early December,late March, 08:30,16:30
+390,Bláfjöll,Europe, Ísland,460,700,15.0,10.0,5.0,0.0,,15.0,,,, depending on snow conditions,late March, 10:00,17:00Limited opening times during the week
+391,Dachstein Glacier (Dachsteingletscher),Europe,error,2264,2700,5.0,0.0,4.0,1.0,,5.0,49.0, 2021-05-13,2021-11-01, early October,early May, 07:50,17:10
+392,Neunerköpfle   Tannheim,Europe, Austria,1110,1820,8.5,2.5,5.0,1.0,1.0,5.0,42.0, 2021-12-11,2022-03-27, mid December,depending on snow conditions, 08:40,16:00
+393,Füssener Jöchle   Grän,Europe, Austria,1150,1821,9.0,3.0,5.5,0.5,,5.0,42.0, 2021-12-11,2022-03-20, early December,late March, 09:00,16:30
+394,Kitzbüheler Horn,Europe, Austria,770,2000,17.0,6.0,9.0,2.0,3.0,10.0,,,, mid December,mid May, 08:30,16:30
+395,Klewenalp/Stockhütte   Beckenried/Emmetten,Europe,error,1200,2001,40.0,15.0,25.0,0.0,,14.0,47.0, 2021-12-11,2022-04-03, early December,early April, 08:30,16:15
+396,Balme/Les Autannes   Vallorcine/Le Tour,Europe,error,1453,2270,29.0,13.0,16.0,0.0,,13.0,57.0, 2021-12-04,2022-04-18, mid December,mid April, 09:00,16:15
+397,Le Collet d'Allevard,Europe, France,1450,2140,35.0,20.0,13.0,2.0,,11.0,,,, early December,late April, 09:00,16:30
+398,Antagnod,Europe, Italia,1730,2307,15.0,10.5,4.0,0.5,,2.0,,,,,early April,,
+399,Guzet,Europe, France,1100,2100,40.0,20.0,14.0,6.0,,15.0,,,, mid December,late April, 09:00,16:30
+400,Pamporovo,Europe, Bulgaria,1620,1926,29.6,17.6,6.5,5.5,,13.0,32.0, 2021-12-04,2022-04-18, early December,late March, 08:45,16:30
+401,Tschiertschen,Europe, Switzerland,1350,2400,27.0,12.0,13.0,2.0,,4.0,,,,,early April,,
+402,Abriès,Europe, France,1450,2450,33.0,15.0,15.0,3.0,,6.0,,,, mid December,mid April, 09:00,16:00
+403,Valdezcaray,Europe, España,1548,2135,22.0,10.0,10.0,2.0,2.0,10.0,,,,,late March, 09:00,17:00
+404,Jenner   Königssee (Schönau am Königssee),Europe, Deutschland,630,1800,11.0,3.6,7.4,0.0,,7.0,39.0, 2021-12-18,2022-04-03, mid December,late April, 09:30,16:30
+405,Forni di Sopra,Europe, Italia,880,2073,13.0,4.5,7.0,1.5,,5.0,39.5, 2021-12-04,2022-03-27, early December,early April, 09:00,16:00
+406,Artouste,Europe, France,1400,2100,27.0,8.0,15.0,4.0,,10.0,19.0, 2021-12-17,2022-03-27, depending on snow conditions,late March, 09:00,17:00
+407,Präbichl   Vordernberg,Europe, Austria,1100,1608,20.0,6.0,11.0,3.0,,6.0,41.0, 2021-12-04,2022-04-03, early December,late March, 09:00,16:00
+408,Torgnon,Europe, Italia,1515,2246,20.0,6.0,12.0,2.0,,,,,,,late March,,
+409,Norefjell,Europe, Norway,180,1188,25.0,17.0,5.0,3.0,,13.0,,,,,early April, 09:30,16:30
+410,Port Ainé,Europe, España,1650,2421,26.7,10.7,11.7,4.3,,6.0,,,,,early April,,
+411,Monte Magnola   Ovindoli,Europe, Italia,1505,2056,20.0,4.0,9.0,7.0,,7.0,,,,,mid March,,
+412,Champorcher,Europe, Italia,1440,2500,14.0,2.0,9.0,3.0,,5.0,,,,,depending on snow conditions,,
+413,Koralpe,Europe, Austria,1522,2070,24.0,10.0,11.0,3.0,,6.0,35.0,,, early December,late March, 09:00,16:00
+414,Métabief,Europe, France,1000,1463,40.0,19.6,18.0,2.4,,18.0,,,,,mid March, 09:00,17:00
+415,Evolène,Europe, Switzerland,1380,2680,42.0,2.0,34.0,6.0,,6.0,39.0, 2021-12-18,2022-04-18, mid December,early April, 08:30,16:00
+416,Postwiesen Skidorf   Neuastenberg,Europe,error,605,730,8.0,3.0,3.4,1.6,,9.0,30.0, 2021-12-18,2022-03-13, early December,mid March, 09:00,16:30
+417,Les Brasses,Europe, France,900,1500,30.0,15.0,12.0,3.0,,12.0,26.95, 2021-12-11,2022-03-27, late December,late April, 09:00,17:00
+418,Romme Alpin,Europe, Sweeden,132,407,23.0,13.0,8.0,2.0,,12.0,,,,,late March, 09:00,16:00
+419,Zugspitze,Europe, Deutschland,2000,2720,20.0,7.0,13.0,0.0,,10.0,49.5, 2021-11-19,2022-05-01, mid November,early April, 08:30,16:45
+420,Pröller Skidreieck (St. Englmar),Europe, Deutschland,720,1030,4.5,2.0,2.0,0.5,,3.0,23.0, 2021-12-18,2022-03-20, depending on snow conditions,mid April, 09:00,16:30
+421,Piana di Vigezzo   Craveggia/Santa Maria Maggiore,Europe,error,1180,2064,19.0,7.0,10.0,2.0,,5.0,,,,,mid April, 08:00,16:30
+422,Kaiseregg/Riggisalp   Schwarzsee,Europe,error,1050,1750,20.0,14.0,5.0,1.0,,5.0,38.0, 2021-12-11,2022-03-27, mid December,early April, 08:30,16:30
+423,Big Wood,Europe, United Kingdom,380,1047,26.7,13.5,8.5,4.7,,8.0,,,, mid November,late March, 10:00,20:00
+424,Padola   Ski Area Comelico,Europe,error,1210,2000,8.3,3.5,2.0,2.8,,2.0,,,, mid December,early May, 09:00,17:00
+425,Kläppen,Europe, Sweeden,350,665,32.0,18.0,5.0,9.0,,19.0,,,, early December,late March, 09:00,16:00
+426,Lofsdalen,Europe, Sweeden,633,1125,27.0,13.0,9.0,5.0,,8.0,,,, early December,late March, 09:00,16:00
+427,Sangiacomo/Cardini   Monte Alpet,Europe,error,1098,1611,35.0,13.0,12.0,10.0,,8.0,,,,,mid March,,
+428,Pesciüm   Airolo,Europe, Switzerland,1175,2256,30.0,1.0,15.0,14.0,10.0,,, 2021-12-11,2022-04-18, mid December,late March, 08:45,16:00
+429,Geilo,Europe, Norway,800,1178,34.2,18.0,12.0,4.2,,19.0,48.0, 2021-11-20,2022-04-18, mid November,early April, 09:30,16:30
+430,Straja,Europe, Romania,1130,1868,19.7,2.3,15.5,1.9,,12.0,,,,,mid April, 09:00,17:00
+431,Jaun,Europe, Switzerland,1024,1571,20.0,9.0,9.0,2.0,,4.0,,,, mid December,mid March, 09:00,16:00
+432,Kasberg   Grünau im Almtal,Europe, Austria,620,1600,23.0,13.0,8.0,2.0,,10.0,43.0, 2021-12-04,2022-04-03, early December,depending on snow conditions, 09:00,16:30
+433,Sinaia,Europe, Romania,1006,2090,17.9,3.4,11.7,2.8,5.0,10.0,,,,,mid March, 09:00,17:00
+434,Pralognan la Vanoise,Europe, France,1410,2355,26.0,7.0,17.0,2.0,,12.0,31.5, 2021-12-04,2022-04-24, mid December,early April, 09:00,16:30
+435,Nax   Mont Noble,Europe, Switzerland,1495,2640,35.0,15.0,20.0,0.0,,6.0,,,, mid December,depending on snow conditions, 08:30,16:00
+436,Lorica,Europe, Italia,1405,1877,20.0,10.0,7.0,3.0,,,,,,,late March,,
+437,Bonneval sur Arc,Europe, France,1850,3000,32.0,9.0,19.5,3.5,,10.0,29.8, 2021-12-17,2022-04-24, mid December,late March, 09:00,16:00
+438,Foppolo/Carona (Brembo Ski),Europe,error,1160,2163,22.0,4.0,16.0,2.0,,7.0,30.0, 2021-12-04,2022-04-18, early December,early November, 09:00,16:30
+439,Hoch Imst   Imst,Europe, Austria,1053,2026,9.0,4.0,3.0,2.0,,4.0,34.0, 2021-12-04,2022-03-20, mid December,mid March, 09:00,16:00
+440,La Colmiane,Europe, France,1450,1800,30.0,21.0,6.0,3.0,,7.0,22.0, 2021-12-04,2022-03-20, early December,early April, 09:00,17:00
+441,Stari Vrh,Europe, Slovenia,580,1217,12.0,4.0,6.0,2.0,,4.0,28.0, 2021-12-18,2022-03-20, early December,early April, 09:00,15:10
+442,Lagazuói/5 Torri   Passo Giau/Passo Falzàrego,Europe,error,1822,2742,20.5,10.5,10.0,0.0,8.5,8.0,,,, mid December,late April, 08:30,16:30
+443,Cerkno,Europe, Slovenia,935,1287,18.0,9.0,6.0,3.0,,8.0,33.0, 2021-12-18,2022-03-20, mid December,early April, 09:00,16:00
+444,Rittner Horn (Corno del Renon)   Ritten (Renon),Europe,error,1538,2270,13.0,8.0,3.0,2.0,,3.0,32.0, 2021-12-18,2022-03-20, mid December,late April, 08:30,16:30
+445,Borovets,Europe, Bulgaria,1300,2560,58.0,24.0,29.0,5.0,,13.0,32.0, 2021-12-04,2022-04-18, depending on snow conditions,late April, 08:30,16:30
+446,Schetteregg   Egg,Europe, Austria,1070,1325,11.0,4.0,6.0,1.0,,6.0,35.5, 2021-12-04,2022-03-20, early December,mid March, 09:00,16:00
+447,San Vito di Cadore,Europe, Italia,1011,1584,10.0,4.0,5.0,1.0,,3.0,,,, mid December,late March, 09:00,16:30
+448,Reith bei Kitzbühel,Europe, Austria,770,865,1.8,1.7,0.1,0.0,,,,,, early December,late March, 09:00,16:00
+449,Gérardmer   La Mauselaine,Europe, France,770,1140,40.0,24.0,14.0,2.0,,19.0,28.9, 2021-12-18,2022-03-21, mid December,depending on snow conditions, 09:00,17:00
+450,Albiez Montrond,Europe, France,1520,2100,35.0,25.0,7.0,3.0,,9.0,,,,,early April,,
+451,Macugnaga,Europe, Italia,1327,3000,29.5,5.1,21.8,2.6,,7.0,27.0, 2021-11-27,2022-04-24, mid December,early May, 09:00,16:00
+452,Brambrüesch/Dreibündenstein   Chur,Europe,error,1170,2176,20.0,8.0,8.0,4.0,,5.0,,,, mid December,mid April, 09:00,16:00
+453,Petzen   Feistritz ob Bleiburg,Europe, Austria,650,1900,13.7,7.2,5.9,0.6,3.7,6.0,35.0, 2021-12-11,2022-04-03, early December,late March, 09:00,16:00
+454,Vitosha   Sofia,Europe, Bulgaria,1340,2290,20.0,12.0,6.0,2.0,,15.0,20.0, 2021-12-11,2022-04-18, early December,late March, 09:00,16:00
+455,Nevis Range,Europe, United Kingdom,655,1221,20.0,7.0,10.0,3.0,,12.0,42.0, 2021-12-18,2022-04-18, mid December,early April, 09:30,16:30
+456,La Pinilla,Europe, España,1484,2036,21.0,14.0,6.0,1.0,,11.0,,,, early December,mid March, 09:00,16:30
+457,Roc d'Enfer   St. Jean d'Aulps La Grande Terche/Bellevaux La Chèvrerie,Europe,error,950,1800,28.0,6.0,21.0,1.0,,16.0,,,, mid December,early April, 08:30,16:30
+458,Narvikfjellet   Narvik,Europe, Norway,100,1003,20.0,8.0,10.0,2.0,,5.0,41.0, 2021-12-11,2022-05-15, late November,late March, 13:00,20:00
+459,Giw   Visperterminen,Europe, Switzerland,1340,2338,20.0,7.0,10.0,3.0,,5.0,,,,,depending on snow conditions,,
+460,Mijoux/La Faucille,Europe, France,1000,1533,15.2,3.0,11.9,0.3,,6.0,32.0, 2021-12-18,2022-03-27, mid December,mid March, 09:00,17:00
+461,Gressoney Saint Jean   Weissmatten,Europe, Italia,1348,2023,12.0,6.0,4.0,2.0,,2.0,28.0, 2021-12-18,2022-04-18, early December,mid March, 09:00,16:30
+462,Branäs,Europe, España,152,567,23.0,17.0,5.0,1.0,,19.0,,,,,late March, 09:00,19:00
+463,Tänndalen,Europe, Sweeden,743,1038,38.0,20.0,15.0,3.0,,16.0,,,,,early April, 09:00,16:00
+464,Mechi Chal   Chepelare,Europe,error,1155,1873,13.6,8.3,5.3,0.0,3.6,3.0,,,,,mid April, 08:45,16:30
+465,Altopiano di Brentonico   Polsa/San Valentino,Europe,error,1260,1583,22.0,6.8,10.8,4.4,,5.0,,,,,mid March,,
+466,Arnoldstein   Dreiländereck,Europe, Austria,680,1600,17.0,5.7,7.6,3.7,,8.0,38.5, 2021-12-11,2022-03-27, late December,mid April, 08:30,15:00
+467,Falakro,Europe, Macedonia,1615,2232,22.2,3.8,11.3,7.1,,9.0,,,,,mid March, 09:00,16:00Limited opening times during the week
+468,Piancavallo,Europe, Italia,1245,1865,17.0,3.5,12.0,1.5,,6.0,39.5, 2021-12-04,2022-04-03, early December,late March, 08:30,16:00
+469,Chabanon,Europe, France,1550,2050,40.0,18.0,15.0,7.0,,12.0,,,,,early April, 09:00,17:00
+470,Sainte Anne la Condamine   La Condamine Châtelard,Europe, France,1830,2400,31.6,18.3,10.5,2.8,,6.0,,,,,early April, 09:00,17:00
+471,Popova Sapka,Europe, Macedonia,1708,2525,20.0,6.0,7.0,7.0,,,,,, mid December,early April, 09:00,15:00
+472,Catinaccio/Ciampedie   Vigo di Fassa/Pera di Fassa,Europe,error,1329,2095,13.8,6.4,6.2,1.2,,6.0,56.0, 2021-12-04,2022-04-03, early December,early April, 08:30,16:30
+473,Gemeindealpe   Mitterbach am Erlaufsee,Europe, Austria,800,1626,15.5,7.0,7.0,1.5,,4.0,38.0, 2021-12-04,2022-03-27, mid December,early April, 09:00,16:00
+474,Alto Campoo,Europe, España,1650,2120,27.7,13.6,10.9,3.2,,13.0,,,,,early April,,
+475,La Dôle   Jura sur Léman,Europe,error,1160,1678,28.5,17.4,8.7,2.4,,21.0,33.4, 2021-12-04,2022-04-03, depending on snow conditions,late April, 09:00,16:30
+476,Bürgeralpe   Mariazell,Europe, Austria,864,1267,14.0,9.5,3.0,1.5,,5.0,38.0, 2021-12-08,2022-03-20, early December,late March, 09:00,16:30
+477,La Pierre Saint Martin,Europe, France,1527,2153,25.0,13.4,10.0,1.6,,10.0,36.5, 2021-12-18,2022-04-18, mid December,early April, 08:30,16:30
+478,Belchen,Europe, Deutschland,1094,1356,8.0,6.0,2.0,0.0,8.0,2.0,26.0, 2021-12-18,2022-03-27, depending on snow conditions,early April, 09:15,17:00
+479,Geißkopf   Bischofsmais,Europe, Deutschland,835,1116,8.0,1.8,5.3,0.9,,6.0,27.0, 2021-12-18,2022-03-20, mid December,mid March, 08:30,16:30
+480,Rofan   Maurach,Europe, Austria,985,1840,11.0,1.0,8.0,2.0,,3.0,34.5, 2021-12-18,2022-04-18, mid December,mid March, 08:30,16:45
+481,Passo dello Stelvio (Stelvio Pass),Europe, Italia,2760,3450,9.0,8.0,1.0,0.0,1.0,6.0,49.0, 2021-06-19,2021-10-31, late May,early April, 08:00,15:45
+482,Gaissau Hintersee,Europe, Austria,750,1567,30.0,20.0,9.0,1.0,,8.0,41.0, 2021-12-11,2022-04-03, mid December,mid June, 09:00,16:00
+483,Passo Maniva,Europe, Italia,1660,2064,30.0,21.1,5.4,3.5,,5.0,,,,,early March, 08:30,16:30
+484,Steibis   Imberg (Oberstaufen),Europe, Deutschland,859,1338,17.6,6.0,5.0,6.6,,12.0,39.0, 2021-12-04,2022-04-03, depending on snow conditions,depending on snow conditions, 09:00,16:30
+485,Nesfjellet   Nesbyen,Europe,error,732,1115,13.4,4.9,6.9,1.6,,5.0,,,,,early April, 10:00,16:00
+486,Černá hora   Janské Lázně,Europe, Czech_Republic,600,1260,15.0,3.1,10.9,1.0,2.5,11.0,31.0, 2021-12-04,2022-04-03, early December,late March, 08:30,16:00
+487,Bjorli,Europe, Norway,575,1250,19.9,13.1,3.0,3.8,,6.0,45.0, 2021-11-20,2022-04-24, early November,early April, 10:00,16:00
+488,Darlux   Bergün,Europe, Switzerland,1388,2569,23.0,10.0,12.0,1.0,,3.0,,,,,late March,,
+489,Molines en Queyras/Saint Véran,Europe, France,1750,2800,33.0,20.0,12.0,1.0,,16.0,,,, early December,early April, 09:00,16:30
+490,Ramundberget,Europe, Sweeden,700,1000,25.0,7.6,9.4,8.0,,9.0,,,, late October,late March, 09:00,16:00
+491,Arolla,Europe, Switzerland,2000,2980,47.0,20.0,18.0,9.0,,6.0,39.0, 2021-12-18,2022-04-18, late December,late April, 08:30,16:00
+492,Gavarnie Gèdre (Les Espécières),Europe, France,1850,2322,32.0,16.0,12.0,4.0,,7.0,29.0, 2021-12-18,2022-03-13, mid December,early April, 09:00,17:00
+493,Tornik   Zlatibor,Europe, Serbia,1100,1495,7.0,1.6,4.2,1.2,,4.0,19.0, 2021-12-04,2022-04-18, mid December,early April, 09:00,16:00
+494,Karkogel   Abtenau,Europe, Austria,712,1200,9.0,4.4,1.6,3.0,,5.0,36.5, 2021-12-18,2022-03-20, mid December,early April, 08:30,16:00
+495,Réallon,Europe, France,1560,2146,30.0,20.0,8.0,2.0,,8.0,,,,,early April,,
+496,Glenshee,Europe, United Kingdom,650,900,40.0,24.0,10.0,6.0,,21.0,37.0, 2021-12-18,2022-04-18, depending on snow conditions,early April, 08:30,17:00
+497,Roubion les Buisses,Europe, France,1420,1920,30.0,16.0,12.0,2.0,,7.0,,,,,mid March,,
+498,Ceillac en Queyras,Europe, France,1650,2500,25.0,12.0,12.0,1.0,,6.0,,,, early December,early April, 09:00,17:00
+499,Stöten,Europe, Sweeden,443,830,32.0,26.0,3.0,3.0,,21.0,,,,,early May, 09:00,16:30
+500,Mt. Cheget,Europe, Russia,2120,3260,20.0,6.0,10.0,4.0,,,,,, early December,mid March, 09:00,16:00
+501,Hochkar   Göstling,Europe, Austria,1380,1808,19.2,5.7,10.0,3.5,,8.0,40.0,,, early December,early April, 09:00,16:00
+502,Bernex,Europe, France,1000,1912,19.0,8.0,7.0,4.0,,12.0,24.5, 2021-12-18,2022-03-27, mid December,early May, 08:45,16:45
+503,Pelvoux/Vallouise,Europe, France,1250,2300,23.0,13.7,8.0,1.3,,7.0,23.5, 2021-12-11,2022-04-18, late December,late April, 09:00,16:50
+504,Cambre d'Aze   Eyne/Saint Pierre dels Forcats,Europe,error,1640,2400,22.5,12.8,6.9,2.8,,15.0,,,,,early May,,
+505,Baranci (Haunold)   San Candido (Innichen),Europe, Italia,1175,1610,12.6,7.2,5.1,0.3,,5.0,,,, early December,early April, 08:30,16:30
+506,Hündle/Thalkirchdorf (Oberstaufen),Europe, Deutschland,750,1210,18.0,10.1,7.3,0.6,2.5,9.0,34.0, 2021-12-11,2022-03-27, depending on snow conditions,early April, 09:00,16:30
+507,Vogel   Bohinj,Europe, Slovenia,569,1800,22.0,9.5,12.5,0.0,,9.0,33.0, 2021-12-04,2022-04-24, early December,early April, 09:00,16:00
+508,Prati di Tivo,Europe, Italia,1395,2028,7.5,1.5,5.0,1.0,,3.0,,,,,early April,,
+509,Gran Sasso   Campo Imperatore,Europe, Italia,1115,2235,13.1,3.6,4.5,5.0,14.0,4.0,,,,,mid April,,
+510,Rauland Skisenter/Holtardalen,Europe,error,805,1140,32.0,9.0,17.0,6.0,,10.0,,,,,mid April, 10:00,16:00
+511,Campitello Matese,Europe, Italia,1417,1872,19.9,1.6,16.1,2.2,,5.0,,,,,early April,,
+512,Wispile   Gstaad,Europe, Switzerland,1046,1941,8.9,3.6,3.7,1.6,,5.0,,,, mid December,late March, 09:00,16:30
+513,Crissolo   Monviso,Europe, Italia,1333,2400,20.0,5.0,8.0,7.0,4.0,3.0,,,,,late April, 09:00,16:30
+514,Steckenberg   Unterammergau,Europe, Deutschland,840,1050,8.0,2.0,5.0,1.0,,8.0,19.5, 2021-12-11,2022-03-20, mid December,early April, 08:30,16:30
+515,Schöneck (Skiwelt),Europe,error,620,760,2.2,0.6,1.0,0.6,,4.0,23.0, 2021-12-11,2022-03-27, early January,mid March, 09:00,21:00
+516,Hochstein   Lienz,Europe, Austria,668,2023,16.0,0.5,11.3,4.2,,4.0,52.0, 2021-12-18,2022-03-13, mid December,mid March, 09:00,16:00
+517,Karwendel Bergbahn (Zwölferkopf)   Pertisau,Europe,error,960,1560,13.0,7.0,6.0,0.0,,7.0,30.0, 2021-12-11,2022-03-27, mid December,early April, 09:00,16:00
+518,Elsigen Metsch   Frutigen,Europe,error,1250,2289,30.0,10.0,17.0,3.0,,9.0,52.0, 2021-11-27,2022-04-18, mid November,mid April, 08:30,16:30
+519,Alpe del Nevegal,Europe,error,1050,1675,23.0,7.0,12.0,4.0,,5.0,,,,,late March,,
+520,Obertilliach   Golzentipp,Europe, Austria,1430,2248,12.2,3.4,7.8,1.0,3.0,5.0,38.0, 2021-12-11,2022-04-18, mid December,early April, 09:00,16:00
+521,Moléson,Europe, Switzerland,1100,2002,30.0,19.0,4.0,7.0,,5.0,32.0, 2021-12-11,2022-03-20, mid December,late March, 09:00,16:30
+522,Mavrovo   Zare Lazareski,Europe,error,1255,1860,25.0,17.0,3.0,5.0,,14.0,20.0, 2021-12-15,2022-04-15, mid December,mid March, 08:00,16:00
+523,Marbach   Marbachegg,Europe, Switzerland,885,1500,10.0,5.0,4.6,0.4,,4.0,36.0, 2021-12-18,2022-03-20, mid December,late March, 08:30,16:45
+524,Crévacol,Europe, Italia,1640,2450,21.0,7.0,11.0,3.0,,3.0,,,,,late March, 08:45,16:30
+525,Kouty nad Desnou,Europe, Czech_Republic,574,1095,11.5,5.5,5.3,0.7,,4.0,,,, early December,late March, 09:00,16:30
+526,LeMelette   Gallio,Europe,error,1413,1733,18.2,2.2,11.9,4.1,,4.0,,,,,late March,,
+527,Fendels,Europe, Austria,1325,2271,10.6,6.1,3.5,1.0,,6.0,41.0, 2021-12-11,2022-04-18, mid December,early March, 09:00,15:00
+528,Ravna Planina,Europe, Bosnia,920,1281,12.5,10.7,1.4,0.4,,3.0,,,,,early April,,
+529,Glencoe Mountain,Europe, Scotland,360,1070,24.3,7.0,10.0,7.3,,9.0,41.0, 2021-12-18,2022-04-18, mid December,late April, 09:00,16:00
+530,Plešivec   Abertamy,Europe, Czech_Republic,721,1028,12.0,10.0,1.1,0.9,,6.0,27.0, 2021-12-11,2022-03-27, mid December,mid March, 09:00,16:00
+531,Valgrande Pajares,Europe, España,1455,1840,25.0,12.0,10.0,3.0,,8.0,,,,,mid March,,
+532,Horní Domky   Lysá Hora,Europe,error,657,1315,13.7,7.6,4.7,1.4,,8.0,31.0, 2021-12-11,2022-03-27, early December,late April, 08:00,16:00
+533,Stara Planina   Babin Zub,Europe,error,1475,2169,13.0,7.0,3.0,3.0,,5.0,19.0, 2021-12-11,2022-04-18, early December,late March, 09:00,16:30
+534,Argentera,Europe, Italia,1630,2480,20.0,10.0,8.0,2.0,,2.0,,,,,mid April,,
+535,Vrådal,Europe, Norway,262,735,15.0,10.0,3.0,2.0,,5.0,43.0, 2021-12-18,2022-04-18, late November,early April, 10:00,16:00
+536,San Isidro Zona Cebolledo,Europe,error,1640,2030,20.8,6.8,9.5,4.5,3.5,7.0,,,,,late March,,
+537,Cmiljače   Bjelasica,Europe,error,1570,1907,,,,,,,,,,,late March,,
+538,Funäsdalsberget,Europe, Sweeden,690,1005,10.0,4.0,4.0,2.0,,5.0,,,, late November,early April, 09:00,16:00
+539,Ancelle,Europe, France,1340,1807,30.0,16.0,12.0,2.0,,13.0,25.7, 2021-12-11,2022-03-20, mid December,mid April, 09:00,17:00
+540,Formiguères,Europe, France,1730,2320,22.0,15.0,6.0,1.0,,7.0,,,,,mid March,,
+541,Colere,Europe, Italia,1050,2250,18.7,0.3,10.0,8.4,,5.0,,,,,late March,,
+542,Corno alle Scale   Lizzano in Belvedere,Europe, Italia,1418,1945,14.0,5.0,7.0,2.0,,6.0,33.0, 2021-12-04,2022-04-18, early December,early April, 08:30,16:30
+543,Vrátna,Europe, Slovakia,601,1532,15.0,2.0,9.0,4.0,,13.0,34.0, 2021-12-11,2022-04-03, early December,early April, 09:00,16:00
+544,Monte Verena   Mezzaselva di Roana,Europe,error,1640,2020,7.0,2.0,2.0,3.0,,4.0,,,,,early March,,
+545,Wiriehorn,Europe, Switzerland,984,1868,17.5,9.5,5.0,3.0,,5.0,,,, mid December,early April, 09:00,16:00
+546,Aillons Margériaz,Europe, France,1370,1785,24.0,18.2,4.0,1.8,,12.0,,,,,late March, 09:00,17:00
+547,Kelchsau,Europe, Austria,775,1605,10.9,6.8,4.1,0.0,,4.0,30.5, 2021-12-24,2022-03-13, mid December,depending on snow conditions, 08:30,16:30
+548,Poiana Brașov,Europe, Romania,941,1783,13.7,5.8,2.8,5.1,5.0,10.0,30.0, 2021-12-11,2022-04-18, early December,late March, 09:00,16:00
+549,Auronzo di Cadore   Monte Agudo,Europe, Italia,865,1534,7.0,3.0,3.0,1.0,,3.0,,,,,mid March,,
+550,Kolasportland,Europe,error,390,852,30.0,15.0,14.0,1.0,,7.0,,,, mid November,late March, 10:00,18:00
+551,Saint Léger les Mélèzes,Europe, France,1260,1982,24.0,10.0,12.0,2.0,,8.0,,,, mid December,mid April, 09:00,16:45
+552,Kampenwand   Aschau im Chiemgau,Europe, Deutschland,626,1475,12.0,7.0,4.0,1.0,,4.0,32.0, 2021-12-25,2022-03-20, depending on snow conditions,mid March, 09:00,16:30
+553,Zieleniec,Europe, Poland,811,1025,21.0,13.0,7.8,0.2,,28.0,24.0, 2021-12-03,2022-04-03, early December,mid April, 09:00,22:00
+554,Unterbäch   Brandalp/Ginals,Europe,error,1200,2500,20.5,10.5,6.5,3.5,,6.0,42.0, 2021-12-18,2022-04-03, mid December,early April, 09:15,16:30
+555,Ruzomberok Skipark,Europe, Slovakia,545,1209,12.0,3.0,7.5,1.5,,9.0,34.0, 2021-12-11,2022-03-27, early December,mid April, 08:30,16:00
+556,L'Essert   Abondance,Europe, France,936,1730,15.0,11.0,3.0,1.0,,8.0,,,, mid December,late March, 08:30,16:30
+557,La Covatilla   Sierra de Béjar,Europe, España,1990,2368,26.8,8.6,18.2,0.0,,3.0,,,,,early April,,
+558,Veľká Rača,Europe, Slovakia,652,1041,12.0,5.0,6.0,1.0,,6.0,34.0, 2021-12-11,2022-04-03, early December,early April, 09:00,16:00
+559,Sarn (Heinzenberg),Europe, Switzerland,1300,2075,20.0,8.0,10.0,2.0,,3.0,,,, mid December,mid March, 09:00,16:00
+560,Col de Rousset,Europe, France,1255,1700,29.0,22.0,5.0,2.0,,11.0,,,,,early April,,
+561,Praděd/Myšák   Malá Morávka (Ski Karlov),Europe,error,685,940,10.4,6.9,3.5,0.0,,6.0,,,,,late March, 09:00,16:00
+562,Kanin   Sella Nevea/Bovec,Europe, Slovenia,1103,2292,10.5,4.2,6.3,0.0,,10.0,39.5, 2021-12-04,2022-05-01, early December,mid March, 09:00,16:00
+563,Predeal,Europe, Romania,1040,1451,7.4,1.8,4.4,1.2,0.6,2.0,,,,,depending on snow conditions, 08:30,16:30
+564,La Bresse   Hohneck,Europe, France,872,1350,21.0,13.0,7.0,1.0,1.0,16.0,32.0, 2021-12-04,2022-04-03, mid December,late March, 09:00,17:00
+565,Kranjska Gora,Europe, Slovenia,800,1215,20.0,10.0,8.0,2.0,,17.0,35.5, 2021-12-11,2022-03-27, early December,early April, 08:00,13:00
+566,Alpe di Mera   Scopello,Europe, Italia,702,1742,16.0,2.7,13.3,0.0,,5.0,,,, mid December,early April, 09:00,17:30
+567,Panarotta 2002   Valsugana,Europe, Italia,1518,2002,18.0,6.0,6.0,6.0,,3.0,30.0, 2021-12-04,2022-04-03, early December,mid March, 08:30,16:00
+568,Le Semnoz,Europe, France,1450,1704,18.0,12.0,5.0,1.0,,10.0,,,, early December,late March, 09:00,17:00
+569,Sattel   Hochstuckli,Europe, Switzerland,800,1491,12.0,6.0,6.0,0.0,2.0,5.0,36.0, 2021-12-04,2022-03-20, mid December,mid March, 09:00,16:15
+570,Sampeyre,Europe, Italia,980,1860,17.2,9.4,6.8,1.0,,2.0,,,,,late March,,
+571,Bielmonte,Europe, Italia,1229,1621,20.0,10.0,8.0,2.0,,7.0,,,,,depending on snow conditions,,
+572,Jöchelspitze   Bach,Europe, Austria,1200,1800,5.0,2.5,2.5,0.0,,2.0,42.0, 2021-12-18,2022-03-20, mid December,early April, 09:00,16:00
+573,Cairngorm Mountain,Europe, United Kingdom,640,1230,32.0,24.0,6.0,2.0,,11.0,35.0, 2021-12-18,2022-05-01, late November,depending on snow conditions, 09:00,16:00
+574,La Fouly,Europe, Switzerland,1600,2200,20.0,6.0,4.0,10.0,,3.0,,,,,late March,,
+575,Hochwang   Goldgruben,Europe,error,1548,2204,20.0,9.0,9.0,2.0,,3.0,,,,,early April,,
+577,Lizzola,Europe, Italia,1262,2028,20.0,2.0,18.0,0.0,,4.0,,,,,early April, 09:00,16:30
+578,Oeschinensee   Kandersteg,Europe, Switzerland,1200,1680,12.0,5.8,6.2,0.0,,5.0,41.0, 2021-12-18,2022-03-20, mid December,early March, 09:00,17:00
+579,Chiomonte Frais,Europe, Italia,1460,2090,19.0,6.0,12.0,1.0,6.0,,,,,,late March,,
+580,Szklarska Poręba   Szrenica,Europe, Poland,707,1362,12.0,3.3,6.7,2.0,,8.0,25.0, 2021-12-04,2022-04-03, early December,late March, 08:30,16:00
+581,Klövsjö/Storhogna,Europe, Sweeden,448,875,19.0,13.0,3.0,3.0,,14.0,53.0, 2021-11-27,2022-04-18, early November,late March, 09:00,16:00
+582,Duved/Tegefjäll,Europe, Sweeden,420,794,20.0,8.0,12.0,0.0,,10.0,,,, late November,mid April, 09:30,16:00
+583,Gautefall,Europe, Norway,500,700,13.4,6.6,5.2,1.6,,4.0,,,,,late March, 10:00,16:00
+584,Le Mourtis,Europe, France,1420,1860,25.0,13.0,10.0,2.0,,10.0,,,,,early April, 09:00,17:00
+585,TschentenAlp   Adelboden,Europe, Switzerland,1370,1960,10.0,1.5,7.0,1.5,,4.0,,,,,early April,,
+586,Le Grand Puy,Europe, France,1280,1736,22.0,12.0,7.0,3.0,,5.0,,,,,late March, 09:00,16:00
+587,Val Louron,Europe, France,1450,2055,19.0,9.0,8.2,1.8,,9.0,,,,,early May,,
+588,Sjusjøen,Europe, Norway,700,945,7.0,4.0,2.0,1.0,,3.0,,,,,early April, 10:00,16:00
+589,Kasprowy Wierch   Zakopane,Europe, Poland,1014,1987,15.0,3.5,11.5,0.0,,4.0,28.0, 2021-12-18,2022-05-01, early December,late March, 09:00,16:00
+590,Kellerjoch   Schwaz,Europe, Austria,1352,1887,14.0,9.5,2.4,2.1,1.0,3.0,34.0, 2021-12-18,2022-03-27, depending on snow conditions,late March, 09:00,16:00
+591,Szymoszkowa,Europe, Poland,865,1126,4.0,2.0,2.0,0.0,,2.0,25.0, 2021-12-11,2022-04-03, early December,depending on snow conditions, 09:00,20:00
+592,Vasilitsa,Europe, Macedonia,1642,2110,22.0,4.0,14.0,4.0,,7.0,,,,,early March, 09:00,16:00
+593,Pescasseroli,Europe, Italia,1235,1820,8.5,3.2,3.4,1.9,,5.0,28.0, 2021-12-11,2022-04-03, mid December,early April, 09:00,17:00
+594,Klippitztörl,Europe, Austria,1460,1818,28.0,18.0,10.0,0.0,1.0,6.0,37.0, 2021-12-11,2022-04-18, early December,early April, 09:00,16:00
+595,Pian Munè   Paesana,Europe, Italia,1530,2060,16.0,7.0,7.0,2.0,,2.0,,,,,mid March, 08:30,16:30
+596,Planneralm   Donnersbach,Europe, Austria,1600,2000,15.0,2.0,11.0,2.0,3.0,5.0,44.0, 2021-12-04,2022-04-18, early December,early April, 09:00,16:00
+597,Bivio,Europe, Switzerland,1769,2560,30.0,13.0,13.0,4.0,,4.0,40.0, 2021-12-18,2022-04-18, mid December,late March, 09:00,16:00
+598,Tjørhomfjellet/Ålsheia Skisenter   Sirdal,Europe,error,560,924,17.0,10.0,6.0,1.0,,9.0,,,,,early April, 09:30,16:00
+599,Uvdal Alpinsenter,Europe, Norway,656,1203,20.0,14.0,5.0,1.0,,4.0,,,,,early April, 10:00,16:00
+600,Śnieżka   Karpacz,Europe, Poland,820,1350,5.8,2.6,1.7,1.5,,6.0,22.0, 2021-12-04,2022-04-18, early December,mid March, 08:30,17:00
+601,Babin Do   Bjelašnica,Europe, Bosnia,1270,2067,12.5,4.5,7.0,1.0,,8.0,,,, mid December,late March, 08:00,16:00
+602,Bödele   Schwarzenberg,Europe, Austria,700,1467,25.0,9.0,12.0,4.0,5.6,12.0,35.7, 2021-12-04,2022-04-03, early December,mid March, 08:30,16:00
+603,Champex Lac (Orsières),Europe, Switzerland,1486,2194,15.0,3.0,10.0,2.0,,4.0,,,,,late March,,
+604,Les Mosses/La Lécherette,Europe, Switzerland,1445,1870,40.0,10.0,30.0,0.0,,13.0,,,, mid December,mid March, 09:00,16:30
+605,Spiazzi di Gromo,Europe, Italia,1156,1705,15.0,1.0,12.0,2.0,,4.0,,,,,early April,,
+606,Valdesquí,Europe, España,1860,2278,22.3,18.8,3.5,0.0,,13.0,,,,,late March, 09:00,16:30
+607,Campo Stella   Leonessa,Europe, Italia,1129,1696,14.0,11.0,1.0,2.0,,2.0,,,,,late March,,
+608,Bugnenets Savagnières   Saint Imier,Europe, Switzerland,1091,1460,30.0,10.0,10.0,10.0,,8.0,,,,,mid March,,
+609,Adria Ski   Kupres,Europe, Bosnia,1189,1528,13.0,5.9,7.1,0.0,,5.0,,,,,depending on snow conditions, 09:00,16:00
+610,Puerto Navacerrada,Europe, España,1703,2174,10.0,3.0,6.0,1.0,,5.0,,,,,mid March,,
+611,Brezovica,Europe, Slovakia,1718,2522,15.6,2.0,10.1,3.5,,,,,,,late March,,
+612,Czarna Góra   Sienna,Europe, Poland,835,1250,9.3,1.5,6.2,1.6,,9.0,,,,,mid March, 09:00,22:00
+613,Aillon le Jeune,Europe, France,945,1541,16.0,10.0,4.0,2.0,,9.0,,,, mid December,mid April, 09:00,17:00
+614,Meander Skipark   Oravice,Europe,error,785,1055,7.5,2.0,5.5,0.0,,3.0,,,,,early April, 09:00,16:00
+615,Ötscher   Lackenhof (Gaming),Europe, Austria,812,1426,15.5,5.3,6.6,3.6,,8.0,40.0,,, early December,late March, 08:00,16:00
+616,Audibergue,Europe, France,1405,1657,29.0,16.0,12.0,1.0,,6.0,,,,,early May,,
+617,Bjursås Ski Center,Europe,error,214,394,12.6,5.6,4.1,2.9,,7.0,,,,,late March, 10:00,16:00
+618,Ascou Pailhères,Europe, France,1500,2000,20.0,11.0,7.0,2.0,,6.0,,,,,late March,,
+619,Autrans   La Sure,Europe, France,1050,1710,20.0,10.0,8.0,2.0,,7.0,,,, late November,late March, 09:00,17:00
+620,Björnrike,Europe, Sweeden,506,946,14.0,8.0,4.0,2.0,,12.0,,,, mid November,late March, 09:00,16:00
+621,Méaudre,Europe, France,1012,1600,18.0,12.0,5.0,1.0,,10.0,,,, mid December,depending on snow conditions, 09:00,17:00
+622,Palumbosila,Europe,error,1350,1650,20.0,11.0,9.0,0.0,,,,,,,early April,,
+623,Azuga,Europe, Romania,978,1539,8.0,2.5,5.5,0.0,,6.0,,,,,early April,,
+624,Schattwald/Zöblen,Europe, Austria,1090,1565,10.3,4.5,3.7,2.1,,4.0,42.0, 2021-12-11,2022-03-20, early December,early April, 08:30,16:00
+625,Borno   Monte Altissimo,Europe, Italia,952,1694,14.4,0.5,10.8,3.1,,4.0,,,, early December,mid March, 09:00,16:30
+626,Amden   Arvenbüel/Mattstock,Europe,error,931,1684,20.0,10.0,10.0,0.0,,6.0,32.0, 2021-12-11,2022-03-20, depending on snow conditions,depending on snow conditions, 09:00,16:15
+627,Etna Nord   Linguaglossa,Europe, Italia,1810,2336,10.3,1.5,8.8,0.0,,4.0,,,,,early April, 09:00,16:00
+628,Rosswald   Brig,Europe, Switzerland,1819,2536,9.0,3.0,2.0,4.0,7.0,5.0,,,,,early April,,
+629,Bodrost/Kartala,Europe,error,1440,2350,5.0,0.5,4.5,0.0,,,,,,,mid April,,
+630,Unternberg (Ruhpolding),Europe, Deutschland,710,1417,2.5,1.5,1.0,0.0,3.6,4.0,24.0, 2021-12-18,2022-03-20, mid December,late March, 09:00,16:00
+631,SnowWorld Zoetermeer,Europe, Netherlands,15,80,0.6,0.3,0.3,0.0,,6.0,48.5, Year-round__,, Year-round__,depending on snow conditions, 09:00,23:00
+632,Todtnauberg,Europe, Deutschland,1000,1400,13.0,0.0,13.0,0.0,9.3,5.0,32.0, 2021-12-18,2022-03-27, mid December,late March, 09:00,16:30
+633,Saint Michel de Chaillol,Europe, France,1450,2000,13.0,5.0,5.0,3.0,,8.0,,,, early December,late April, 09:00,16:45
+635,Chalmazel,Europe, France,1110,1600,12.0,5.0,5.0,2.0,,9.0,,,,,mid April, 09:00,17:00
+636,Gresse en Vercors,Europe, France,1245,1751,20.0,8.0,7.0,5.0,,10.0,20.3, 2021-12-17,2022-03-27, mid December,mid March, 09:00,16:30
+637,Dolní Morava   Králický Sněžník,Europe, Czech_Republic,650,1232,10.7,6.4,3.7,0.6,,7.0,,,, early December,early April, 08:30,16:00
+638,Javalambre,Europe, España,1650,2000,15.0,14.0,1.0,0.0,,7.0,,,,,late March, 09:00,17:00
+639,Passo Rolle (Rolle Pass),Europe, Italia,1873,2216,15.0,5.0,7.0,3.0,,5.0,,,, early December,late March, 08:30,16:30
+640,Hochrindl   Sirnitz,Europe, Austria,1540,1886,20.6,5.4,11.4,3.8,,7.0,36.0, 2021-12-18,2022-03-20, early December,late March, 09:00,16:00
+641,Trillevallen,Europe, Sweeden,673,990,22.0,5.0,12.0,5.0,,8.0,,,,,late March, 09:00,16:00
+642,Serles   Mieders,Europe, Austria,960,1674,5.7,2.2,3.5,0.0,,4.0,35.5, 2021-12-18,2022-03-20, mid December,late March, 09:00,16:30
+643,Røldal,Europe, Norway,680,1300,12.0,7.0,4.0,1.0,,7.0,,,, early December,late March, 10:00,16:00
+644,Ramzová Bonera   Šerák,Europe,error,782,1351,8.0,2.0,5.0,1.0,,5.0,,,, mid December,mid April, 08:30,16:30
+645,Breitenberg/Hochalpe   Pfronten,Europe,error,800,1675,7.0,1.0,6.0,0.0,4.0,6.0,30.0, 2021-12-18,2022-03-27, mid December,late March, 09:00,16:30
+646,Paseky nad Jizerou,Europe, Czech_Republic,620,860,10.3,6.5,3.8,0.0,,4.0,20.0, 2021-12-18,2022-03-20, early December,late March, 08:00,16:30
+647,Mittagbahn   Immenstadt,Europe, Deutschland,765,1405,12.0,1.0,6.0,5.0,,2.0,,,, mid December,mid March, 08:00,16:00
+648,Prali,Europe, Italia,1450,2510,9.0,2.0,4.0,3.0,,4.0,,,,,early April,,
+649,Hauereck   St. Kathrein am Hauenstein,Europe, Austria,1000,1305,5.0,2.0,2.0,1.0,,3.0,31.5, 2021-12-18,2022-03-20, early December,mid March, 09:00,16:00
+650,Graukogel   Bad Gastein,Europe, Austria,1079,2007,11.9,3.5,6.4,2.0,2.2,,, 2021-12-25,2022-03-27, late December,early April, 09:00,16:00
+651,Kongsberg (Skimore),Europe, Norway,235,565,9.0,5.0,2.0,2.0,,5.0,,,,,mid March, 10:00,16:00
+652,Brusson   Estoul,Europe, Italia,1803,2235,16.0,3.0,13.0,0.0,,3.0,,,,,early March,,
+653,Cima Piazzi/San Colombano   Isolaccia/Oga,Europe,error,1340,2547,9.0,0.3,8.7,0.0,,9.0,40.0, 2021-11-27,2022-04-18, early December,mid March, 09:00,16:00
+654,Tanvaldský Špičák,Europe, Czech_Republic,542,812,7.6,4.8,2.2,0.6,,6.0,,,,,late March, 08:30,16:00
+655,Wunderwiese   Puchberg am Schneeberg,Europe,error,810,1210,7.8,3.8,4.0,0.0,,3.0,29.0, 2021-12-18,2022-03-13, early December,late March, 09:00,16:00Limited opening times during the week
+656,Vichères (Liddes),Europe, Switzerland,1595,2267,15.0,7.0,5.0,3.0,,4.0,,,,,mid March,,
+657,Les Monts d'Olmes,Europe, France,1400,1950,23.0,10.0,13.0,0.0,,13.0,,,,,early April,,
+658,Bagolino,Europe, Italia,1500,2185,15.0,3.0,10.0,2.0,,,,,,,mid March, 08:30,16:30
+659,Buková hora   Čenkovice/Červená Voda,Europe, Czech_Republic,557,958,8.5,2.5,6.0,0.0,,8.0,,,, early December,late March, 09:00,16:00
+660,Vigla Pisoderi/Verno   Florina,Europe,error,1455,1970,11.2,4.2,6.0,1.0,16.8,5.0,,,,,late March, 09:00,16:00
+661,Kraličák   Hynčice pod Sušinou/Stříbrnice,Europe,error,630,870,7.0,2.5,3.6,0.9,,9.0,,,,,late April, 09:00,16:00
+662,Beskid Sport Arena (Szczyrk),Europe, Poland,600,840,3.5,1.5,1.2,0.8,,4.0,,,,,mid March, 07:00,14:00
+663,Arvieux,Europe, France,1550,2200,18.0,8.0,2.0,8.0,,6.0,,,, mid December,mid March, 09:00,16:30
+664,Tahko,Europe, Finland,84,284,20.0,10.0,8.0,2.0,,14.0,,,,,mid April,,
+665,Sappada,Europe, Italia,1223,2000,15.0,7.0,8.0,0.0,,10.0,39.5, 2021-12-04,2022-04-18, mid December,late March, 09:00,16:00
+666,Transalpina   Vidra/Voineasa,Europe,error,1320,1940,6.1,3.8,2.3,0.0,,5.0,,,,,mid March,,
+667,Galsterberg   Pruggern,Europe, Austria,1000,1976,12.0,4.0,7.0,1.0,2.0,4.0,50.5, 2021-12-08,2022-03-27, depending on snow conditions,early March, 08:30,16:15
+668,Camigliatello Silano,Europe, Italia,1378,1785,4.3,2.4,1.9,0.0,,1.0,,,,,late March,,
+669,Fuentes de Invierno,Europe, España,1487,1950,8.8,4.2,3.3,1.3,,4.0,27.0, 2021-12-04,2022-04-03, early December,late March, 09:00,16:45
+670,Minschuns   Val Müstair Tschierv,Europe, Switzerland,2117,2700,25.0,17.0,5.0,3.0,,4.0,37.0, 2021-12-18,2022-03-20, mid December,mid March, 09:15,16:10
+671,Říčky v Orlických horách,Europe, Czech_Republic,740,992,4.0,1.5,1.5,1.0,,4.0,,,,,mid March, 08:00,16:00
+672,Rarău   Câmpulung Moldovenesc,Europe, Romania,775,1225,4.2,1.4,2.8,0.0,,,,,,,,,
+673,Vigiljoch (Monte San Vigilio)   Lana,Europe, Italia,1486,1814,3.4,1.4,2.0,0.0,,4.0,16.0, 2021-12-25,2022-03-06, depending on snow conditions,, 09:00,17:00Limited opening times during the week
+674,Silberberg   Bodenmais,Europe, Deutschland,750,955,2.0,2.0,0.0,0.0,,2.0,20.0, 2021-12-18,2022-03-20, late December,, 09:00,16:00
+675,Altastenberg,Europe, Deutschland,600,800,10.9,4.1,2.7,4.1,1.0,7.0,26.0, 2021-12-18,2022-03-13, mid December,, 09:00,16:30
+676,Kirchdorf,Europe, Deutschland,640,780,5.0,5.0,0.0,0.0,,3.0,29.5, 2021-12-11,2022-03-20, mid December,, 10:00,16:00
+677,Manzaneda,Europe, España,1505,1760,10.0,8.0,2.0,0.0,,6.0,,,,,,,
+678,Roháče   Spálená,Europe,error,1030,1498,5.7,2.9,2.5,0.3,,5.0,,,, mid December,, 09:00,16:00
+679,Lac Blanc,Europe, Romania,868,1211,14.0,8.0,5.0,1.0,,9.0,25.5, 2021-12-11,2022-03-27, early December,, 09:00,16:45
+680,Axalp ob Brienz,Europe, Switzerland,1400,2000,15.0,11.0,1.5,2.5,3.0,4.0,,,,,,,
+681,Rothwald/Wasenalp (Simplon Pass),Europe,error,1750,2270,25.0,5.0,15.0,5.0,,3.0,,,,,, 09:00,16:00
+682,Krinnenalpe   Nesselwängle,Europe, Austria,1150,1671,13.0,5.0,7.0,1.0,2.0,5.0,41.0, 2021-12-18,2022-03-20, mid December,, 09:10,16:20
+683,Valdelinares (Sierra de Gúdar),Europe, España,1737,1979,17.0,10.0,7.0,0.0,,9.0,,,, early December,, 08:30,17:00
+684,Jaworzyna Krynicka,Europe, Poland,644,1114,8.4,0.9,6.5,1.0,,8.0,24.0, 2021-12-11,2022-03-27, early December,, 09:00,18:00
+685,Chelmos   Kalavrita,Europe,error,1700,2325,12.2,4.8,5.8,1.6,,8.0,,,,,,,
+686,Crêt Béni/La Combe   La Chapelle d'Abondance,Europe,error,1020,1630,10.0,4.0,6.0,0.0,,7.0,,,, mid December,, 08:30,16:30
+687,Pec pod Sněžkou,Europe, Czech_Republic,830,1215,13.0,5.1,7.4,0.5,,12.0,31.0, 2021-12-11,2022-04-03, early December,, 08:30,16:00
+688,Pilsko   Korbielów,Europe, Poland,750,1557,8.0,2.0,5.0,1.0,,11.0,25.0, 2021-12-11,2022-03-27, early December,, 09:00,16:00
+689,Zahmer Kaiser   Walchsee,Europe, Austria,600,1200,13.0,11.0,2.0,0.0,,3.0,28.0, 2021-12-18,2022-03-13, mid December,, 09:00,16:00
+690,Kubínska hoľa,Europe, Slovakia,720,1396,14.0,2.0,10.0,2.0,,10.0,30.0, 2021-12-11,2022-04-03, mid December,, 08:30,15:30
+691,Prato Selva,Europe, Italia,1375,1775,15.0,7.0,8.0,0.0,,2.0,,,,,, 09:00,16:15
+692,Biały Jar   Karpacz,Europe, Poland,730,805,2.5,1.1,1.4,0.0,,1.0,,,, early December,, 09:00,16:00
+693,Forsteralm   Waidhofen an der Ybbs,Europe, Austria,720,1078,16.0,10.0,4.0,2.0,,7.0,30.0, 2021-12-18,2022-03-13, depending on snow conditions,, 09:00,16:00
+694,Hlíðarfjall   Akureyri,Europe, Ísland,476,950,14.9,6.0,7.0,1.9,,7.0,,,,,, 10:00,16:00Limited opening times during the week
+695,Lagorai/Passo Brocon   Castello Tesino,Europe,error,1613,2060,11.0,4.8,5.9,0.3,,3.0,,,,,, 09:00,16:30
+696,Eckbauer   Garmisch Partenkirchen,Europe, Deutschland,730,1230,3.6,0.0,3.0,0.6,,,,,, depending on snow conditions,, 09:00,16:30
+697,Fageralm   Forstau,Europe, Austria,930,1885,15.0,7.0,8.0,0.0,2.4,7.0,51.5, 2021-12-24,2022-04-18, late December,, 08:15,16:00
+698,Eischoll,Europe, Switzerland,1260,2200,15.0,10.0,4.5,0.5,,4.0,,,, mid December,, 09:00,16:00
+699,Pescegallo   Valgerola,Europe,error,1450,2000,9.6,4.6,2.0,3.0,,2.0,,,,,, 08:00,17:00Limited opening times during the week
+700,Schia   Monte Caio,Europe, Italia,1202,1485,13.4,1.9,9.1,2.4,,3.0,,,,,,,
+701,Muntele Mic,Europe, Romania,1416,1795,10.2,3.6,6.6,0.0,9.8,5.0,,,,,,,
+702,La Sambuy   Seythenex,Europe, France,1150,1851,10.0,3.0,3.0,4.0,,5.0,,,, mid December,, 09:00,16:30
+703,Ještěd   Liberec,Europe, Czech_Republic,540,1000,9.2,2.5,5.9,0.8,,9.0,27.0, 2021-12-04,2022-04-03, mid December,, 08:30,16:00
+704,Sant'Annapelago,Europe, Italia,1100,1700,8.0,4.0,2.0,2.0,,,,,,,,,
+705,Panichishte,Europe, Bulgaria,1585,2272,9.0,5.0,3.5,0.5,,,,,,,, 09:00,16:30
+706,Parâng,Europe, Macedonia,1300,1720,8.0,0.6,4.3,3.1,,,,,,,,,
+707,Śnieżnica   Kasina Wielka,Europe, Poland,610,902,2.9,1.6,1.3,0.0,,2.0,,,,,, 09:00,16:00
+708,Annaberg,Europe, Czech_Republic,896,1300,12.5,8.0,2.5,2.0,,5.0,38.0, 2021-12-08,2022-03-27, mid December,, 09:00,16:00
+709,Gubaha,Europe, Russia,161,471,17.0,13.5,1.8,1.7,,7.0,,,,,,,
+711,Grimmialp,Europe, Switzerland,1230,1890,10.0,4.0,4.0,2.0,1.0,3.0,36.0, 2021-12-18,2022-03-20, mid December,, 09:00,16:15
+712,Domobianca,Europe, Italia,1088,1845,7.5,2.1,3.3,2.1,,6.0,,,,,, 08:30,16:30
+713,Kungsberget,Europe, Sweeden,106,306,7.5,2.5,2.5,2.5,,8.0,,,,,,,
+714,Bydalsfjällen   Bydalen,Europe, Sweeden,590,1010,25.0,10.0,12.0,3.0,,17.0,,,,,, 09:30,17:00
+715,Dwie Doliny   Wierchomla Mała/Szczawnik (Piwniczna Zdrój/Muszyna),Europe,error,610,1001,11.0,7.0,4.0,0.0,,10.0,22.0, 2021-12-04,2022-03-27, early December,, 09:00,18:00
+716,Vysokyy Verh   Zahar Berkut,Europe,error,671,1223,9.0,5.0,3.0,1.0,,5.0,,,,,, 09:00,16:30
+717,Słotwiny Arena,Europe, Poland,697,861,2.2,0.6,1.6,0.0,,3.0,,,,,,,
+718,Järvsö,Europe, Sweeden,170,370,9.3,5.0,3.0,1.3,,8.0,,,,,, 09:00,16:00
+719,Kranzberg   Mittenwald,Europe, Deutschland,980,1350,15.0,6.0,7.0,2.0,2.0,8.0,30.5, 2021-12-18,2022-03-20, mid December,, 09:00,16:30
+720,Febbio 2000   Monte Cusna,Europe, Italia,1200,2063,7.8,3.2,1.7,2.9,,2.0,,,,,, 08:30,16:30
+721,Krippenstein   Obertraun,Europe, Austria,609,2109,12.0,3.0,9.0,0.0,30.0,7.0,44.5, 2021-12-24,2022-04-03, late December,, 08:30,16:00
+722,Burglift   Stans,Europe, Austria,560,690,0.5,0.5,0.0,0.0,,2.0,21.0, 2021-12-25,2022-03-13, depending on snow conditions,, 09:30,16:00
+723,Sternstein   Bad Leonfelden,Europe, Austria,814,1102,5.0,1.0,4.0,0.0,,2.0,36.0, 2021-12-18,2022-03-20, early December,, 08:30,16:15
+724,SnowWorld Rucphen,Europe,error,30,52,0.5,0.5,0.0,0.0,,4.0,48.5, Year-round__,, Year-round__,, 10:00,23:00
+725,Heutal   Unken,Europe, Austria,970,1531,11.0,6.0,5.0,0.0,2.5,4.0,29.0, 2021-12-18,2022-03-06, mid December,, 09:00,16:00
+726,Hawrań   Jurgów,Europe, Poland,830,1046,4.6,1.3,2.3,1.0,,6.0,25.0, 2021-12-04,2022-04-03, early December,, 09:00,22:00
+727,Mottarone,Europe, Italia,1269,1491,17.9,5.6,11.2,1.1,,8.0,,,,,, 08:30,17:00
+728,Salamandra Resort   Banska Stiavnica,Europe,error,579,850,1.6,0.2,1.4,0.0,,2.0,28.0, 2021-12-11,2022-03-27, mid December,, 08:30,15:30
+729,Gréolières les Neiges,Europe, France,1400,1800,18.6,8.8,7.9,1.9,,9.0,,,,,,,
+730,Elatochori   Katerini,Europe, Macedonia,1410,1912,11.9,8.3,2.6,1.0,0.7,5.0,,,,,, 09:00,16:00
+731,Hirnkopf   Flattnitz (Glödnitz),Europe, Austria,1400,1840,12.0,7.0,2.0,3.0,,4.0,32.0, 2021-12-18,2022-03-20, early December,, 09:00,16:00
+732,Furkel   Trafoi (Stilfs),Europe,error,1570,2400,8.3,4.3,3.0,1.0,,3.0,46.0, 2021-12-18,2022-04-18, late December,, 09:00,16:00
+733,Mörlialp   Giswil,Europe, Switzerland,1350,1850,14.0,5.0,6.0,3.0,,6.0,39.0, 2021-12-18,2022-03-20, early December,, 09:00,16:00
+734,Kalinderu   Buşteni,Europe, Romania,1000,1295,2.9,0.2,2.7,0.0,,2.0,,,,,, 09:00,17:00Limited opening times during the week
+735,Monte Pora,Europe, Italia,1387,1880,11.0,2.3,8.2,0.5,,7.0,,,,,,,
+736,Etna South   Nicolosi,Europe, Italia,1910,2604,6.3,0.7,5.6,0.0,,5.0,,,,,, 09:00,15:30
+737,Vorobyovy Gory   Moscow,Europe, Russia,133,193,0.6,0.5,0.1,0.0,,,,,,,,,
+738,Trostyan Mountain,Europe, Ukraine,682,1232,12.0,3.0,7.0,2.0,,,,,,,,,
+739,Grüntenlifte   Kranzegg (Rettenberg),Europe, Deutschland,900,1700,16.8,2.1,14.7,0.0,1.5,8.0,32.0,,, mid December,, 08:30,16:00
+740,Heidbodme   Saas Almagell,Europe, Switzerland,1672,2400,12.0,4.0,8.0,0.0,,7.0,69.0, 2021-12-18,2022-04-18, mid December,, 09:00,16:00
+741,Herlíkovice Bubákov,Europe,error,540,1019,12.4,6.4,4.0,2.0,,9.0,,,, mid December,, 08:30,16:00
+742,Crévoux,Europe, France,1600,2536,21.5,12.3,7.5,1.7,,6.0,,,,,, 09:00,16:30
+743,Weinebene   Frantschach Sankt Gertraud,Europe, Austria,1580,1886,22.0,8.0,12.0,2.0,,8.0,31.0, 2021-12-11,2022-03-27, late December,, 09:00,16:00
+744,Vrchlabí   Kněžický vrch,Europe, Czech_Republic,557,710,8.2,5.2,3.0,0.0,,5.0,,,,,, 09:00,16:00
+745,Gerlosstein,Europe, Austria,929,1836,10.0,1.0,8.0,1.0,,5.0,,,, mid December,, 08:30,16:30
+746,Campo Catino,Europe, Italia,1620,1997,12.0,3.0,5.0,4.0,,5.0,,,,,,,
+747,Lans en Vercors,Europe, France,1400,1807,23.0,13.0,8.0,2.0,,13.0,,,,,,,
+748,Idre Himmelfjäll,Europe,error,549,872,15.0,10.0,5.0,0.0,,8.0,,,,,,,
+749,Șureanu,Europe, Romania,1650,2010,12.3,1.7,9.2,1.4,,3.0,,,,,,,
+750,Ørsta Skisenter,Europe, Norway,323,873,11.2,6.6,4.2,0.4,,4.0,,,,,, 10:00,16:00Limited opening times during the week
+751,Cerreto Laghi,Europe, Italia,1350,1831,9.2,0.2,5.0,4.0,,2.0,,,,,,,
+752,Tschappina/Urmein (Heinzenberg),Europe, Switzerland,1577,2180,25.0,4.0,21.0,0.0,,4.0,,,, early December,, 09:00,16:00
+753,Hautacam,Europe, France,1500,1800,26.0,18.0,8.0,0.0,,7.0,,,,,,,
+754,Engstligenalp   Adelboden,Europe, Switzerland,1964,2362,17.0,7.0,6.0,4.0,,6.0,48.0, 2021-11-27,2022-05-01, mid December,, 09:00,16:30
+755,Cogne   Gran Paradiso,Europe, Italia,1534,2297,8.0,2.0,5.0,1.0,,4.0,,,,,,,
+756,Krasiya,Europe,error,491,1036,8.5,2.0,6.0,0.5,,4.0,,,,,, 09:00,17:00
+757,Monte Terminillo,Europe, Italia,1506,1868,9.4,2.0,6.0,1.4,,4.0,28.0, 2021-12-11,2022-04-03, mid December,, 09:00,16:30
+758,St. Gréé,Europe, Italia,1052,1740,8.8,4.0,3.2,1.6,,2.0,,,,,, 09:00,16:45
+759,Pratospilla,Europe, Italia,1360,1750,10.3,2.0,7.3,1.0,,,,,, mid December,, 09:00,16:30
+760,Doganaccia 2000   Cutigliano,Europe, Italia,1446,1795,15.0,8.0,5.0,2.0,,6.0,,,, mid December,, 09:00,17:00
+761,Schwanden   Sigriswil,Europe, Switzerland,1070,1460,20.0,11.0,6.0,3.0,,3.0,,,,,, 09:30,16:30
+762,Aflenz Bürgeralm,Europe,error,810,1810,10.0,2.0,8.0,0.0,,7.0,32.0, 2021-12-18,2022-03-20, depending on snow conditions,, 09:00,16:00
+763,Lurisia   Monte Pigna,Europe, Italia,814,1734,17.0,4.0,11.0,2.0,,4.0,,,,,, 08:30,16:30
+764,Monte Catria,Europe, Italia,572,1478,7.0,1.4,5.5,0.1,,2.0,,,,,,,
+765,Naggler Alm   Techendorf (Weissensee),Europe, Austria,930,1324,6.0,3.5,2.5,0.0,,5.0,37.5, 2021-12-18,2022-03-06, mid December,, 09:00,16:15
+766,Černý Důl,Europe, Czech_Republic,620,865,7.2,4.3,2.9,0.0,,6.0,,,, early December,, 08:30,16:00
+767,Vallefura Pescocostanzo,Europe, Italia,1460,1729,8.3,3.8,2.4,2.1,,4.0,,,,,,,
+768,Vallter 2000,Europe, España,1959,2535,10.4,5.4,4.0,1.0,6.3,8.0,,,, early December,, 09:00,16:45
+769,Adzhigardak,Europe, Russia,275,683,21.7,12.2,5.8,3.7,,8.0,,,,,, 09:00,17:00
+770,Fjätervålen,Europe, Sweeden,675,985,20.1,13.2,4.4,2.5,,3.0,,,,,, 09:00,16:00
+771,Kopřivná,Europe, Czech_Republic,705,1019,1.5,1.5,0.0,0.0,,2.0,,,,,, 08:30,16:00
+772,Wolzenalp   Krummenau,Europe, Switzerland,740,1500,12.0,0.0,9.0,3.0,2.0,5.0,33.0, 2021-12-18,2022-03-20, depending on snow conditions,, 08:30,16:15
+773,Szyndzielnia   Bielsko Biała,Europe, Poland,510,1100,2.5,0.5,2.0,0.0,,,,,,,, 09:00,17:30
+774,Campo di Giove   Majella occidentale,Europe,error,1150,2403,7.5,4.9,1.2,1.4,,5.0,,,,,, 09:00,16:30
+775,Sassotetto   Santa Maria Maddalena,Europe, Italia,1289,1592,11.5,2.5,8.0,1.0,,7.0,,,,,,,
+776,Plai,Europe, Romania,792,1060,7.0,1.0,5.0,1.0,,3.0,,,,,, 09:00,17:00
+777,Alpe Devero   Baceno,Europe, Italia,1640,2240,8.0,2.0,5.0,1.0,,3.0,,,,,,,
+778,Drammen (Skimore),Europe,error,70,350,4.0,1.0,2.0,1.0,,3.0,,,,,, 10:00,16:00
+779,Kope,Europe, Slovenia,1010,1542,8.0,2.8,3.6,1.6,,7.0,31.0, 2021-12-11,2022-04-03, early December,, 09:00,16:00
+780,Alpe Teglio   Prato Valentino,Europe, Italia,1690,2340,9.0,3.0,6.0,0.0,,2.0,,,,,,,
+781,Reither Kogel   Reith im Alpbachtal,Europe, Austria,670,1280,4.0,1.0,3.0,0.0,,5.0,,,, mid December,, 08:30,16:00
+782,Rogla,Europe, Slovenia,1050,1517,12.0,2.0,8.5,1.5,,13.0,35.0, 2021-12-11,2022-04-03, early December,, 09:00,16:00
+783,Świeradów Zdrój,Europe, Poland,620,1060,2.5,0.8,1.7,0.0,,2.0,28.0, 2021-12-11,2022-03-27, early December,, 09:00,16:00
+784,Amnéville Les Thermes   Snowhall,Europe,error,200,280,0.7,0.7,0.0,0.0,,1.0,,,, Year-round__,, 10:00,22:00Limited opening times during the week
+785,Tirolina (Haltjochlift)   Hinterthiersee,Europe,error,852,1077,4.0,2.0,1.2,0.8,,2.0,21.0, 2021-12-18,2022-03-20, mid December,, 09:00,16:00
+786,Sahnehang,Europe, Deutschland,780,836,0.8,0.8,0.0,0.0,,2.0,,,, early December,, 09:00,16:30
+787,Wurmberg   Braunlage,Europe, Deutschland,565,970,11.8,10.0,1.3,0.5,0.8,7.0,36.0, 2021-12-11,2022-03-27, mid December,, 08:45,16:30
+788,Hempelsberg/Geiersberg   Oberwarmensteinach,Europe, Deutschland,650,770,2.0,1.3,0.7,0.0,,2.0,20.0, 2021-12-25,2022-03-13, early December,, 09:00,22:00
+789,Trins,Europe, Austria,1189,1268,1.0,1.0,0.0,0.0,,1.0,,,, mid December,, 10:00,16:00
+790,Snow Valley   Peer,Europe, Beligium,60,125,0.5,0.4,0.1,0.0,,0.0,,,, Year-round__,, 10:00,22:00
+791,Monte Amiata,Europe, Italia,1370,1738,10.0,1.2,6.1,2.7,,8.0,,,,,,,
+792,Målselv Fjellandsby,Europe, Norway,50,550,13.3,3.8,4.9,4.6,,3.0,,,,,,,
+793,Seli,Europe, España,1500,1890,17.0,11.0,6.0,0.0,,11.0,,,,,, 09:00,16:00
+794,Čertova hora   Harrachov,Europe, Czech_Republic,650,1020,8.0,3.7,3.0,1.3,,5.0,27.0, 2021-11-27,2022-04-03, early December,, 09:00,16:00
+795,Martinské Hole,Europe, Slovakia,1150,1456,5.0,2.0,3.0,0.0,2.0,6.0,34.0, 2021-12-11,2022-04-03, early December,, 09:00,16:00
+796,Scanno   Monte Rotondo,Europe, Italia,1225,1860,8.0,2.2,5.8,0.0,,4.0,,,,,,,
+797,Säfsen,Europe, Sweeden,292,472,12.0,8.0,2.0,2.0,,6.0,,,,,, 09:00,16:00
+798,Sunnmørsalpane Skiarena Fjellseter,Europe, Norway,370,865,16.0,7.0,5.0,4.0,,5.0,,,,,, 10:00,16:00Limited opening times during the week
+799,3 5 Pigadia   Naousa,Europe, Macedonia,1420,2005,9.0,4.0,3.0,2.0,,,,,, mid December,, 09:00,16:00
+800,Massif de la Serra   Lamoura,Europe, France,1178,1495,12.8,7.5,4.1,1.2,,6.0,,,,,,,
+801,Kerenzerberg   Filzbach,Europe, Switzerland,746,1283,7.0,1.0,6.0,0.0,,2.0,32.0, 2021-12-18,2022-03-20, mid December,, 09:00,16:00
+802,Bocksberg   Hahnenklee,Europe, Deutschland,560,726,4.3,1.9,1.8,0.6,,4.0,28.9, 2021-12-25,2022-03-13, depending on snow conditions,, 09:00,16:30
+803,Katzenkopf   Leutasch,Europe, Austria,1140,1363,8.0,3.0,3.0,2.0,,3.0,32.0,,, mid December,, 09:00,16:00
+804,Telnice,Europe, Czech_Republic,600,800,5.0,2.5,2.0,0.5,,8.0,,,,,, 09:00,16:00
+805,Götschen   Bischofswiesen,Europe, Deutschland,880,1307,8.7,2.9,1.8,4.0,,3.0,26.0, 2021-12-04,2022-04-03, mid December,, 09:00,16:00
+806,Javornik,Europe, Czech_Republic,800,1220,7.0,3.0,2.5,1.5,,5.0,,,, mid December,, 09:00,16:00
+807,Himos,Europe, Finland,84,235,12.1,2.0,5.4,4.7,,14.0,,,,,, 10:00,18:00
+808,Pontechianale,Europe, Italia,1623,2654,7.5,1.5,6.0,0.0,,5.0,,,,,, 09:00,16:30
+809,La Féclaz,Europe, France,1326,1525,10.5,6.0,3.0,1.5,,6.0,,,,,, 09:00,17:00
+810,Eremo di Monte Carpegna,Europe,error,1236,1397,10.1,3.4,6.7,0.0,,2.0,,,,,,,
+811,Jochgrimm (Passo Oclini),Europe, Italia,1850,2250,7.0,4.0,2.0,1.0,,4.0,19.0, 2021-12-03,2022-04-18, early December,, 08:30,16:30
+812,Ala di Stura,Europe, Italia,1075,1950,7.0,3.0,3.0,1.0,,4.0,,,,,,,
+813,Borgafjäll,Europe, Sweeden,510,799,17.5,10.0,5.0,2.5,,3.0,,,,,, 09:30,16:00
+814,Tusten   Molde,Europe, Norway,130,648,15.0,10.0,3.0,2.0,,4.0,,,,,, 10:00,16:00Limited opening times during the week
+815,Chastreix   Puy de Sancy,Europe, France,1350,1730,16.0,10.0,4.0,2.0,,7.0,22.3, 2021-12-11,2022-03-27, early December,, 09:00,17:00
+816,Tyin Filefjell,Europe, Norway,830,1280,17.0,8.0,7.0,2.0,,5.0,,,,,, 10:00,16:30
+817,Skalka,Europe, Czech_Republic,935,1252,9.6,5.0,3.1,1.5,,6.0,,,,,, 09:00,16:00
+818,Zum Zeri   Passo dei due Santi,Europe, Italia,1370,1588,8.0,1.5,5.3,1.2,,2.0,,,,,, 09:00,16:30
+819,Hallingskarvet,Europe, Norway,735,1244,14.0,3.0,7.0,4.0,,3.0,,,,,, 09:30,16:00
+820,Dragobrat,Europe, Ukraine,1400,1703,10.0,4.0,5.0,1.0,,13.0,,,,,,,
+821,Hovfjället   Torsby,Europe, Sweeden,403,542,11.0,6.0,4.0,1.0,,6.0,,,,,,,
+822,Brunni   Engelberg,Europe, Switzerland,1050,2040,8.5,2.0,4.6,1.9,3.5,5.0,,,,,,,
+823,Harpefossen,Europe, Norway,245,815,15.7,7.6,6.5,1.6,,6.0,,,,,, 10:30,16:30Limited opening times during the week
+824,Brunnalm/Hohe Veitsch   Veitsch (St. Barbara im Mürztal),Europe,error,1100,1500,9.0,3.0,4.0,2.0,,4.0,,,, early December,, 09:00,16:00
+825,Orava Snow   Oravská Lesná,Europe,error,790,940,7.6,3.5,3.6,0.5,,5.0,,,,,, 09:00,16:00
+826,Chamois,Europe, Italia,1812,2498,8.0,1.0,7.0,0.0,,5.0,,,,,,,
+827,Kittelfjäll,Europe, Sweeden,545,950,18.0,4.0,3.0,11.0,,4.0,,,,,,,
+828,Kåbdalis,Europe, Sweeden,360,570,9.0,4.0,3.0,2.0,4.0,4.0,34.0, 2021-10-16,2022-05-01, early November,, 09:00,16:00
+829,Feldis,Europe, Switzerland,1485,1950,10.0,0.3,7.5,2.2,,4.0,,,, mid December,, 09:30,16:00
+830,Kazan,Europe, Russia,57,182,6.0,4.0,2.0,0.0,,,,,,,, 11:00,21:00
+831,Monte Baldo   Malcesine/Prà Alpesina,Europe,error,1446,1837,10.0,2.0,6.0,2.0,,,,,,,, 09:00,16:30
+832,Piatra Neamt,Europe, Romania,380,657,1.2,0.2,1.0,0.0,,,,,,,,,
+833,Harenda,Europe, Poland,787,997,4.0,2.1,1.0,0.9,,4.0,25.0, 2021-12-04,2022-04-03, early December,, 09:00,21:00
+834,Les Planards,Europe, France,1062,1242,2.5,1.5,1.0,0.0,,3.0,,,, mid December,, 09:00,16:30
+835,Síaréna Eplény,Europe, Hungary,333,509,7.7,5.4,1.0,1.3,,8.0,,,, early December,, 09:30,20:30
+836,Unterberg   Pernitz,Europe, Austria,710,1342,16.0,11.0,5.0,0.0,,4.0,33.0, 2021-12-11,2022-03-20, depending on snow conditions,, 09:00,15:45
+837,Niederalpl   Mürzsteg (Neuberg an der Mürz),Europe, Austria,1220,1460,12.0,4.0,8.0,0.0,1.0,5.0,36.0, 2021-12-11,2022-03-27, early December,, 09:00,16:00
+838,Ebenalp Horn   Wasserauen/Schwende,Europe,error,848,1720,10.0,1.0,7.5,1.5,2.0,6.0,32.0, 2021-12-04,2022-04-03, depending on snow conditions,, 09:00,16:15
+839,Rüschegg Eywald   Lischboden,Europe,error,1050,1550,13.0,8.0,4.0,1.0,,2.0,,,,,, 09:30,16:00
+840,Vuokatti,Europe, Finland,152,312,10.8,5.0,4.8,1.0,,7.0,,,,,, 09:30,19:00
+841,Hassela,Europe, Sweeden,160,450,16.0,10.2,4.9,0.9,,7.0,,,,,, 09:00,16:00
+842,Vallåsen,Europe, Sweeden,43,195,5.0,4.0,1.0,0.0,,7.0,,,, early December,, 09:00,16:00
+843,Le Revard,Europe, France,1294,1562,8.1,5.0,2.0,1.1,,5.0,,,,,, 09:00,17:00
+844,Les Rasses   Sainte Croix,Europe, Switzerland,1150,1580,20.0,10.0,10.0,0.0,,9.0,30.0, 2021-12-11,2022-03-20, mid December,, 09:00,16:30
+845,Zinkenlifte   Dürrnberg (Hallein),Europe, Austria,837,1330,8.0,2.0,5.5,0.5,,4.0,28.2, 2021-12-18,2022-03-20, depending on snow conditions,, 09:00,16:00
+846,Piatra Grăitoare,Europe, Romania,1189,1445,2.0,0.0,1.4,0.6,,,,,,,,,
+847,Schatzalp   Strela,Europe, Switzerland,1540,2400,9.7,5.0,4.7,0.0,,4.0,,,, mid December,, 09:00,16:30
+848,Dobrinishte,Europe, Bulgaria,1412,2236,5.0,2.0,2.5,0.5,,4.0,,,, mid December,, 08:30,16:00
+849,Sauda Skisenter,Europe, Norway,357,822,13.0,7.0,4.0,2.0,,5.0,,,,,, 10:00,16:00
+850,Storlien,Europe, Sweeden,600,791,15.0,4.0,8.0,3.0,,9.0,,,,,, 09:30,16:30
+851,Skipark Racibor   Oravský Podzámok,Europe,error,522,759,7.0,3.2,3.8,0.0,,2.0,,,,,, 09:00,16:00
+852,Haukelifjell Skisenter,Europe, Norway,855,1216,14.2,2.4,9.2,2.6,,6.0,,,,,, 10:00,16:00
+853,Grasgehren   Bolgengrat,Europe,error,1438,1687,11.6,3.1,8.5,0.0,,5.0,30.0, 2021-12-04,2022-04-18, early December,, 08:30,16:00
+854,Sunne,Europe, Sweeden,125,390,7.0,3.0,3.3,0.7,,7.0,,,,,, 09:30,16:00
+855,Soriška Planina,Europe, Slovenia,1290,1549,7.0,2.0,4.0,1.0,,5.0,,,, mid December,, 09:00,16:00
+856,Špičák,Europe, Czech_Republic,854,1202,8.0,3.5,3.6,0.9,,11.0,27.0, 2021-12-11,2022-03-20, depending on snow conditions,, 08:30,16:00
+857,Postalm am Wolfgangsee,Europe,error,1150,1450,8.0,5.0,2.0,1.0,,4.0,39.0, 2021-12-17,2022-03-20, mid December,, 09:00,16:00
+858,Suomu,Europe, Finland,162,410,13.0,5.0,6.0,2.0,,5.0,,,, late November,, 09:30,17:00
+859,Ukkohalla,Europe, Finland,213,348,13.1,5.3,5.9,1.9,,5.0,,,,,, 10:00,19:00
+860,Camurac,Europe, France,1510,1780,14.2,8.3,1.6,4.3,,5.0,,,,,, 09:00,17:00
+861,Tännäskröket,Europe,error,562,889,10.4,5.0,5.0,0.4,,5.0,,,,,,,
+862,Tramelan,Europe, Switzerland,920,1228,14.0,6.0,6.0,2.0,,3.0,,,,,,,
+863,Wallberg   Rottach Egern,Europe, Deutschland,790,1620,3.2,0.0,0.0,3.2,,,,,, mid December,, 08:45,16:30
+864,Monte Livata   Subiaco Monna dell'Orso,Europe,error,1429,1800,8.0,4.0,3.0,1.0,,,,,,,, 09:00,16:30
+865,Hochhäderich   Hittisau,Europe, Austria,1250,1600,10.5,3.5,5.0,2.0,,5.0,34.5, 2021-12-08,2022-04-03, early December,, 09:00,16:00
+866,Červenohorské sedlo,Europe, Czech_Republic,862,1164,3.9,1.3,1.8,0.8,,8.0,,,, mid December,, 08:30,16:00
+867,Voras   Kaimaktsalan,Europe,error,2022,2480,10.1,5.4,4.7,0.0,,5.0,,,, early December,, 09:00,16:00
+868,Isaberg   Hestra,Europe, Sweeden,159,309,6.0,2.0,3.2,0.8,,8.0,,,,,, 09:00,17:00
+869,Valgrisenche,Europe, Italia,1664,2050,5.0,1.5,1.5,2.0,,2.0,,,, mid December,, 09:00,16:30
+870,Gambarie d'Aspromonte,Europe,error,1350,1825,6.5,2.7,2.5,1.3,,5.0,,,, mid December,, 09:00,16:30
+871,Ventron,Europe, France,830,1110,10.0,5.0,4.0,1.0,,9.0,23.0, 2021-12-11,2022-04-03, mid December,, 09:00,17:00
+872,Skipark Erika   Kojsovska Hola,Europe,error,638,1230,5.0,3.0,1.0,1.0,,,,,, mid December,, 09:00,15:30
+873,Markbuchen/Predigtstuhl (St. Englmar),Europe, Deutschland,850,1024,4.0,4.0,0.0,0.0,,5.0,,,, mid December,, 09:00,16:30
+874,Stinesser Lifte   Fischen i. Allgäu,Europe,error,761,891,1.0,0.6,0.4,0.0,,2.0,19.5, 2021-12-18,2022-03-20, mid December,, 08:30,16:00
+875,Raudalen Alpinsenteret,Europe, Norway,700,1060,6.0,0.0,4.0,2.0,,1.0,,,, late November,, 09:30,16:30
+876,Archenstadel   Rinn,Europe,error,918,1004,1.0,1.0,0.0,0.0,,1.0,,,, mid December,, 09:00,16:00
+877,Schneeberg Hagerlifte   Mitterland (Thiersee),Europe,error,800,1000,3.0,0.8,2.1,0.1,,3.0,21.0, 2021-12-18,2022-03-20, late December,, 09:00,16:00
+878,Niederhorn   Beatenberg,Europe, Switzerland,1120,1950,6.0,2.0,3.0,1.0,,3.0,,,, mid December,, 09:00,16:00
+879,Golte,Europe, Slovenia,1150,1570,8.5,2.9,4.9,0.7,1.5,6.0,31.0, 2021-12-11,2022-04-03, early December,, 09:00,16:00
+880,Leitariegos,Europe, España,1513,1800,7.0,4.0,3.0,0.0,,6.0,,,,,,,
+881,Terre Ronde/La Praille   Plateau d’Hauteville,Europe,error,950,1240,15.0,3.0,11.0,1.0,,4.0,,,,,, 09:00,17:00
+882,Font d'Urle   Chaud Clapier,Europe, France,1250,1700,13.7,12.0,1.0,0.7,,11.0,,,,,, 09:00,16:30
+883,Königsberg   Hollenstein an der Ybbs,Europe, Austria,715,1078,14.0,7.0,5.0,2.0,,6.0,27.0, 2021-12-08,2022-03-20, mid December,, 09:00,16:00
+884,Vassfjellet   Klæbu/Trondheim,Europe, Norway,200,515,15.0,6.8,6.8,1.4,,6.0,,,,,, 10:00,16:30Limited opening times during the week
+885,Palenica   Szczawnica,Europe, Poland,456,720,3.7,2.2,1.5,0.0,,4.0,21.0, 2021-12-11,2022-04-03, mid December,, 09:00,16:00
+886,Gesundaberget,Europe, Sweeden,288,503,8.0,4.0,3.0,1.0,,5.0,,,,,,,
+887,Usséglio   Pian Benot,Europe, Italia,1618,2040,5.4,0.6,2.7,2.1,,3.0,,,,,, 09:00,17:00
+888,Pustevny   Trojanovice,Europe, Czech_Republic,620,1098,8.4,6.2,1.8,0.4,,9.0,,,,,, 09:00,16:00
+889,Fideriser Heuberge   Arflina,Europe, Switzerland,1950,2333,13.0,5.0,7.0,1.0,,4.0,,,,,,,
+890,Campo Staffi,Europe, Italia,1751,1936,6.5,2.5,2.7,1.3,,3.0,,,,,,,
+891,Sorochany   Kurovo,Europe,error,140,190,6.4,3.0,1.8,1.6,,,,,,,,,
+892,Hochgrat (Oberstaufen),Europe, Deutschland,856,1708,,,,,,1.0,,,, depending on snow conditions,, 09:00,16:30
+893,Balea Lac,Europe, Romania,1700,2208,14.0,0.0,0.0,14.0,,,,,,,,,
+894,Monte Piselli   San Giacomo,Europe,error,1426,1643,5.8,0.5,4.3,1.0,,,,,,,,,
+895,Zwölferhorn   St. Gilgen,Europe, Austria,560,1522,,,,,,,,,, early December,, 09:00,16:00
+896,Schauinsland   Hofsgrund,Europe, Deutschland,950,1200,2.5,1.0,1.0,0.5,,6.0,,,,,,,
+897,Hohenbogen   Neukirchen bei Hl. Blut,Europe, Deutschland,657,1050,6.0,2.0,3.0,1.0,,3.0,25.0, 2021-12-18,2022-03-13, mid December,, 09:00,16:15
+898,Sonntag Stein,Europe, Austria,1300,1750,7.0,4.0,3.0,0.0,1.5,2.0,38.0, 2021-12-18,2022-03-20, depending on snow conditions,, 09:00,16:00
+899,Entracque,Europe, Italia,944,1109,5.0,3.0,1.0,1.0,,3.0,,,,,,,
+900,Wendelstein   Brannenburg/Osterhofen,Europe,error,791,1723,11.2,0.0,7.0,4.2,,4.0,38.0, 2021-12-25,2022-04-03, late December,, 09:00,16:00
+901,Gaaler Lifte   Gaal,Europe,error,860,1230,6.0,3.0,2.0,1.0,,3.0,35.0, 2021-12-18,2022-03-13, early November,, 09:00,16:00
+902,Mont Serein/Mont Ventoux Nord,Europe,error,1400,1800,12.0,4.5,6.0,1.5,,8.0,,,,,, 09:00,17:00
+903,Piazzatorre,Europe, Italia,1110,1780,4.2,1.5,2.0,0.7,,2.0,,,, mid December,, 09:00,16:00
+904,Paljakka,Europe, Finland,171,340,11.5,3.0,6.0,2.5,,6.0,,,,,, 10:00,16:00
+905,Les Paccots/Châtel St Denis   Corbetta,Europe, Switzerland,1065,1593,9.0,5.0,2.0,2.0,,11.0,,,, mid December,, 09:00,16:40
+906,Passolanciano,Europe,error,1300,1650,5.5,2.7,2.0,0.8,,3.0,,,,,,,
+907,Elfer   Neustift,Europe, Austria,981,2080,2.5,0.0,2.5,0.0,3.5,3.0,33.0, 2021-12-18,2022-03-27, mid December,, 09:00,16:30
+908,Jeizinen Feselalp   Gampel/Steg,Europe,error,1526,2221,8.0,6.0,2.0,0.0,,6.0,,,,,,,
+909,Laye,Europe, France,1300,1850,10.0,4.0,5.0,1.0,,5.0,,,, mid December,, 09:00,16:45
+910,Saariselkä,Europe, Finland,257,437,7.0,4.5,2.0,0.5,,5.0,,,,,, 09:30,17:00
+911,Skálafell,Europe, Ísland,380,700,7.0,3.0,4.0,0.0,,4.0,,,, late January,, 10:00,17:00Limited opening times during the week
+912,Donezan   Mijanès,Europe,error,1527,2013,11.0,6.0,3.0,2.0,,5.0,,,,,,,
+913,Rieseralm   Obdach,Europe, Austria,1310,1520,12.0,4.0,6.0,2.0,1.0,5.0,,,, early December,, 09:00,16:00
+914,Presolana,Europe, Italia,1200,1630,5.0,2.4,2.4,0.2,,4.0,,,,,,,
+915,Sogn Skisenter,Europe, Norway,325,875,10.0,7.0,1.0,2.0,,4.0,,,,,, 10:00,16:00
+916,Iso Syöte   Pudasjärvi,Europe, Finland,230,425,11.7,4.0,5.2,2.5,,9.0,,,,,, 09:00,17:00
+917,Serra da Estrela,Europe, Portugal,1851,1997,5.9,2.4,2.5,1.0,,3.0,,,,,, 09:00,16:30
+918,Salzstiegl   Hirschegg,Europe, Austria,1320,1710,12.0,6.0,4.0,2.0,,7.0,36.0, 2021-12-11,2022-03-20, early December,, 09:00,16:00
+919,Faschina (Fontanella),Europe, Austria,1450,1980,6.8,5.5,1.3,0.0,3.5,7.0,41.5,,, early December,, 09:00,15:00
+920,Sonnberglifts   Wald am Schoberpass,Europe,error,850,1200,12.0,4.0,5.0,3.0,,4.0,27.0, 2021-12-11,2022-03-07, mid December,, 09:00,16:00
+921,Pont d'Espagne   Cauterets,Europe, France,1516,1756,4.0,3.0,1.0,0.0,,4.0,,,,,,,
+922,Pylypets,Europe, Ukraine,720,1200,7.0,2.0,5.0,0.0,,,,,,,,,
+923,Radusa,Europe, Serbia,1290,1757,6.6,1.0,5.0,0.6,,4.0,,,,,, 10:00,16:00
+924,Atzmännig   Goldingen,Europe,error,830,1200,8.0,3.0,5.0,0.0,,5.0,32.0, 2021-12-11,2022-03-20, early December,, 09:00,16:30
+925,Stryn Skisenter,Europe, Norway,325,1000,12.0,6.0,6.0,0.0,,3.0,,,,,, 10:00,16:00
+926,Kötschach Mauthen   Vorhegg,Europe, Austria,710,1300,6.0,4.0,2.0,0.0,,4.0,33.0, 2021-12-18,2022-03-13, mid December,, 09:00,16:00
+927,Hohentauern,Europe, Austria,1230,1700,11.0,3.0,7.0,1.0,,5.0,38.0, 2021-12-11,2022-03-20, mid December,, 09:15,16:00
+928,La Forclaz,Europe, France,1730,2200,15.0,8.0,7.0,0.0,,3.0,,,, mid December,, 09:00,16:00
+929,Cordon,Europe, France,1050,1600,11.0,4.0,7.0,0.0,,7.0,19.8, 2021-12-17,2022-03-19, mid December,, 09:00,16:45
+930,Hodlekve   Sogndal,Europe, Norway,500,950,12.0,8.0,3.0,1.0,,3.0,,,,,, 10:00,16:00
+931,Aeschiried,Europe, Switzerland,860,1400,12.0,10.0,2.0,0.0,,3.0,,,,,, 09:30,16:30
+932,Pallas,Europe, Finland,440,780,12.0,8.0,3.0,1.0,,2.0,,,,,, 09:00,16:00
+933,Eikedalen,Europe, Norway,457,918,15.0,10.0,5.0,0.0,,8.0,,,,,, 09:00,16:00
+934,Valbella   Gallio,Europe, Italia,1100,1311,11.2,8.0,2.5,0.7,,,,,,,,,
+935,Caldirola   Monte Gropà,Europe,error,1075,1429,5.9,4.0,1.9,0.0,,,,,,,, 08:30,17:00
+936,Kreuzberg   Bischofsheim an der Rhön,Europe, Deutschland,610,928,13.0,5.0,8.0,0.0,,4.0,17.0, 2021-12-25,2022-03-13, mid December,, 09:00,17:00
+939,La Molina/Masella ,Europe, España,1616,2531,141.0,76.0,47.0,18.0,,28.0,48.0, 2021-11-27,2022-04-18, late November,late April, 09:00,16:00
+963,Pleta del Prat   Tavascan,Europe, España,1712,2197,5.0,1.0,4.0,0.0,,2.0,22.0,,,,, 09:00,16:00
+964,Vall de Núria,Europe, España,1964,2260,7.6,4.1,2.5,1.0,,5.0,31.0,,,,,,
+965,San Isidro Zona Salencias,Europe, España,1502,1670,6.5,2.9,3.6,0.0,,4.0,30.0,,,,,,
+966,Rasos de Peguera,Europe, España,1825,2035,5.0,3.0,2.0,0.0,,,,,,,,,
+967,Madrid Snow Zone,Europe, España,667,705,0.3,0.2,0.1,0.0,,3.0,39.0,,, Year-round__,, 09:00,22:00
+968,Punto de Nieve Santa Inés,Europe, España,1753,1832,1.8,1.0,0.8,0.0,,,,,,,,,
+969,Vail,America, United States,2457,3433,234.0,57.0,84.0,93.0,,25.0,219.0, 2021-11-19,2022-04-24, mid November,mid April, 08:30,16:00
+970,Telluride,America, United States,2659,3815,88.2,6.7,51.7,29.8,11.9,16.0,169.0, 2021-11-25,2022-04-17, mid November,mid April, 09:00,16:00
+971,Beaver Creek,America, United States,2255,3488,150.0,28.5,64.5,57.0,25.0,18.0,218.0, 2021-11-24,2022-04-18, mid November,mid April, 09:00,15:30
+972,Snowmass,America, United States,2473,3813,237.0,12.0,114.0,111.0,,16.0,199.0, 2021-11-25,2022-04-17, late November,mid April, 08:30,15:30
+973,Mammoth Mountain,America, United States,2424,3369,89.8,18.4,48.5,22.9,100.0,25.0,209.0, 2021-11-12,2022-05-29, early November,early June, 08:30,16:00
+974,Breckenridge,America, United States,2926,3914,153.0,28.0,60.0,65.0,,24.0,199.0, 2021-11-12,2022-05-29, early November,mid April, 08:30,16:00
+975,Keystone,America, United States,2835,3651,135.0,25.0,65.0,45.0,100.0,13.0,176.0, 2021-10-30,2022-04-18, early November,mid April, 09:00,16:00
+976,Palisades Tahoe,America, United States,1890,2745,100.0,25.0,45.0,30.0,50.0,24.0,209.0, 2021-11-25,2022-05-15, mid November,late May, 09:00,16:00
+977,Killington,America, United States,355,1293,117.0,19.9,46.7,50.2,,19.0,165.0, 2021-11-19,2022-05-29, late October,late May, 09:00,16:00
+978,Sunday River,America, United States,250,957,84.8,25.5,30.5,28.8,,16.0,119.0, 2021-11-20,2022-04-24, early November,late April, 08:30,16:00
+979,Winter Park Resort,America, United States,2743,3676,143.0,11.0,53.0,79.0,,22.0,164.0, 2021-11-20,2022-04-24, mid November,late April, 09:00,16:00
+980,Stowe,America, United States,390,1116,70.0,20.0,42.0,8.0,,10.0,149.0, 2021-11-25,2022-04-18, late November,early April, 08:00,16:00Limited opening times during the week
+981,"Heavenly', 'of Heavenly",America, United States,2001,3060,94.0,18.0,42.0,34.0,40.0,24.0,164.0, 2021-11-19,2022-04-24, mid November,mid April, 09:00,16:00
+982,Park City,America, United States,2080,3049,250.0,27.0,152.0,71.0,,39.0,133.0, 2021-11-19,2022-04-18, mid November,early April, 09:00,16:00
+983,Steamboat,America, United States,2103,3221,165.0,25.0,95.0,45.0,,17.0,199.0, 2021-12-03,2022-04-18, late November,mid April, 08:30,16:00
+984,Big Sky Resort,America, United States,2072,3398,250.0,55.0,69.0,126.0,100.0,31.0,194.0, 2021-11-25,2022-04-24, late November,mid April, 09:00,16:00
+985,Aspen Highlands,America, United States,2451,3559,135.0,24.3,40.5,70.2,,5.0,199.0, 2021-12-11,2022-04-10, mid December,mid April, 09:00,15:30
+986,Alpine Meadows,America, United States,2083,2632,100.0,25.0,40.0,35.0,50.0,11.0,209.0, 2021-11-20,2022-05-08, mid November,mid May, 09:00,16:00
+987,Copper Mountain,America, United States,2926,3767,126.0,30.0,40.0,56.0,,19.0,189.0, 2021-11-13,2022-04-24, early November,late April, 08:30,16:00
+988,[],America, United States,2560,3215,116.0,29.0,46.4,40.6,,8.0,125.0, 2021-11-20,2022-04-24, late November,mid April, 09:15,16:30
+989,Buttermilk Mountain,America, United States,2399,3018,34.0,11.9,13.3,8.8,,5.0,199.0, 2021-12-11,2022-04-03, early December,early April, 09:00,15:30
+990,Jackson Hole,America, United States,1924,3185,116.0,16.0,50.0,50.0,,13.0,182.0, 2021-11-25,2022-04-18, early December,early April, 09:00,16:00
+992,Crested Butte,America, United States,2774,3620,121.0,31.4,69.0,20.6,,12.0,151.0,,, late November,early April, 09:00,16:00
+993,Powder Mountain,America, United States,2101,2712,135.0,30.0,50.0,55.0,,9.0,99.0, 2021-12-11,2022-04-18, depending on snow conditions,early April, 09:00,21:00
+994,Northstar California Resort,America, United States,1929,2624,97.0,25.0,45.0,27.0,100.0,14.0,170.0, 2021-11-20,2022-04-24, mid November,mid April, 09:00,16:00
+995,Whiteface   Lake Placid,America, United States,371,1340,37.0,12.8,15.9,8.3,,9.0,115.0, 2021-12-03,2022-04-17, late November,mid April, 08:30,16:00Limited opening times during the week
+996,Mt. Bachelor,America, United States,1737,2763,100.0,15.0,25.0,60.0,25.0,12.0,169.0, 2021-11-20,2022-05-29, late November,late May, 09:00,16:00
+997,Yellowstone Club,America, United States,2182,3005,80.0,30.0,30.0,20.0,20.0,,,,, late November,mid April, 09:00,16:00
+998,Snowbird,America, United States,2365,3353,103.0,27.0,38.0,38.0,,11.0,165.0, 2021-11-20,2022-05-29, mid November,mid May, 09:00,16:00
+999,Bald Mountain   Sun Valley,America, United States,1752,2788,92.0,35.0,40.0,17.0,,13.0,165.0,,,,early April,,
+1000,Schweitzer Mountain Resort,America, United States,1206,1950,95.0,20.0,40.0,35.0,,9.0,95.0, 2021-11-20,2022-04-18, late November,early June, 09:00,16:00
+1001,Arapahoe Basin,America, United States,3286,3790,105.0,40.0,25.0,40.0,,7.0,158.0, 2021-10-30,2022-06-05, late October,late April, 09:00,16:00
+1002,Mt. Hood Meadows,America, United States,1378,2225,90.0,13.5,45.0,31.5,,11.0,129.0, 2021-11-20,2022-05-01, mid November,early April, 09:00,21:00
+1003,Stratton,America, United States,600,1181,92.0,60.0,20.0,12.0,,11.0,125.0,,, mid November,mid April, 09:00,16:00
+1004,Wenatchee   Mission Ridge,America, United States,1392,2078,100.0,10.0,60.0,30.0,,4.0,74.0,,, late November,early April, 09:00,16:00
+1005,Taos,America, United States,2805,3795,113.0,27.0,28.0,58.0,,14.0,128.0, 2021-12-03,2022-04-18, late November,mid April, 09:00,16:00
+1006,Aspen Mountain,America, United States,2422,3418,103.0,0.0,49.0,54.0,,8.0,199.0, 2021-11-25,2022-04-17, late November,mid April, 09:00,15:30
+1007,Sierra at Tahoe,America, United States,2024,2698,46.5,12.0,23.0,11.5,,10.0,115.0, 2021-11-24,2022-04-18, early December,mid April, 08:30,16:00Limited opening times during the week
+1008,Homewood Mountain Resort,America, United States,1899,2402,20.0,6.0,13.0,1.0,20.0,,,,, early December,early April, 09:00,16:00
+1009,Whitefish Mountain Resort,America, United States,1361,2078,91.0,18.0,46.0,27.0,,14.0,85.0, 2021-12-04,2022-04-18, early December,early April, 09:00,16:00
+1011,Wolf Creek,America, United States,3139,3628,100.0,20.0,35.0,45.0,,8.0,80.0, 2021-10-30,2022-04-17, depending on snow conditions,early April, 08:30,16:00
+1012,Sugarbush,America, United States,452,1240,85.0,17.0,38.0,30.0,,15.0,119.0,,, late November,late March, 09:00,16:00
+1013,Angel Fire,America, United States,2591,3256,75.0,40.0,28.0,7.0,,5.0,79.0,,, early December,late April, 09:00,16:00
+1014,Sugarloaf,America, United States,426,1286,87.0,20.0,30.0,37.0,,12.0,119.0, 2021-11-20,2022-04-24, late November,mid April, 08:00,15:50
+1015,Okemo,America, United States,348,1019,70.0,22.0,26.0,22.0,,14.0,119.0, 2021-11-25,2022-04-18, late November,early April, 09:00,16:00
+1016,Purgatory   Durango,America, United States,2680,3299,85.0,15.0,40.0,30.0,,10.0,89.0,,, late November,mid April, 09:00,16:00
+1017,Brighton,America, United States,2668,3200,66.0,10.0,18.0,38.0,,6.0,97.0,,, mid November,early May, 09:00,16:00
+1018,Mt. Baker,America, United States,1070,1525,100.0,24.0,45.0,31.0,,10.0,68.58, 2021-11-19,2022-05-01, early November,mid April, 09:00,15:30
+1019,Sugar Bowl,America, United States,2098,2555,70.0,11.9,31.5,26.6,,14.0,125.0,,, late November,early April, 09:00,16:00
+1020,Bolton Valley,America, United States,440,960,30.0,15.0,10.0,5.0,,6.0,84.0,,, early December,mid April, 09:00,16:00
+1021,Solitude,America, United States,2434,3000,64.0,20.0,30.0,14.0,,8.0,125.0, 2021-11-27,2022-04-24, mid November,mid April, 09:00,16:00
+1022,Jay Peak,America, United States,563,1175,76.0,15.0,31.0,30.0,,7.0,89.0,,,,mid April, 08:30,16:00
+1023,Brian Head,America, United States,2926,3328,71.0,22.0,24.0,25.0,,8.0,59.0,,, mid November,early April, 10:00,16:00
+1024,Bretton Woods,America, United States,488,945,56.0,25.0,16.0,15.0,,8.0,104.0,,, mid November,early April, 09:00,16:00
+1025,Bear Valley,America, United States,2011,2590,67.0,17.0,27.0,23.0,,8.0,99.0,,, mid December,early April, 09:00,16:00
+1026,Red Lodge Mountain,America, United States,2138,2870,65.0,11.0,30.0,24.0,,6.0,84.0,,, late November,early April, 09:00,16:00
+1027,Mount Snow,America, United States,585,1095,60.0,6.0,46.0,8.0,,15.0,110.0,,, late November,late April, 08:00,16:00Limited opening times during the week
+1028,"[""Smugglers' Notch""]",America, United States,314,1112,78.0,13.0,41.0,24.0,,8.0,90.0, 2021-11-25,2022-04-18, late November,late April, 09:00,16:00
+1029,49 Degrees North Mountain Resort,America, United States,1195,1760,68.0,20.0,27.0,21.0,,7.0,62.0,,,,mid April,,
+1030,Alyeska Resort   Girdwood,America, United States,70,840,62.0,14.0,31.0,17.0,,5.0,89.0, 2021-12-11,2022-04-24, late November,mid April, 10:30,16:00
+1031,Mt. Rose,America, United States,2407,2957,60.0,12.0,18.0,30.0,,6.0,145.0, 2021-11-20,2022-04-24, mid November,late April, 09:00,16:00
+1032,Bridger Bowl   Bozeman,America, United States,1860,2682,71.0,20.0,26.0,25.0,10.0,9.0,63.0, 2021-12-16,2022-04-03, early December,early May, 09:00,16:00
+1033,Gore Mountain,America, United States,304,1097,58.2,6.7,28.2,23.3,,12.0,94.0,,, late November,mid April, 08:30,16:00
+1034,Bogus Basin,America, United States,1767,2311,50.0,11.0,22.0,17.0,,7.0,64.0,,,,mid April, 10:00,22:00
+1035,Kirkwood,America, United States,2377,2987,65.0,15.0,30.0,20.0,,13.0,119.0, 2021-12-03,2022-04-18, late November,late September, 09:00,16:00
+1036,Crystal Mountain (WA),America, United States,1341,2137,50.0,8.0,27.0,15.0,,10.0,149.0, 2021-11-19,2022-05-15, mid November,early April, 09:00,16:00
+1037,Snowbasin,America, United States,1950,2850,48.0,5.0,28.0,15.0,,9.0,135.0,,, mid November,mid April, 09:00,16:00
+1038,Loon Mountain,America, United States,300,930,45.0,13.0,26.0,6.0,,10.0,104.0, 2021-11-20,2022-04-18, mid November,early April, 08:00,16:00Limited opening times during the week
+1039,Timberline,America, United States,1478,2603,31.0,8.0,15.0,8.0,,7.0,89.0, 2021-10-29,2022-09-04, early November,mid April, 09:00,16:00
+1040,Apache,America, United States,2926,3475,55.0,12.0,18.0,25.0,,11.0,,,,,early April,,
+1041,Hunter Mountain,America, United States,487,975,55.0,18.0,18.0,19.0,,12.0,91.0,,,,early May, 08:30,16:00
+1042,Tamarack Resort,America, United States,1490,2347,42.0,12.0,20.0,10.0,,6.0,100.0, 2021-11-26,2022-04-03, early December,early April, 09:00,16:00
+1043,Windham Mountain,America, United States,458,945,46.0,20.0,16.0,10.0,,7.0,,,,,late March,,
+1044,Arizona Snowbowl,America, United States,2804,3505,37.0,12.0,14.0,11.0,,6.0,99.0,,,,mid April, 09:00,16:00
+1045,Mt. Hood Skibowl,America, United States,1120,1510,65.0,15.0,15.0,35.0,,9.0,59.0,,, mid November,mid April, 09:00,22:00Limited opening times during the week
+1046,Holiday Valley,America, United States,457,685,48.0,16.0,13.0,19.0,,13.0,85.0,,,,early April, 08:30,22:00
+1047,Grand Targhee,America, United States,2310,3048,35.0,5.0,15.0,15.0,,4.0,110.0, 2021-11-19,2022-04-18, late November,early April, 09:00,16:00
+1048,Cannon Mountain,America, United States,599,1243,50.0,15.0,25.0,10.0,,11.0,79.0,,,,early April, 08:30,16:30
+1049,Stevens Pass,America, United States,1170,1750,39.0,6.0,18.0,15.0,20.0,10.0,100.0,,, early December,mid April, 09:00,22:00
+1050,Lutsen Mountains,America, United States,263,515,40.0,8.0,19.0,13.0,,7.0,84.0,,,,early April, 09:00,16:00Limited opening times during the week
+1051,Eldora Mountain,America, United States,2804,3292,52.0,11.0,26.0,15.0,,10.0,129.0,,, late November,early April, 09:00,16:00
+1052,Loveland,America, United States,3245,3871,93.0,12.0,38.0,43.0,,9.0,89.0, 2021-10-30,2022-05-08, early October,mid April, 09:00,16:00
+1053,Powderhorn,America, United States,2499,3000,38.0,5.0,15.0,18.0,,3.0,79.0,,, late November,early April, 10:00,17:00
+1054,White Pass,America, United States,1371,1986,30.0,10.0,12.0,8.0,,6.0,,,,,early April,,
+1055,Pico Mountain,America, United States,610,1209,30.4,5.4,14.0,11.0,,7.0,85.0,,, mid December,early April, 09:00,16:00
+1056,Lost Trail Powder Mountain,America, United States,1960,2550,50.0,15.0,25.0,10.0,,8.0,46.0,,,,early April, 09:30,16:00Limited opening times during the week
+1057,Sundance,America, United States,1850,2515,44.0,15.0,20.0,9.0,,6.0,85.0,,, early December,late April, 09:00,21:00
+1058,China Peak,America, United States,2147,2630,50.0,20.0,17.0,13.0,,7.0,,,,,early April,,
+1059,Discovery Ski Area,America, United States,1758,2484,45.0,12.0,12.0,21.0,30.0,7.0,49.0,,, late November,early April, 09:00,16:00
+1060,Mad River Glen,America, United States,487,1108,46.0,14.0,17.0,15.0,,4.0,92.0,,, early December,early May, 09:00,16:00
+1061,June Mountain,America, United States,2288,3075,35.7,2.1,12.9,20.7,,6.0,129.0, 2021-12-11,2022-04-18, mid December,early April, 08:30,16:00
+1062,Gunstock,America, United States,264,690,40.0,5.0,25.0,10.0,,6.0,,,,,mid April,,
+1063,Donner Ski Ranch,America, United States,2142,2371,52.0,13.0,26.0,13.0,,6.0,79.0,,, mid December,early April, 09:00,16:00
+1064,Great Divide,America, United States,1752,2210,50.0,10.0,20.0,20.0,,6.0,,,,,late March,,
+1065,Dodge Ridge,America, United States,2011,2499,50.0,10.0,20.0,20.0,,10.0,78.0,,, early December,early April, 09:00,16:00
+1066,Attitash Mountain Resort,America, United States,183,716,37.0,7.4,17.4,12.2,,8.0,94.0, 2021-12-11,2022-04-03, late November,early April, 09:00,16:00
+1067,Cranmore Mountain Resort,America, United States,267,609,43.0,16.0,19.0,8.0,7.0,6.0,89.0,,, mid December,mid April, 09:00,16:00
+1068,Mt. Sunapee,America, United States,385,828,30.0,8.0,16.0,6.0,,8.0,99.0,,,,mid March, 08:00,16:00Limited opening times during the week
+1069,Silver Mountain,America, United States,1250,1920,25.0,4.0,8.0,13.0,,6.0,62.0,,,,early April, 08:15,17:00
+1070,Brundage Mountain,America, United States,1780,2328,30.0,6.0,15.0,9.0,,5.0,70.0,,, mid November,early April, 09:30,16:30
+1071,Bear Mountain   Big Bear Lake,America, United States,2176,2684,27.2,8.0,11.2,8.0,,,,,,,early April,,
+1072,Snowshoe Mountain,America, United States,1000,1478,31.0,14.0,11.0,6.0,,12.0,119.0, 2021-12-03,2022-03-27, late November,late March, 09:00,16:30
+1073,Ragged Mountain,America, United States,340,680,22.5,4.5,10.0,8.0,,4.0,84.0,,,,late March, 09:00,16:00
+1074,Terry Peak,America, United States,1800,2130,16.0,4.7,7.2,4.1,,4.0,58.0,,,,early April, 09:00,16:00
+1075,Granite Peak at Rib Mountain State Park,America, United States,380,594,20.0,10.0,5.0,5.0,,5.0,82.0,,, early December,late March, 08:30,16:00
+1076,Santa Fé,America, United States,3154,3679,34.0,9.0,15.0,10.0,,5.0,80.0,,, late November,late March, 09:00,16:00
+1077,Snow Valley,America, United States,2050,2390,34.0,4.0,20.0,10.0,,9.0,89.0,,, late November,mid April, 08:30,16:00
+1078,Wildcat Mountain,America, United States,594,1238,25.0,5.2,12.1,7.7,,4.0,94.0, 2021-12-10,2022-04-10, late November,early April, 08:30,15:30
+1079,Beaver Mountain,America, United States,2195,2700,30.0,10.0,12.0,8.0,,4.0,50.0,,, early December,early April, 09:00,16:00
+1080,Saddleback,America, United States,646,1220,22.0,4.0,8.0,10.0,,4.0,79.0,,, mid December,, 08:30,15:55Limited opening times during the week
+1081,Camelback,America, United States,380,623,34.0,20.0,11.0,3.0,,9.0,70.0,,,,, 09:00,16:00
+1082,Waterville Valley,America, United States,605,1220,25.0,3.5,16.0,5.5,,9.0,,,,,,,
+1083,Willamette Pass   Crescent,America, United States,1560,2036,29.0,6.0,13.0,10.0,,5.0,60.0,,, mid November,, 09:00,16:00
+1084,Snow Summit   Big Bear Lake,America, United States,2130,2500,29.0,10.0,12.0,7.0,,,,,,,,,
+1085,Montana Snowbowl,America, United States,1523,2316,31.0,5.0,12.0,14.0,,5.0,50.0,,,,, 09:00,16:00Limited opening times during the week
+1086,Timberline Mountain,America, United States,996,1301,18.0,6.0,6.0,6.0,,2.0,,,,,,,
+1087,Lookout Pass,America, United States,1450,1675,31.0,8.0,14.0,9.0,,4.0,49.0,,,,, 08:30,16:00
+1088,Belleayre Mountain,America, United States,617,1045,20.0,5.0,11.0,4.0,,5.0,95.0, 2021-12-10,2022-04-04, late November,, 09:00,16:00
+1089,Mountain Creek   Vernon,America, United States,134,451,24.0,4.0,14.0,6.0,,7.0,79.99,,,,,,
+1090,The Summit at Snoqualmie,America, United States,800,1180,27.9,5.2,13.7,9.0,100.0,21.0,95.0,,, early December,, 09:00,16:00
+1091,Haystack Mountain   The Hermitage Club,America, United States,550,975,19.3,5.6,9.5,4.2,,,,,,,, 09:00,22:00
+1092,Sandia Peak,America, United States,2630,3140,31.0,8.0,20.0,3.0,,5.0,55.0,,,,, 09:00,20:00
+1093,Bristol Mountain,America, United States,304,670,20.0,6.0,10.0,4.0,,5.0,79.0,,,,, 09:00,10:00
+1094,Mt. Spokane,America, United States,1185,1795,26.0,7.0,5.0,14.0,,6.0,62.0,,,,, 09:00,21:30
+1095,Monarch,America, United States,3290,3630,31.0,5.0,14.0,12.0,,5.0,89.0,,, mid November,, 09:00,16:00
+1096,Pats Peak,America, United States,180,426,33.0,10.0,8.0,15.0,,9.0,72.0,,,,, 08:30,16:00
+1097,Wachusett Mountain,America, United States,306,611,12.0,3.6,4.8,3.6,,4.0,71.0,,, early December,, 09:00,16:00
+1098,Boyne Highlands,America, United States,240,408,25.7,10.3,7.7,7.7,,8.0,98.0,,,,, 09:00,16:30
+1099,Granby Ranch,America, United States,2499,2804,20.0,6.0,10.0,4.0,,5.0,84.0,,, mid December,, 09:00,16:00
+1100,Magic Mountain,America, United States,350,868,23.0,7.0,7.0,9.0,,5.0,74.0,,, mid December,, 08:30,16:00Limited opening times during the week
+1101,Blue Mountain,America, United States,140,470,18.0,10.0,6.0,2.0,,6.0,79.0,,,,, 08:30,22:00
+1102,Diamond Peak,America, United States,2042,2602,17.0,2.0,8.0,7.0,,6.0,109.0,,, mid December,, 08:00,16:00
+1103,Titus Mountain,America, United States,58,423,27.0,10.0,10.0,7.0,,10.0,49.0,,, mid December,, 09:00,22:00
+1104,Sugar Mountain,America, United States,1249,1589,14.0,4.0,7.0,3.0,,7.0,75.0,,,,, 09:00,16:30
+1105,Maverick Mountain,America, United States,1980,2596,20.0,6.0,8.0,6.0,,1.0,39.0,,,,, 09:30,16:00
+1106,Soldier Mountain,America, United States,1770,2188,25.0,9.0,8.0,8.0,,2.0,,,,,,,
+1107,Boreal,America, United States,2195,2357,20.0,6.0,11.0,3.0,,,,,, early December,, 09:00,21:00
+1108,Mountain High East,America, United States,2010,2496,11.0,2.0,5.0,4.0,,4.0,,,,,,,
+1109,Cooper,America, United States,3200,3566,26.0,8.0,10.0,8.0,,4.0,56.0,,,,, 09:00,16:00
+1110,Pebble Creek,America, United States,1938,2609,19.0,6.0,9.0,4.0,,3.0,47.0,,,,, 09:30,16:00
+1111,Shawnee Peak,America, United States,160,550,23.0,4.0,12.0,7.0,,4.0,75.0,,,,, 09:00,16:00
+1112,Mt. Baldy,America, United States,1977,2620,20.0,3.0,6.0,11.0,,4.0,76.0,,, late November,, 09:00,16:00
+1113,Mt. Shasta Ski Park,America, United States,1670,2100,23.0,5.0,8.0,10.0,,3.0,65.0,,,,, 09:00,21:00
+1114,Butternut,America, United States,250,540,22.0,4.4,13.2,4.4,,5.0,65.0,,,,, 08:15,16:00Limited opening times during the week
+1115,Sunlight Mountain,America, United States,2403,3015,20.0,4.0,11.0,5.0,,3.0,65.0,,, early December,, 09:00,16:00
+1116,Holimont,America, United States,475,689,20.0,4.0,6.0,10.0,,8.0,75.0,,,,, 09:30,16:20
+1117,Seven Springs,America, United States,690,915,17.0,6.0,7.0,4.0,,10.0,89.0,,,,, 09:00,22:00
+1118,Cherry Peak,America, United States,2250,2635,20.0,5.0,10.0,5.0,,3.0,40.0,,, late November,, 09:00,21:00
+1119,Red River,America, United States,2640,3135,20.0,7.0,6.0,7.0,,7.0,79.0,,,,, 09:00,16:00
+1120,Showdown,America, United States,2090,2500,20.0,6.0,8.0,6.0,,3.0,47.0,,,,, 09:30,16:00
+1121,Burke Mountain,America, United States,371,975,10.0,2.0,4.0,4.0,,5.0,73.0,,,,, 10:00,16:00
+1122,Cascade Mountain,America, United States,250,378,14.0,5.0,5.0,4.0,,10.0,,,,,,,
+1123,Nordic Valley,America, United States,1632,2153,9.5,2.5,4.0,3.0,,4.0,50.0,,, mid November,, 09:00,21:00
+1124,Eagle Point,America, United States,2773,3230,20.0,6.0,9.0,5.0,,5.0,,,,,,,
+1125,Arctic Valley,America, United States,762,1188,25.0,5.0,10.0,10.0,,4.0,45.0,,,,, 10:30,16:00Limited opening times during the week
+1126,Mountain High West,America, United States,2110,2410,15.0,3.0,5.0,7.0,,5.0,,,,,,,
+1127,Greek Peak,America, United States,350,640,19.0,9.0,4.0,6.0,,6.0,84.0,,, early December,, 09:30,18:00
+1128,Bigrock Mountain,America, United States,200,498,20.0,2.0,14.0,4.0,,2.0,40.0,,,,, 09:00,16:00
+1129,Wintergreen Resort,America, United States,766,1071,10.0,2.0,4.0,4.0,,5.0,,,,,,,
+1130,Shawnee Mountain,America, United States,145,350,18.0,4.0,9.0,5.0,,6.0,65.0,,,,, 09:00,21:00
+1131,Pine Creek,America, United States,2095,2508,16.0,4.0,7.0,5.0,,1.0,45.0,,,,, 09:30,16:00
+1132,Wisp   McHenry (Deep Creek Lake),America, United States,736,950,16.0,5.6,6.1,4.3,,8.0,89.0,,,,, 10:00,16:00
+1133,Plattekill,America, United States,696,1014,16.5,4.5,6.0,6.0,,3.0,67.0,,,,, 08:45,16:15
+1134,Kissing Bridge,America, United States,378,520,17.8,4.5,4.8,8.5,,8.0,,,,,,,
+1135,Eaglecrest   Juneau,America, United States,350,820,17.0,3.4,6.8,6.8,,4.0,59.0,,,,, 09:00,15:00
+1136,Snowy Range,America, United States,2678,2945,16.5,4.5,9.0,3.0,,4.0,49.0,,,,, 09:00,16:00
+1137,Blue Knob,America, United States,634,960,16.0,5.0,8.0,3.0,,4.0,75.0,,,,, 10:00,21:00
+1138,Skiland   Mt. Aurora,America, United States,425,745,17.0,4.0,9.0,4.0,,1.0,40.0,,,,, 10:00,17:00Limited opening times during the week
+1139,Boyne Mountain,America, United States,220,372,14.0,4.5,6.0,3.5,,10.0,98.0,,,,, 09:00,16:30
+1140,Labrador Mountain,America, United States,360,570,17.0,6.0,6.0,5.0,,4.0,61.0,,, early December,, 09:00,16:30Limited opening times during the week
+1141,Hoodoo Ski Area,America, United States,1430,1740,17.0,6.0,8.0,3.0,,5.0,59.0,,,,, 09:00,16:00
+1142,Alpental,America, United States,962,1670,9.6,0.5,2.3,6.8,,4.0,,,,,,,
+1143,Snow King Mountain   Jackson,America, United States,1900,2380,9.0,3.0,2.5,3.5,,5.0,59.0,,, early December,, 10:00,16:00
+1144,Giants Ridge,America, United States,440,560,12.0,4.0,5.0,3.0,,6.0,58.0,,,,, 09:30,16:30
+1145,"[""Nub's Nob Ski Area""]",America, United States,280,403,18.9,6.2,9.0,3.7,,11.0,85.0,,,,, 09:00,16:30
+1146,Sipapu,America, United States,2500,2825,18.0,3.0,7.0,8.0,,5.0,55.0,,,,, 09:00,16:00
+1147,Middlebury College Snow Bowl,America, United States,555,810,15.0,5.0,4.0,6.0,,3.0,60.0,,,,, 08:30,16:00Limited opening times during the week
+1148,Pomerelle,America, United States,2358,2640,15.0,4.0,7.0,4.0,,2.0,45.0,,,,, 09:00,16:00Limited opening times during the week
+1149,Berkshire East,America, United States,201,561,13.0,6.0,4.0,3.0,,4.0,72.0,,,,, 09:00,16:30
+1150,Sleeping Giant,America, United States,2025,2265,17.0,3.0,8.0,6.0,,2.0,46.0,,,,, 09:30,16:00
+1151,Catamount,America, United States,280,580,15.0,8.0,4.0,3.0,,5.0,,,,,,,
+1152,Beech Mountain,America, United States,1424,1678,14.0,3.0,7.0,4.0,,7.0,,,,,,,
+1153,Whitetail,America, United States,261,545,10.2,1.5,5.6,3.1,,6.0,79.0,,,,, 08:30,22:00
+1154,Dollar Mountain   Sun Valley,America, United States,1832,2023,9.0,7.0,2.0,0.0,,4.0,139.0,,,,,,
+1155,Kelly Canyon,America, United States,1780,2030,12.0,4.0,5.0,3.0,,4.0,42.0,,,,, 09:30,17:00
+1156,Mt. Ashland,America, United States,1932,2286,13.0,1.0,7.0,5.0,,4.0,52.0,,,,, 09:00,16:00
+1157,Song Mountain,America, United States,400,585,13.0,4.5,6.0,2.5,,5.0,59.0,,,,, 09:30,21:00
+1158,Shanty Creek Resorts   Schuss Mountain,America, United States,250,356,12.0,5.0,4.0,3.0,,5.0,73.0,,,,, 09:00,21:00Limited opening times during the week
+1159,Jiminy Peak,America, United States,380,724,9.1,4.1,2.0,3.0,,7.0,91.0,,,,, 08:30,22:00Limited opening times during the week
+1160,Crotched Mountain,America, United States,362,630,8.0,2.5,4.0,1.5,,4.0,69.0,,,,, 09:00,21:00
+1161,Teton Pass,America, United States,1886,2194,15.0,6.0,5.0,4.0,,6.0,50.0,,, late November,, 09:30,16:00
+1162,Loup Loup Ski Bowl,America, United States,1240,1620,11.0,3.0,5.0,3.0,,3.0,50.0,,,,, 09:00,15:45Limited opening times during the week
+1163,Caberfae Peaks,America, United States,357,467,11.0,4.0,5.0,2.0,,5.0,59.0,,,,, 09:00,21:00
+1164,Mt. Kato,America, United States,241,313,12.0,2.5,4.5,5.0,,10.0,46.0,,,,, 09:30,21:00Limited opening times during the week
+1165,Bromley Mountain,America, United States,594,1001,,,,,,,91.0,,,,, 08:30,16:00
+1166,"[""Devil's Head""]",America, United States,150,303,10.0,3.0,3.5,3.5,,6.0,,,,,,,
+1167,Big Powderhorn Mountain,America, United States,350,540,10.0,3.5,3.5,3.0,,10.0,69.0,,,,, 09:00,16:00
+1168,Mt. Bohemia,America, United States,190,445,13.0,0.0,3.0,10.0,,2.0,68.0,,, mid December,, 09:30,17:00Limited opening times during the week
+1169,Jack Frost Mountain,America, United States,427,610,12.0,6.0,5.5,0.5,,11.0,103.0,,,,, 09:00,21:00
+1170,Bear Creek Mountain Resort,America, United States,180,335,10.0,3.0,4.0,3.0,,4.0,60.0,,,,, 09:00,21:00
+1171,Tahoe Donner,America, United States,2057,2240,14.0,6.0,8.0,0.0,,2.0,89.0,,, early December,, 09:00,16:00
+1172,Suicide Six,America, United States,220,411,10.5,3.5,4.0,3.0,,3.0,75.0,,,,, 09:00,16:00
+1173,Whaleback,America, United States,347,543,11.5,5.2,2.8,3.5,,3.0,,,,,,,
+1174,Meadowlark Ski Lodge,America, United States,2585,2828,10.0,3.0,4.0,3.0,,3.0,,,,,,,
+1175,Swain,America, United States,400,600,10.9,3.0,4.2,3.7,,5.0,,,,,,,
